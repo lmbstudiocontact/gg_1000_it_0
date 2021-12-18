@@ -1,0 +1,29 @@
+{
+  "english": "mislead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạc đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa dối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỉnh lừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (someone) to have a wrong idea or impression about someone or something.",
+      "definitions_ex_en": "fans believed they were misled about the reasons for the cancellation",
+      "definitions_ex_vn": "Người hâm mộ tin rằng họ đã bị đánh lừa về những lý do để hủy bỏ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

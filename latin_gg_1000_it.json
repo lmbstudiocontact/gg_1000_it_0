@@ -1,0 +1,35 @@
+{
+  "english": "latin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ La tinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the language of ancient Rome and its empire, widely used historically as a language of scholarship and administration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a native or inhabitant of a country whose language developed from Latin, especially a Latin American.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or in the Latin language.",
+      "definitions_ex_en": "Latin poetry",
+      "definitions_ex_vn": "Thơ Latin.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the countries or peoples using languages, especially Spanish, that developed from Latin.",
+      "definitions_ex_en": "Mexico and other Latin countries",
+      "definitions_ex_vn": "Mexico và các nước Latinh khác",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

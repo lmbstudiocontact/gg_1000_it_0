@@ -1,0 +1,31 @@
+{
+  "english": "influence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm có ảnh hưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity to have an effect on the character, development, or behavior of someone or something, or the effect itself.",
+      "definitions_ex_en": "the influence of television violence",
+      "definitions_ex_vn": "ảnh hưởng của bạo lực truyền hình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have an influence on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

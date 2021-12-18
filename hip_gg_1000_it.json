@@ -1,0 +1,57 @@
+{
+  "english": "hip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ nóc nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dã tường vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng ưu uất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm buồn rầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a projection of the pelvis and upper thigh bone on each side of the body in human beings and quadrupeds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sharp edge of a roof from the ridge to the eaves where the two sides meet.",
+      "definitions_ex_en": "hip tiles",
+      "definitions_ex_vn": "gạch hông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fruit of a rose, especially a wild kind.",
+      "definitions_ex_en": "the hips and haws in the hedges",
+      "definitions_ex_vn": "hông và diều hâu trong hàng rào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "following the latest fashion, especially in popular music and clothes.",
+      "definitions_ex_en": "it's becoming hip to be environmentally conscious",
+      "definitions_ex_vn": "Nó trở thành hông để có ý thức về môi trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to introduce a communal cheer.",
+      "definitions_ex_en": "hip hip hooray!",
+      "definitions_ex_vn": "hông hip horay!",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

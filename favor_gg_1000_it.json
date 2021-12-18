@@ -1,0 +1,81 @@
+{
+  "english": "favor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ân huệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưa thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc ân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giúp đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh thiên vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm ơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủng hộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "approval, support, or liking for someone or something.",
+      "definitions_ex_en": "the legislation is viewed with favor",
+      "definitions_ex_vn": "Pháp luật được xem với sự ủng hộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of kindness beyond what is due or usual.",
+      "definitions_ex_en": "I've come to ask you a favor",
+      "definitions_ex_vn": "Tôi đã đến để hỏi bạn một việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel or show approval or preference for.",
+      "definitions_ex_en": "slashing public spending is a policy that few politicians favor",
+      "definitions_ex_vn": "cắt giảm chi tiêu công là một chính sách mà ít chính trị gia ủng hộ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(often used in polite requests) give someone (something that they want).",
+      "definitions_ex_en": "please favor me with an answer",
+      "definitions_ex_vn": "Xin hãy ủng hộ tôi với một câu trả lời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (an injured limb) gently, not putting one's full weight on it.",
+      "definitions_ex_en": "he favors his sore leg",
+      "definitions_ex_vn": "anh ấy ủng hộ chân đau của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

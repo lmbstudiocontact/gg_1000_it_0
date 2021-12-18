@@ -1,0 +1,25 @@
+{
+  "english": "insect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài bọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài côn trùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small arthropod animal that has six legs and generally one or two pairs of wings.",
+      "definitions_ex_en": "insect pests",
+      "definitions_ex_vn": "côn trùng gây hại",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

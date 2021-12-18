@@ -1,0 +1,91 @@
+{
+  "english": "engage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bận việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đính hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa hẹn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mắc việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuê trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ước hẹn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occupy, attract, or involve (someone's interest or attention).",
+      "definitions_ex_en": "he plowed on, trying to outline his plans and engage Sutton's attention",
+      "definitions_ex_vn": "Anh ta cày xới, cố gắng phác thảo kế hoạch của mình và thu hút sự chú ý của Sutton",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "participate or become involved in.",
+      "definitions_ex_en": "organizations engage in a variety of activities",
+      "definitions_ex_vn": "tổ chức tham gia vào một loạt các hoạt động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange to employ or hire (someone).",
+      "definitions_ex_en": "he was engaged as a trainee copywriter",
+      "definitions_ex_vn": "Ông đã tham gia như một copywriter thực tập sinh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to a part of a machine or engine) move into position so as to come into operation.",
+      "definitions_ex_en": "the clutch will not engage",
+      "definitions_ex_vn": "ly hợp sẽ không tham gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of fencers or swordsmen) bring (weapons) together preparatory to fighting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a writer, artist, or their works) morally committed to a particular aim or cause.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "discover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "find (something or someone) unexpectedly or in the course of a search.",
+      "definitions_ex_en": "firemen discovered a body in the debris",
+      "definitions_ex_vn": "Lính cứu hỏa phát hiện ra một cơ thể trong các mảnh vỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divulge (a secret).",
+      "definitions_ex_en": "they contain some secrets which Time will discover",
+      "definitions_ex_vn": "Chúng chứa một số bí mật mà thời gian sẽ khám phá",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "eyeball",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mắt tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the round part of the eye of a vertebrate, within the eyelids and socket. In mammals it is typically a firm, mobile, spherical structure enclosed by the sclera and the cornea.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "look or stare at closely.",
+      "definitions_ex_en": "we eyeballed one another",
+      "definitions_ex_vn": "Chúng tôi chọn một người khác",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "limit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên khu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạn chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạn định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết chế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point or level beyond which something does not or may not extend or pass.",
+      "definitions_ex_en": "the 10-minute limit on speeches",
+      "definitions_ex_vn": "Giới hạn 10 phút về bài phát biểu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a restriction on the size or amount of something permissible or possible.",
+      "definitions_ex_en": "an age limit",
+      "definitions_ex_vn": "một giới hạn tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point or value that a sequence, function, or sum of a series can be made to approach progressively, until it is as close to the point or value as desired.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set or serve as a limit to.",
+      "definitions_ex_en": "try to limit the amount you drink",
+      "definitions_ex_vn": "Cố gắng giới hạn số tiền bạn uống",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

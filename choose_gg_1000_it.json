@@ -1,0 +1,29 @@
+{
+  "english": "choose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kén chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lựa chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyển chọn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pick out or select (someone or something) as being the best or most appropriate of two or more alternatives.",
+      "definitions_ex_en": "he chose a seat facing the door",
+      "definitions_ex_vn": "Anh chọn một chỗ ngồi đối diện với cánh cửa",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

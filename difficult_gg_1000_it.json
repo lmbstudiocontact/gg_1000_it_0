@@ -1,0 +1,25 @@
+{
+  "english": "difficult",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó làm quen",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "needing much effort or skill to accomplish, deal with, or understand.",
+      "definitions_ex_en": "she had a difficult decision to make",
+      "definitions_ex_vn": "cô ấy đã có một quyết định khó khăn để thực hiện",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

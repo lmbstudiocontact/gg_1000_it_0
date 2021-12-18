@@ -1,0 +1,39 @@
+{
+  "english": "butcher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán dạo trên xe lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bán thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hung ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mổ xẻ vụng về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem làm thịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose trade is cutting up and selling meat in a shop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "slaughter or cut up (an animal) for food.",
+      "definitions_ex_en": "the meat will be butchered for the local market",
+      "definitions_ex_vn": "Thịt sẽ bị tàn sát cho thị trường địa phương",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

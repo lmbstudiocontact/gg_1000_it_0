@@ -1,0 +1,59 @@
+{
+  "english": "manage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông nom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áp phục người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế ngự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉnh đốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuần hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu xếp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be in charge of (a company, establishment, or undertaking); administer; run.",
+      "definitions_ex_en": "their elder son managed the farm",
+      "definitions_ex_vn": "Người đàn ông của họ quản lý trang trại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in surviving or in attaining one's aims, especially against heavy odds; cope.",
+      "definitions_ex_en": "Catherine managed on five hours' sleep a night",
+      "definitions_ex_vn": "Catherine quản lý trong năm giờ ngủ một đêm",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

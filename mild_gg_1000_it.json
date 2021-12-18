@@ -1,0 +1,47 @@
+{
+  "english": "mild",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ấm áp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "êm ái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dịu dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nghiêm khắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngọt ngào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ôn hòa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuốc nhẹ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not severe, serious, or harsh.",
+      "definitions_ex_en": "he received a mild sentence",
+      "definitions_ex_vn": "anh ấy đã nhận được một câu nhẹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "gentle and not easily provoked.",
+      "definitions_ex_en": "she was implacable, despite her mild exterior",
+      "definitions_ex_vn": "Cô ấy đã không thể hiểu được, mặc dù bên ngoài nhẹ của cô ấy",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "confirm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "củng cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê chuẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vửng chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "establish the truth or correctness of (something previously believed, suspected, or feared to be the case).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "administer the religious rite of confirmation to.",
+      "definitions_ex_en": "he had been baptized and confirmed",
+      "definitions_ex_vn": "ông đã được rửa tội và xác nhận",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

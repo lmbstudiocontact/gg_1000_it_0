@@ -1,0 +1,39 @@
+{
+  "english": "interpret",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thông ngôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diển tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông dịch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "explain the meaning of (information, words, or actions).",
+      "definitions_ex_en": "the evidence is difficult to interpret",
+      "definitions_ex_vn": "Bằng chứng rất khó diễn giải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "translate orally or into sign language the words of a person speaking a different language.",
+      "definitions_ex_en": "I agreed to interpret for Jean-Claude",
+      "definitions_ex_vn": "Tôi đồng ý giải thích cho Jean-Claude",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "indebtedness",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mang nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắc nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếu nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of owing money.",
+      "definitions_ex_en": "the industry is taking steps to reduce indebtedness and cut costs",
+      "definitions_ex_vn": "Ngành công nghiệp đang thực hiện các bước để giảm nợ và giảm chi phí",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "from",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đó",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ khi",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "indicating the point in space at which a journey, motion, or action starts.",
+      "definitions_ex_en": "she began to walk away from him",
+      "definitions_ex_vn": "Cô bắt đầu rời xa anh.",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the point in time at which a particular process, event, or activity starts.",
+      "definitions_ex_en": "the show will run from 10 to 2",
+      "definitions_ex_vn": "Chương trình sẽ chạy từ 10 đến 2",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the source or provenance of someone or something.",
+      "definitions_ex_en": "I'm from Hartford",
+      "definitions_ex_vn": "Tôi đến từ Hartford.",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the starting point of a specified range on a scale.",
+      "definitions_ex_en": "men who ranged in age from seventeen to eighty-four",
+      "definitions_ex_vn": "những người đàn ông dao động trong độ tuổi từ mười bảy đến tám mươi bốn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the point at which an observer is placed.",
+      "definitions_ex_en": "you can see the island from here",
+      "definitions_ex_vn": "Bạn có thể nhìn thấy hòn đảo từ đây",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the raw material out of which something is manufactured.",
+      "definitions_ex_en": "a varnish made from copal",
+      "definitions_ex_vn": "một vecni được làm từ copal",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating separation or removal.",
+      "definitions_ex_en": "the party was ousted from power after sixteen years",
+      "definitions_ex_vn": "Bữa tiệc đã bị lật đổ khỏi quyền lực sau mười sáu năm",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating prevention.",
+      "definitions_ex_en": "the story of how he was saved from death",
+      "definitions_ex_vn": "Câu chuyện về cách anh ta được cứu khỏi cái chết",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating a cause.",
+      "definitions_ex_en": "a child suffering from asthma",
+      "definitions_ex_vn": "Một đứa trẻ bị hen suyễn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating a source of knowledge or the basis for one's judgment.",
+      "definitions_ex_en": "information obtained from papers, books, and presentations",
+      "definitions_ex_vn": "thông tin thu được từ giấy tờ, sách và thuyết trình",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating a distinction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "preposition"
+    }
+  ]
+}

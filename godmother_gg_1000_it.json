@@ -1,0 +1,27 @@
+{
+  "english": "godmother",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mẹ đở đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẹ nuôi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman who presents a child at baptism and promises to take responsibility for their religious education.",
+      "definitions_ex_en": "Miss Weeton was godmother to one of his children",
+      "definitions_ex_vn": "Cô Weeton là người mẹ đỡ đầu với một trong những đứa con của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman who is influential or pioneering in a movement or organization.",
+      "definitions_ex_en": "she has been called the godmother of Quebec business",
+      "definitions_ex_vn": "Cô đã được gọi là ModMother of Quebec kinh doanh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

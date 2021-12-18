@@ -1,0 +1,27 @@
+{
+  "english": "bracing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết lại cho vững",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nối lại cho chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fresh and invigorating.",
+      "definitions_ex_en": "the bracing sea air",
+      "definitions_ex_vn": "không khí trên biển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a support) serving to brace a structure.",
+      "definitions_ex_en": "bracing struts",
+      "definitions_ex_vn": "Girruts giằng",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

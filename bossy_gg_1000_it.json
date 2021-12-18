@@ -1,0 +1,25 @@
+{
+  "english": "bossy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hách dịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người thích chỉ huy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người thích điều khiển",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fond of giving people orders; domineering.",
+      "definitions_ex_en": "she was bossy, scared of nobody, and full of vinegar",
+      "definitions_ex_vn": "Cô ấy hách dịch, sợ ai, và đầy giấm",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

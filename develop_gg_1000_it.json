@@ -1,0 +1,71 @@
+{
+  "english": "develop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai khẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai triển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuếch trương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nẩy nở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nở nang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rữa phim ảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xổ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grow or cause to grow and become more mature, advanced, or elaborate.",
+      "definitions_ex_en": "motion pictures developed into mass entertainment",
+      "definitions_ex_vn": "Hình ảnh chuyển động được phát triển thành giải trí hàng loạt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "start to exist, experience, or possess.",
+      "definitions_ex_en": "a strange closeness developed",
+      "definitions_ex_vn": "một sự gần gũi kỳ lạ phát triển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (a photographic film) with chemicals to make a visible image.",
+      "definitions_ex_en": "she came to get the film developed",
+      "definitions_ex_vn": "Cô ấy đã đến để có được bộ phim phát triển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (a piece) into play from its initial position on a player's back rank.",
+      "definitions_ex_en": "he preferred to develop his bishop on e7",
+      "definitions_ex_vn": "Anh ấy thích phát triển giám mục của mình trên E7",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

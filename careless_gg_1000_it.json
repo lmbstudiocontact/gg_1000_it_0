@@ -1,0 +1,37 @@
+{
+  "english": "careless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩu thả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chú ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không lo lắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không lưu ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô tư lự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not giving sufficient attention or thought to avoiding harm or errors.",
+      "definitions_ex_en": "she had been careless and had left the window unlocked",
+      "definitions_ex_vn": "Cô ấy đã bất cẩn và đã rời khỏi cửa sổ đã mở khóa",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

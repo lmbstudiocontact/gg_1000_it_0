@@ -1,0 +1,33 @@
+{
+  "english": "fully",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy đặn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đầy đủ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "completely or entirely; to the furthest extent.",
+      "definitions_ex_en": "I fully understand the fears of the workers",
+      "definitions_ex_vn": "Tôi hoàn toàn hiểu nỗi sợ hãi của công nhân",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "no less or fewer than (used to emphasize an amount).",
+      "definitions_ex_en": "fully 65 percent of all funerals are by cremation",
+      "definitions_ex_vn": "Hoàn toàn 65 phần trăm của tất cả các đám tang là bởi hỏa táng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "forming adverbs corresponding to adjectives ending in -ful (such as sorrowfully corresponding to sorrowful ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "english": "flesh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt của trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt dùng làm đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm quen mùi máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mập ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thỏa thích dục vọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the soft substance consisting of muscle and fat that is found between the skin and bones of an animal or a human.",
+      "definitions_ex_en": "she grabbed Anna's arm, her fingers sinking into the flesh",
+      "definitions_ex_vn": "Cô nắm lấy cánh tay của Anna, những ngón tay của cô chìm xuống xác thịt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put weight on.",
+      "definitions_ex_en": "he had fleshed out to a solid 220 pounds",
+      "definitions_ex_vn": "Anh ta đã xác thịt ra một 220 pound rắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (a hound or hawk) a piece of the flesh of game that has been killed in order to incite it.",
+      "definitions_ex_en": "I have fleshed my bloodhound",
+      "definitions_ex_vn": "Tôi đã xác thịt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove the flesh adhering to (a skin or hide).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

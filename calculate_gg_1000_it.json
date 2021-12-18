@@ -1,0 +1,35 @@
+{
+  "english": "calculate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho thích hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính toán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng rằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù hoạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "determine (the amount or number of something) mathematically.",
+      "definitions_ex_en": "Japanese land value was calculated at 2.5 times that of the U.S",
+      "definitions_ex_vn": "Giá trị đất Nhật Bản được tính là 2,5 lần so với Hoa Kỳ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intend (an action) to have a particular effect.",
+      "definitions_ex_en": "his last words were calculated to wound her",
+      "definitions_ex_vn": "những lời cuối cùng của anh ấy được tính toán để làm cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

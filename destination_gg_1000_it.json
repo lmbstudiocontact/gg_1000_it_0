@@ -1,0 +1,43 @@
+{
+  "english": "destination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đưa đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ thâu nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đích đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm đến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the place to which someone or something is going or being sent.",
+      "definitions_ex_en": "a popular destination for golfers",
+      "definitions_ex_vn": "Một điểm đến phổ biến cho người chơi golf",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "being a place that people will make a special trip to visit.",
+      "definitions_ex_en": "a destination restaurant",
+      "definitions_ex_vn": "một nhà hàng đích",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

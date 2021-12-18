@@ -1,0 +1,27 @@
+{
+  "english": "barber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ hớt tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who cuts hair, especially men's, and shaves or trims beards as an occupation.",
+      "definitions_ex_en": "he had his hair cut at the local barber's",
+      "definitions_ex_vn": "anh ta bị cắt tóc tại thợ cắt tóc địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut or trim (a man's hair).",
+      "definitions_ex_en": "his hair was neatly barbered",
+      "definitions_ex_vn": "Tóc anh ta được cắt tỉa gọn gàng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

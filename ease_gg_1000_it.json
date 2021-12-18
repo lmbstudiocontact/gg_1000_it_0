@@ -1,0 +1,85 @@
+{
+  "english": "ease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yên tâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "an ủi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dịu bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm yên lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trấn tỉnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ uỷ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bình dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình thản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dể dàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khoan khoái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dể chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rảnh rang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng bình tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thì giờ nhàn rổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "absence of difficulty or effort.",
+      "definitions_ex_en": "she gave up smoking with ease",
+      "definitions_ex_vn": "Cô từ bỏ hút thuốc một cách dễ dàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something unpleasant, painful, or intense) less serious or severe.",
+      "definitions_ex_en": "a huge road-building program to ease congestion",
+      "definitions_ex_vn": "một chương trình xây dựng đường khổng lồ để giảm bớt tắc nghẽn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move carefully or gradually.",
+      "definitions_ex_en": "I eased down the slope with care",
+      "definitions_ex_vn": "Tôi đã giảm bớt độ dốc với sự chăm sóc",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

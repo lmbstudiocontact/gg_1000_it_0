@@ -1,0 +1,73 @@
+{
+  "english": "better",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giỏi hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn toàn hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên tốt hơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a more excellent or effective type or quality.",
+      "definitions_ex_en": "hoping for better weather",
+      "definitions_ex_vn": "Hy vọng cho thời tiết tốt hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "partly or fully recovered from illness, injury, or mental stress; less unwell.",
+      "definitions_ex_en": "his leg was getting better",
+      "definitions_ex_vn": "chân anh ta đang trở nên tốt hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "more excellently or effectively.",
+      "definitions_ex_en": "Johnny could do better if he tried",
+      "definitions_ex_vn": "Johnny có thể làm tốt hơn nếu anh ta cố gắng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the better one; that which is better.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's superiors in social class or ability.",
+      "definitions_ex_en": "I'm not one to speak ill of my betters",
+      "definitions_ex_vn": "Tôi không phải là người ta nói xấu về betters của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of bettor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "improve on or surpass (an existing or previous level or achievement).",
+      "definitions_ex_en": "bettering his previous time by ten minutes",
+      "definitions_ex_vn": "Làm tốt hơn thời gian trước đó của anh ấy mười phút",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

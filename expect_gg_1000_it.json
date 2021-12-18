@@ -1,0 +1,33 @@
+{
+  "english": "expect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chờ đợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoán trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghỉ rằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng rằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "regard (something) as likely to happen.",
+      "definitions_ex_en": "we expect the best",
+      "definitions_ex_vn": "Chúng tôi hy vọng điều tốt nhất",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

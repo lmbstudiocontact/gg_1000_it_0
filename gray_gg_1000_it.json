@@ -1,0 +1,89 @@
+{
+  "english": "gray",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn rầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rầu rỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tái mét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xám",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xanh mét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "màu xám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa bịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa xám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất màu xám",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sợi sống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a color intermediate between black and white, as of ashes or lead.",
+      "definitions_ex_en": "gray flannel trousers",
+      "definitions_ex_vn": "quần flannel màu xám",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without interest or character; dull and nondescript.",
+      "definitions_ex_en": "gray, faceless men",
+      "definitions_ex_vn": "Màu xám, đàn ông vô danh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of financial or trading activity) not accounted for in official statistics.",
+      "definitions_ex_en": "the gray economy",
+      "definitions_ex_vn": "nền kinh tế xám xịt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "gray color or pigment.",
+      "definitions_ex_en": "dirty intermediate tones of gray",
+      "definitions_ex_vn": "Đột kích trung gian của màu xám",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gray thing or animal, in particular a gray or white horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the SI unit of the absorbed dose of ionizing radiation, corresponding to one joule per kilogram.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of hair) become gray with age.",
+      "definitions_ex_en": "he had put on weight and grayed somewhat",
+      "definitions_ex_vn": "anh ta đã tăng cân và màu xám phần nào",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

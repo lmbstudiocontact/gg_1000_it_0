@@ -1,0 +1,23 @@
+{
+  "english": "easily",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể dãi",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "without difficulty or effort.",
+      "definitions_ex_en": "he climbed the mountain easily",
+      "definitions_ex_vn": "anh ta leo lên núi dễ dàng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "without doubt; by far.",
+      "definitions_ex_en": "English is easily the reigning language in the financial world",
+      "definitions_ex_vn": "Tiếng Anh dễ dàng là ngôn ngữ trị vì trong thế giới tài chính",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

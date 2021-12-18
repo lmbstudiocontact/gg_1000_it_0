@@ -1,0 +1,29 @@
+{
+  "english": "flannel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ bằng nỉ mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng nỉ mỏng dùng để lau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng nỉ dùng để chùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nỉ mõng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a kind of soft-woven fabric, typically made of wool or cotton and slightly milled and raised.",
+      "definitions_ex_en": "my longest, thickest flannel nightgown",
+      "definitions_ex_vn": "áo ngủ flannel dài nhất, dày nhất của tôi",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

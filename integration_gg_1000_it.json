@@ -1,0 +1,41 @@
+{
+  "english": "integration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách lấy tích phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoàn toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liên hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nguyên vẹn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of integrating.",
+      "definitions_ex_en": "economic and political integration",
+      "definitions_ex_vn": "Tích hợp kinh tế và chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the finding of an integral or integrals.",
+      "definitions_ex_en": "integration of an ordinary differential equation",
+      "definitions_ex_vn": "Tích hợp một phương trình vi phân thông thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the coordination of processes in the nervous system, including diverse sensory information and motor impulses.",
+      "definitions_ex_en": "visuomotor integration",
+      "definitions_ex_vn": "Tích hợp Visuomotor.",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "judge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quan toà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẩm phán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phán đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân xử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét xử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a public official appointed to decide cases in a court of law.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form an opinion or conclusion about.",
+      "definitions_ex_en": "it is hard to judge whether such opposition is justified",
+      "definitions_ex_vn": "Thật khó để đánh giá xem sự phản đối đó có hợp lý không",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

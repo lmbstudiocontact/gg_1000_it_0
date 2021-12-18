@@ -1,0 +1,55 @@
+{
+  "english": "complete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy đủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọn vẹn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn hảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chê được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having all the necessary or appropriate parts.",
+      "definitions_ex_en": "a complete list of courses offered by the college",
+      "definitions_ex_vn": "Một danh sách đầy đủ các khóa học được cung cấp bởi các trường đại học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(often used for emphasis) to the greatest extent or degree; total.",
+      "definitions_ex_en": "a complete ban on smoking",
+      "definitions_ex_vn": "Một lệnh cấm hoàn toàn về hút thuốc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "finish making or doing.",
+      "definitions_ex_en": "he completed his Ph.D. in 1983",
+      "definitions_ex_vn": "Ông đã hoàn thành bằng tiến sĩ của mình.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something) whole or perfect.",
+      "definitions_ex_en": "he only needed one thing to complete his happiness",
+      "definitions_ex_vn": "Anh chỉ cần một điều để hoàn thành hạnh phúc của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

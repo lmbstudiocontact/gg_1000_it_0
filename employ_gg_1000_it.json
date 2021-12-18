@@ -1,0 +1,53 @@
+{
+  "english": "employ",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chăm lo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sử dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỗ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give work to (someone) and pay them for it.",
+      "definitions_ex_en": "the firm employs 150 people",
+      "definitions_ex_vn": "Công ty tuyển dụng 150 người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make use of.",
+      "definitions_ex_en": "the methods they have employed to collect the data",
+      "definitions_ex_vn": "các phương thức họ đã sử dụng để thu thập dữ liệu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the state or fact of being employed for wages or a salary.",
+      "definitions_ex_en": "I started work in the employ of a grocer and wine merchant",
+      "definitions_ex_vn": "Tôi bắt đầu làm việc trong việc sử dụng một người bán tạp hóa và rượu vang",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

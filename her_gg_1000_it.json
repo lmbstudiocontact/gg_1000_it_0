@@ -1,0 +1,45 @@
+{
+  "english": "her",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "chị ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "cô ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của cô ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "nàng ấy",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used as the object of a verb or preposition to refer to a female person or animal previously mentioned or easily identified.",
+      "definitions_ex_en": "she knew I hated her",
+      "definitions_ex_vn": "Cô ấy biết tôi ghét cô ấy",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "belonging to or associated with a female person or animal previously mentioned or easily identified.",
+      "definitions_ex_en": "Patricia loved her job",
+      "definitions_ex_vn": "Patricia yêu công việc của mình",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used in titles.",
+      "definitions_ex_en": "Her Royal Highness",
+      "definitions_ex_vn": "Hoàng gia của cô ấy",
+      "definitions_type_word": "article"
+    }
+  ]
+}

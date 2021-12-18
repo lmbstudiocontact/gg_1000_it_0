@@ -1,0 +1,39 @@
+{
+  "english": "inset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản tháp đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận ở ngoài chủ đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêm vào quyển sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is put in or inserted.",
+      "definitions_ex_en": "a pair of doors with their original stained-glass insets",
+      "definitions_ex_vn": "một cặp cánh cửa với những chiếc áo kính màu gốc của chúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put in (something, especially a small picture or map) as an inset.",
+      "definitions_ex_en": "type in the text to be inset",
+      "definitions_ex_vn": "Nhập văn bản để được in",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

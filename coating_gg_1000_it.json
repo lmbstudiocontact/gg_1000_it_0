@@ -1,0 +1,29 @@
+{
+  "english": "coating",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một lớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải để may quần áo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin layer or covering of something.",
+      "definitions_ex_en": "a coating of paint",
+      "definitions_ex_vn": "một lớp sơn",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

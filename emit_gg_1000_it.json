@@ -1,0 +1,41 @@
+{
+  "english": "emit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xông lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắn tia sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bốc hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bay ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát mùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát hành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "produce and discharge (something, especially gas or radiation).",
+      "definitions_ex_en": "coal-fired power stations continue to emit large quantities of sulfur dioxide",
+      "definitions_ex_vn": "Các trạm điện bị đốt than tiếp tục phát ra một lượng lớn sulfur dioxide",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

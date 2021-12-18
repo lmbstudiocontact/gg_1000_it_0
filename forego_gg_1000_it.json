@@ -1,0 +1,27 @@
+{
+  "english": "forego",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở phía trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "variant spelling of forgo.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "precede in place or time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

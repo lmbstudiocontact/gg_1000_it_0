@@ -1,0 +1,27 @@
+{
+  "english": "especially",
+  "list_translation_mean": [
+    {
+      "translate_mean": "riêng đặc biệt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tánh đặc biệt",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to single out one person, thing, or situation over all others.",
+      "definitions_ex_en": "he despised them all, especially Sylvester",
+      "definitions_ex_vn": "Ông coi thường tất cả, đặc biệt là Sylvester",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to a great extent; very much.",
+      "definitions_ex_en": "he didn't especially like dancing",
+      "definitions_ex_vn": "Anh ấy không đặc biệt thích khiêu vũ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

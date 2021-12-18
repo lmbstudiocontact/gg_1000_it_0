@@ -1,0 +1,21 @@
+{
+  "english": "browbeat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dọa nạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói nặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intimidate (someone), typically into doing something, with stern or abusive words.",
+      "definitions_ex_en": "a witness is being browbeaten under cross-examination",
+      "definitions_ex_vn": "một nhân chứng đang được duyệt qua kiểm tra chéo",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

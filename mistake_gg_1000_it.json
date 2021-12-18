@@ -1,0 +1,27 @@
+{
+  "english": "mistake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngộ nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action or judgment that is misguided or wrong.",
+      "definitions_ex_en": "coming here was a mistake",
+      "definitions_ex_vn": "Đến đây là một sai lầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be wrong about.",
+      "definitions_ex_en": "because I was inexperienced I mistook the nature of our relationship",
+      "definitions_ex_vn": "Bởi vì tôi đã thiếu kinh nghiệm, tôi đã nhầm bản chất của mối quan hệ của chúng tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

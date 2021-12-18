@@ -1,0 +1,21 @@
+{
+  "english": "excessive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quá đáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô độ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "more than is necessary, normal, or desirable; immoderate.",
+      "definitions_ex_en": "he was drinking excessive amounts of brandy",
+      "definitions_ex_vn": "anh ta đang uống một lượng lớn brandy",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

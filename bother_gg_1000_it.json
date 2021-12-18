@@ -1,0 +1,49 @@
+{
+  "english": "bother",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm khó chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối buồn bả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm buồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take the trouble to do something.",
+      "definitions_ex_en": "scientists rarely bother with such niceties",
+      "definitions_ex_vn": "Các nhà khoa học hiếm khi bận tâm với những món ngon như vậy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a circumstance or event) worry, disturb, or upset (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "effort, worry, or difficulty.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

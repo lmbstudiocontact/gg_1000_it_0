@@ -1,0 +1,25 @@
+{
+  "english": "easygoing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không câu nệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người dể dãi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người dể tánh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relaxed and tolerant in approach or manner.",
+      "definitions_ex_en": "an outwardly easygoing but fiercely competitive youngster",
+      "definitions_ex_vn": "một thanh niên phù hợp với bên ngoài nhưng quyết liệt cạnh tranh",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "concentrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thu tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góp sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đậm đặc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập trung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "focus one's attention or mental effort on a particular object or activity.",
+      "definitions_ex_en": "she couldn't concentrate on the movie",
+      "definitions_ex_vn": "cô ấy không thể tập trung vào bộ phim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gather (people or things) together in numbers or in a mass.",
+      "definitions_ex_en": "wealth was concentrated in the hands of the governing elite",
+      "definitions_ex_vn": "Sự giàu có được tập trung trong tay ưu tú",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase the strength or proportion of (a substance or solution) by removing or reducing the water or any other diluting agent or by selective accumulation of atoms or molecules.",
+      "definitions_ex_en": "plants and microorganisms can concentrate metals from the environment",
+      "definitions_ex_vn": "thực vật và vi sinh vật có thể tập trung kim loại từ môi trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a substance made by removing water or other diluting agent; a concentrated form of something, especially food.",
+      "definitions_ex_en": "apple juice concentrate",
+      "definitions_ex_vn": "Nước táo cô đặc",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

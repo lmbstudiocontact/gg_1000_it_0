@@ -1,0 +1,47 @@
+{
+  "english": "inlay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bỏ xén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẩn vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "ornament (an object) by embedding pieces of a different material in it, flush with its surface.",
+      "definitions_ex_en": "mahogany paneling inlaid with rosewood",
+      "definitions_ex_vn": "Bảng gỗ gụ dát với gỗ hồng mộc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a design, pattern, or piece of material inlaid in something.",
+      "definitions_ex_en": "ivory inlays that decorated wooden furnishings",
+      "definitions_ex_vn": "Ivory inlays trang trí đồ nội thất bằng gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a filling shaped to fit a tooth cavity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a printed card or paper insert supplied with a CD, video, etc.",
+      "definitions_ex_en": "an inlay card",
+      "definitions_ex_vn": "một thẻ inlay.",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

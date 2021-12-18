@@ -1,0 +1,33 @@
+{
+  "english": "finally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung cuộc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chung kết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cuối cùng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kết cuộc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tính cách cuối cùng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "after a long time, typically involving difficulty or delay.",
+      "definitions_ex_en": "he finally arrived to join us",
+      "definitions_ex_vn": "Cuối cùng anh đã đến tham gia với chúng tôi",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

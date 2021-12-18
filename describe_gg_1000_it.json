@@ -1,0 +1,31 @@
+{
+  "english": "describe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tả lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ hình cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give an account in words of (someone or something), including all the relevant characteristics, qualities, or events.",
+      "definitions_ex_en": "the man was described as tall, clean-shaven, and with short dark hair",
+      "definitions_ex_vn": "Người đàn ông được mô tả là cao, sạch sẽ, và với mái tóc đen ngắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark out or draw (a geometric figure).",
+      "definitions_ex_en": "on the diameter of a circle an equilateral triangle is described",
+      "definitions_ex_vn": "trên đường kính của một vòng tròn một tam giác đều được mô tả",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

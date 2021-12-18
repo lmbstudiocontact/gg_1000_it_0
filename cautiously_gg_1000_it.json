@@ -1,0 +1,21 @@
+{
+  "english": "cautiously",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đa nghi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sự thận trọng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that deliberately avoids potential problems or dangers.",
+      "definitions_ex_en": "we must proceed cautiously",
+      "definitions_ex_vn": "Chúng ta phải tiến hành thận trọng",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

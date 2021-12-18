@@ -1,0 +1,45 @@
+{
+  "english": "commit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao thác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký thác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủy thác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry out or perpetrate (a mistake, crime, or immoral act).",
+      "definitions_ex_en": "he committed an uncharacteristic error",
+      "definitions_ex_vn": "anh ấy đã phạm lỗi bất ổn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pledge or bind (a person or an organization) to a certain course or policy.",
+      "definitions_ex_en": "they were reluctant to commit themselves to an opinion",
+      "definitions_ex_vn": "họ miễn cưỡng cam kết với một ý kiến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer something to (a state or place).",
+      "definitions_ex_en": "he composed a letter but didn't commit it to paper",
+      "definitions_ex_vn": "anh ấy sáng tác một lá thư nhưng không cam kết nó với giấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

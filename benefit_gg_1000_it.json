@@ -1,0 +1,51 @@
+{
+  "english": "benefit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ơn huệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cấp dưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phụ cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lợi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an advantage or profit gained from something.",
+      "definitions_ex_en": "enjoy the benefits of being a member",
+      "definitions_ex_vn": "Tận hưởng những lợi ích của việc trở thành một thành viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a payment or gift made by an employer, the state, or an insurance company.",
+      "definitions_ex_en": "welfare benefits",
+      "definitions_ex_vn": "Lợi ích phúc lợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a public performance or other entertainment of which the proceeds go to a particular charitable cause.",
+      "definitions_ex_en": "the social season was highlighted by debutante balls and charity benefits",
+      "definitions_ex_vn": "Mùa xã hội được nhấn mạnh bởi những quả bóng và lợi ích từ thiện Deak",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "receive an advantage; profit.",
+      "definitions_ex_en": "the areas would benefit from regeneration",
+      "definitions_ex_vn": "Các khu vực sẽ được hưởng lợi từ sự tái sinh",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

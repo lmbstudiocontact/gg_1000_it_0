@@ -1,0 +1,21 @@
+{
+  "english": "dialect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngôn ngữ của một vùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổ ngữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular form of a language which is peculiar to a specific region or social group.",
+      "definitions_ex_en": "this novel is written in the dialect of Trinidad",
+      "definitions_ex_vn": "Cuốn tiểu thuyết này được viết theo phương ngữ của Trinidad",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

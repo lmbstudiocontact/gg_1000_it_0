@@ -1,0 +1,29 @@
+{
+  "english": "discontinue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đình trệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm gián đoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngưng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thôi việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cease doing or providing (something), typically something provided on a regular basis.",
+      "definitions_ex_en": "the ferry service was discontinued by the proprietors",
+      "definitions_ex_vn": "Dịch vụ phà đã bị ngưỡng mộ bởi chủ sở hữu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "dust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bụi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụi bặm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces or carried in the air.",
+      "definitions_ex_en": "the car sent up clouds of dust",
+      "definitions_ex_vn": "Chiếc xe gửi những đám mây bụi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of dusting.",
+      "definitions_ex_en": "a quick dust, to get rid of the cobwebs",
+      "definitions_ex_vn": "một bụi nhanh, để thoát khỏi mạng nhện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove the dust from the surface of (something) by wiping or brushing it.",
+      "definitions_ex_en": "I broke the vase I had been dusting",
+      "definitions_ex_vn": "Tôi đã phá vỡ chiếc bình mà tôi đã bị cuốn hút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover lightly with a powdered substance.",
+      "definitions_ex_en": "roll out on a surface dusted with flour",
+      "definitions_ex_vn": "lăn ra trên một bề mặt bụi với bột",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

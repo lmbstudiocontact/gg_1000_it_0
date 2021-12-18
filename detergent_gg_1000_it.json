@@ -1,0 +1,23 @@
+{
+  "english": "detergent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc rữa vết thương",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a water-soluble cleansing agent which combines with impurities and dirt to make them more soluble, and differs from soap in not forming a scum with the salts in hard water.",
+      "definitions_ex_en": "liquid detergents",
+      "definitions_ex_vn": "chất tẩy rửa lỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to detergent compounds or their action.",
+      "definitions_ex_en": "staining that resists detergent action",
+      "definitions_ex_vn": "nhuộm màu mà chống lại hành động chất tẩy rửa",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

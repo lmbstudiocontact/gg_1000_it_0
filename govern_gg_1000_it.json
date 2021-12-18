@@ -1,0 +1,39 @@
+{
+  "english": "govern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cai trị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiềm chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản trị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thống trị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conduct the policy, actions, and affairs of (a state, organization, or people).",
+      "definitions_ex_en": "he was incapable of governing the country",
+      "definitions_ex_vn": "anh ta không có khả năng cai trị đất nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a word) require that (another word or group of words) be in a particular case.",
+      "definitions_ex_en": "the Latin preposition “cum” governs nouns in the ablative",
+      "definitions_ex_vn": "giới từ Latin \"kiêm\" chi phối danh từ trong ablative",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

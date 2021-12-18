@@ -1,0 +1,91 @@
+{
+  "english": "bed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ tầng cơ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ rơm súc vật nằm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây móng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of furniture for sleep or rest, typically a framework with a mattress and coverings.",
+      "definitions_ex_en": "a large double bed",
+      "definitions_ex_vn": "một giường đôi lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the bottom of the sea or a lake or river.",
+      "definitions_ex_en": "the gravelly bed of the stream",
+      "definitions_ex_vn": "Giường sỏi của suối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of ground, typically in a garden, where flowers and plants are grown.",
+      "definitions_ex_en": "a bed of tulips",
+      "definitions_ex_vn": "một chiếc giường hoa tulip",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stratum or layer of rock.",
+      "definitions_ex_en": "a bed of clay",
+      "definitions_ex_vn": "một chiếc giường của đất sét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a layer of food on which other foods are served.",
+      "definitions_ex_en": "the salad is served on a bed of raw spinach",
+      "definitions_ex_vn": "Salad được phục vụ trên một chiếc giường rau bina sống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat base or foundation on which something rests or is supported.",
+      "definitions_ex_en": "place each paver on a bed of concrete",
+      "definitions_ex_vn": "Đặt mỗi paver trên một giường bê tông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "settle down to sleep or rest for the night in an improvised place.",
+      "definitions_ex_en": "he usually bedded down on newspapers in the church porch",
+      "definitions_ex_vn": "Anh thường nằm xuống báo trên hiên nhà thờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer (a plant) from a pot or seed tray to a garden plot.",
+      "definitions_ex_en": "I bedded out these houseplants",
+      "definitions_ex_vn": "Tôi ngủ ngoài những người này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix firmly; embed.",
+      "definitions_ex_en": "the posts should be firmly bedded in concrete",
+      "definitions_ex_vn": "Các bài viết nên được đặt chắc chắn trong bê tông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Bachelor of Education.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

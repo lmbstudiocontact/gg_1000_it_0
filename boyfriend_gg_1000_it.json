@@ -1,0 +1,27 @@
+{
+  "english": "boyfriend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạn trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular male companion with whom one has a romantic or sexual relationship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting an item of clothing for a woman or girl that is designed to be loose-fitting or slightly oversized.",
+      "definitions_ex_en": "a boyfriend cardigan",
+      "definitions_ex_vn": "một bộ cardigan bạn trai",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

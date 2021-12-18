@@ -1,0 +1,35 @@
+{
+  "english": "dwell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đứng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhấn mạnh vấn đề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "live in or at a specified place.",
+      "definitions_ex_en": "groups of people still dwell in these caves",
+      "definitions_ex_vn": "Các nhóm người vẫn sống trong những hang động này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slight regular pause in the motion of a machine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

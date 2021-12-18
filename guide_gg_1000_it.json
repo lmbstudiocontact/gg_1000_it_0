@@ -1,0 +1,93 @@
+{
+  "english": "guide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đi dọ đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy điều chỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy định động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy tiết chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dẫn đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hướng đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẫn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hướng dẫn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hướng đạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẫn đường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who advises or shows the way to others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a structure or marking which directs the motion or positioning of something.",
+      "definitions_ex_en": "the guides for the bolt needed straightening",
+      "definitions_ex_vn": "các hướng dẫn cho bu lông cần thiết thẳng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soldier, vehicle, or ship whose position determines the movements of others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "show or indicate the way to (someone).",
+      "definitions_ex_en": "he guided her to the front row and sat beside her",
+      "definitions_ex_vn": "Anh hướng dẫn cô đến hàng trước và ngồi bên cạnh cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "direct or have an influence on the course of action of (someone or something).",
+      "definitions_ex_en": "he guided the team to a second successive win in the tournament",
+      "definitions_ex_vn": "Ông đã hướng dẫn đội ngũ giành chiến thắng liên tiếp thứ hai trong giải đấu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

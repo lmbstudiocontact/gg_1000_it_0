@@ -1,0 +1,39 @@
+{
+  "english": "imagine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan niệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form a mental image or concept of.",
+      "definitions_ex_en": "I couldn't imagine what she expected to tell them",
+      "definitions_ex_vn": "Tôi không thể tưởng tượng được những gì cô ấy mong đợi nói với họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suppose or assume.",
+      "definitions_ex_en": "after Ned died, everyone imagined that Mabel would move away",
+      "definitions_ex_vn": "Sau khi Ned qua đời, mọi người đều tưởng tượng rằng Mabel sẽ di chuyển đi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "more",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thêm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hơn nữa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thêm nữa",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a greater or additional amount or degree of.",
+      "definitions_ex_en": "she poured herself more coffee",
+      "definitions_ex_vn": "Cô ấy rót thêm cà phê",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a greater or additional amount of something.",
+      "definitions_ex_en": "tell me more",
+      "definitions_ex_vn": "Nói cho tôi biết thêm",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

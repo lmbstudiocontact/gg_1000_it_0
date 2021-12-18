@@ -1,0 +1,71 @@
+{
+  "english": "feel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cãm giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sờ mó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt mạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cãm giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cãm thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dò sét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rờ rẫm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be aware of (a person or object) through touching or being touched.",
+      "definitions_ex_en": "she felt someone touch her shoulder",
+      "definitions_ex_vn": "Cô cảm thấy ai đó chạm vào vai cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "experience (an emotion or sensation).",
+      "definitions_ex_en": "I felt a sense of excitement",
+      "definitions_ex_vn": "Tôi cảm thấy một cảm giác phấn khích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have a belief or impression, especially without an identifiable reason.",
+      "definitions_ex_en": "she felt that the woman positively disliked her",
+      "definitions_ex_vn": "Cô cảm thấy người phụ nữ tích cực không thích cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of touching something to examine it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sensation given by an object or material when touched.",
+      "definitions_ex_en": "nylon cloth with a cotton feel",
+      "definitions_ex_vn": "Vải nylon với một bông cảm giác bông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feelings of heightened emotion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

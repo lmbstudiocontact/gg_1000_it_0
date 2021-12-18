@@ -1,0 +1,29 @@
+{
+  "english": "electronic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về điện tử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a device) having or operating with the aid of many small components, especially microchips and transistors, that control and direct an electric current.",
+      "definitions_ex_en": "an electronic calculator",
+      "definitions_ex_vn": "một máy tính điện tử",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to electrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "carried out or accessed by means of a computer or other electronic device, especially over a network.",
+      "definitions_ex_en": "electronic banking",
+      "definitions_ex_vn": "Ngân hàng điện tử",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

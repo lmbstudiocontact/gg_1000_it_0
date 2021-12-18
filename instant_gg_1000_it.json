@@ -1,0 +1,69 @@
+{
+  "english": "instant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp bách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khẩn cấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lập tức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tức thì",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "happening or coming immediately.",
+      "definitions_ex_en": "the offense justified instant dismissal",
+      "definitions_ex_vn": "Hành vi phạm tội được chứng minh ngay lập tức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "urgent; pressing.",
+      "definitions_ex_en": "an instant desire to blame others when things go wrong",
+      "definitions_ex_vn": "Một mong muốn tức thì để đổ lỗi cho người khác khi mọi thứ đi sai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in business letters) of the current month.",
+      "definitions_ex_en": "your letter of the 6th instant",
+      "definitions_ex_vn": "Thư của bạn ngay lập tức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of the present moment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a precise moment of time.",
+      "definitions_ex_en": "come here this instant!",
+      "definitions_ex_vn": "Đến đây ngay lập tức!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very short space of time; a moment.",
+      "definitions_ex_en": "for an instant the moon disappeared",
+      "definitions_ex_vn": "Ngay lập tức mặt trăng biến mất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "instant coffee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

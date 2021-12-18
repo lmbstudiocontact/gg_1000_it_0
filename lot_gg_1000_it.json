@@ -1,0 +1,113 @@
+{
+  "english": "lot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia lô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ra khoảng đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "điều may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa vô loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lô đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rất nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lô hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng lô một",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận mạng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large number or amount; a great deal.",
+      "definitions_ex_en": "there are a lot of actors in the cast",
+      "definitions_ex_vn": "Có rất nhiều diễn viên trong diễn viên",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "a great deal; much.",
+      "definitions_ex_en": "he played tennis a lot last year",
+      "definitions_ex_vn": "Anh ấy chơi tennis rất nhiều năm ngoái",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a particular group, collection, or set of people or things.",
+      "definitions_ex_en": "it's just one lot of rich people stealing from another",
+      "definitions_ex_vn": "Nó chỉ là một số người giàu ăn cắp từ người khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an article or set of articles for sale at an auction.",
+      "definitions_ex_en": "nineteen lots failed to sell",
+      "definitions_ex_vn": "mười chín lô không bán được",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of a set of objects such as straws, stones, or pieces of paper that are randomly selected as part of a decision-making process.",
+      "definitions_ex_en": "they drew lots to determine the order in which they asked questions",
+      "definitions_ex_vn": "họ đã vẽ rất nhiều để xác định thứ tự mà họ đặt câu hỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's luck or condition in life, particularly as determined by fate or destiny.",
+      "definitions_ex_en": "plans to improve the lot of the disadvantaged",
+      "definitions_ex_vn": "kế hoạch để cải thiện rất nhiều thiệt thòi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide (items) into lots for sale at an auction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

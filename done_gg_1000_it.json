@@ -1,0 +1,55 @@
+{
+  "english": "done",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được rồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngày tàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dọn dẹp xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thi hành xong",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of do1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of food) cooked thoroughly.",
+      "definitions_ex_en": "the turkey will be done soon",
+      "definitions_ex_vn": "Thổ Nhĩ Kỳ sẽ được thực hiện sớm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "no longer happening or existing.",
+      "definitions_ex_en": "her hunting days were done",
+      "definitions_ex_vn": "Những ngày săn bắn của cô đã được thực hiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to indicate that the speaker accepts the terms of an offer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

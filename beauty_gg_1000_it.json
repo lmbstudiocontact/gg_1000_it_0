@@ -1,0 +1,27 @@
+{
+  "english": "beauty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sắc đẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ đẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight.",
+      "definitions_ex_en": "I was struck by her beauty",
+      "definitions_ex_vn": "Tôi đã bị ấn tượng bởi vẻ đẹp của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a beautiful woman.",
+      "definitions_ex_en": "she was considered a great beauty in her youth",
+      "definitions_ex_vn": "Cô được coi là một vẻ đẹp tuyệt vời ở tuổi trẻ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

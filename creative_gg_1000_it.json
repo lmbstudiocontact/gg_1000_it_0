@@ -1,0 +1,23 @@
+{
+  "english": "creative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tánh cách sáng tạo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
+      "definitions_ex_en": "change unleashes people's creative energy",
+      "definitions_ex_vn": "Thay đổi giải phóng năng lượng sáng tạo của mọi người",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is creative, typically in a professional context.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

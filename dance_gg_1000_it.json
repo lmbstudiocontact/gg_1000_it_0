@@ -1,0 +1,65 @@
+{
+  "english": "dance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc khiêu vủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điệu khiêu vủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhẩy đầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép nhảy múa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiêu vủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự múa nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiêu vủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "múa nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy nhót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move rhythmically to music, typically following a set sequence of steps.",
+      "definitions_ex_en": "their cheeks were pressed together as they danced",
+      "definitions_ex_vn": "Má của họ đã được ép vào nhau khi họ nhảy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) move in a quick and lively way.",
+      "definitions_ex_en": "Sheila danced in gaily",
+      "definitions_ex_vn": "Sheila nhảy múa trong vui vẻ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a series of movements that match the speed and rhythm of a piece of music.",
+      "definitions_ex_en": "everyone was taking part in the dance",
+      "definitions_ex_vn": "mọi người đang tham gia điệu nhảy",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

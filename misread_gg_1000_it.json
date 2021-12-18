@@ -1,0 +1,21 @@
+{
+  "english": "misread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đọc trật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu lầm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "read (a piece of text) wrongly.",
+      "definitions_ex_en": "perhaps she'd misread the note and got the time wrong",
+      "definitions_ex_vn": "Có lẽ cô ấy đã đọc sai ghi chú và sai thời gian",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

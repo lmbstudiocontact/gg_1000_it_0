@@ -1,0 +1,51 @@
+{
+  "english": "bring",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dẩn dắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mang đến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take or go with (someone or something) to a place.",
+      "definitions_ex_en": "she brought Luke home from the hospital",
+      "definitions_ex_vn": "Cô ấy đã mang Luke về nhà từ bệnh viện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone or something) to be in a particular state or condition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "initiate (legal action) against someone.",
+      "definitions_ex_en": "charges should be brought against them",
+      "definitions_ex_vn": "phí nên được đưa vào họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "force oneself to do something unpleasant.",
+      "definitions_ex_en": "she could not bring herself to mention it",
+      "definitions_ex_vn": "Cô không thể tự đề cập đến nó",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

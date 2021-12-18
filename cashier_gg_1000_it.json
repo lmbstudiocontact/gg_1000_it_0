@@ -1,0 +1,31 @@
+{
+  "english": "cashier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thu ngân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giữ tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữ tủ tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person handling payments and receipts in a store, bank, or other business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dismiss (someone) from the armed forces in disgrace because of a serious misdemeanor.",
+      "definitions_ex_en": "he was found guilty and cashiered",
+      "definitions_ex_vn": "anh ta bị kết tội và thu ngân",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "landslide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lăn từ trên xuống đồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sliding down of a mass of earth or rock from a mountain or cliff.",
+      "definitions_ex_en": "the road was blocked by a landslide",
+      "definitions_ex_vn": "Con đường bị chặn bởi một trận lở đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an overwhelming majority of votes for one party in an election.",
+      "definitions_ex_en": "winning the election by a landslide",
+      "definitions_ex_vn": "giành chiến thắng trong cuộc bầu cử bởi một trận lở đất",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

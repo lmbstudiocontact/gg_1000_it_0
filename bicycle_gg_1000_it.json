@@ -1,0 +1,31 @@
+{
+  "english": "bicycle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ride a bicycle in a particular direction.",
+      "definitions_ex_en": "they had spent the day bicycling around the island",
+      "definitions_ex_vn": "Họ đã dành cả ngày đi xe đạp quanh đảo",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "magenta",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu đỏ sậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắc đỏ sậm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light purplish red that is one of the primary subtractive colors, complementary to green.",
+      "definitions_ex_en": "bright pink double flowers each lined in dark magenta",
+      "definitions_ex_vn": "Hoa đôi màu hồng sáng mỗi miếng lót màu đỏ tươi",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

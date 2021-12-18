@@ -1,0 +1,101 @@
+{
+  "english": "major",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm giai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "âm cách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đại tiền đề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quan tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếu tá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyên học môn nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "important, serious, or significant.",
+      "definitions_ex_en": "the use of drugs is a major problem",
+      "definitions_ex_vn": "Việc sử dụng thuốc là một vấn đề lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a scale) having an interval of a semitone between the third and fourth degrees and the seventh and eighth degrees.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a term) occurring as the predicate in the conclusion of a categorical syllogism.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an army officer of high rank, in particular (in the US Army, Air Force, and Marine Corps) an officer ranking above captain and below lieutenant colonel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a major key, interval, or scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a major world organization, company, or competition.",
+      "definitions_ex_en": "it's not unreasonable to believe someone can win all four majors",
+      "definitions_ex_vn": "Thật không hợp lý khi tin ai đó có thể giành được cả bốn chuyên ngành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a major term or premise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for major suit.",
+      "definitions_ex_en": "South was anxious to mention his four-card major and bid one spade",
+      "definitions_ex_vn": "Phía nam đã lo lắng để đề cập đến chuyên ngành bốn thẻ của mình và đấu thầu một thuổng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of full legal age.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

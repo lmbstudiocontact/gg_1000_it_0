@@ -1,0 +1,29 @@
+{
+  "english": "electric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về điện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, worked by, charged with, or producing electricity.",
+      "definitions_ex_en": "an electric stove",
+      "definitions_ex_vn": "một bếp điện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or producing a sudden sense of thrilling excitement.",
+      "definitions_ex_en": "the atmosphere was electric",
+      "definitions_ex_vn": "Bầu không khí là điện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an electric train or other vehicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

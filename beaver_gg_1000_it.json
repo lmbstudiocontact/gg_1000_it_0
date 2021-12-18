@@ -1,0 +1,41 @@
+{
+  "english": "beaver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con thát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hải ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón lưởi trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành che nón",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large semiaquatic broad-tailed rodent that is native to North America and northern Eurasia. It is noted for its habit of gnawing through tree trunks to fell the trees in order to feed on the bark and build dams.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lower part of the face guard of a helmet in a suit of armor. The term is also used to refer to the upper part or visor, or to a single movable guard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work hard.",
+      "definitions_ex_en": "Bridget beavered away to keep things running smoothly",
+      "definitions_ex_vn": "Bridget Beavered đi để giữ cho mọi thứ chạy trơn tru",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

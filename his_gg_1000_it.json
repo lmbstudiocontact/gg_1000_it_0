@@ -1,0 +1,37 @@
+{
+  "english": "his",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái của anh ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của anh ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của nó",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or associated with a male person or animal previously mentioned or easily identified.",
+      "definitions_ex_en": "James sold his business",
+      "definitions_ex_vn": "James đã bán kinh doanh của mình",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used in titles.",
+      "definitions_ex_en": "His Honor",
+      "definitions_ex_vn": "Vinh dự của anh ấy",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used to refer to a thing or things belonging to or associated with a male person or animal previously mentioned.",
+      "definitions_ex_en": "he took my hand in his",
+      "definitions_ex_vn": "Anh nắm lấy tay tôi",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

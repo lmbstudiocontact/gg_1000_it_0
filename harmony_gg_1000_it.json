@@ -1,0 +1,35 @@
+{
+  "english": "harmony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "du dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự êm tai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the combination of simultaneously sounded musical notes to produce chords and chord progressions having a pleasing effect.",
+      "definitions_ex_en": "four-part harmony in the barbershop style",
+      "definitions_ex_vn": "Hài hòa bốn phần trong phong cách tiệm hớt tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement of the four Gospels, or of any parallel narratives, which presents a single continuous narrative text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

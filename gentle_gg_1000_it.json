@@ -1,0 +1,81 @@
+{
+  "english": "gentle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao qúy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "danh giá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dịu dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiền lành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tử tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gia giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gió hiu hiu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gió nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ít công phạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nghiêm khắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a mild, kind, or tender temperament or character.",
+      "definitions_ex_en": "he was a gentle, sensitive man",
+      "definitions_ex_vn": "anh ấy là một người đàn ông nhẹ nhàng, nhạy cảm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "moderate in action, effect, or degree; not harsh or severe.",
+      "definitions_ex_en": "a gentle breeze",
+      "definitions_ex_vn": "một làn gió nhẹ nhàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) noble or having the qualities attributed to noble birth; courteous and chivalrous.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become gentle; calm or pacify.",
+      "definitions_ex_en": "Cobb's tone gentled a little",
+      "definitions_ex_vn": "Tone của Cobb dịu dàng một chút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a maggot, especially the larva of a blowfly, used as bait.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

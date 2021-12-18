@@ -1,0 +1,25 @@
+{
+  "english": "imply",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ám tàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ẩn tàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩa là",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strongly suggest the truth or existence of (something not expressly stated).",
+      "definitions_ex_en": "the salesmen who uses jargon to imply his superior knowledge",
+      "definitions_ex_vn": "Những người bán hàng sử dụng biệt ngữ để ngụ ý kiến thức vượt trội của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

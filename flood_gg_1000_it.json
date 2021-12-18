@@ -1,0 +1,73 @@
+{
+  "english": "flood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước ngập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước triều lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước dưng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho ngập nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đầy tràn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngập lụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làn lụt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land.",
+      "definitions_ex_en": "a flood barrier",
+      "definitions_ex_vn": "một hàng rào lũ lụt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an outpouring of tears or emotion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for floodlight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or submerge (a place or area) with water.",
+      "definitions_ex_en": "the dam burst, flooding a small town",
+      "definitions_ex_vn": "Đập đập, tràn ngập một thị trấn nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrive in overwhelming amounts or quantities.",
+      "definitions_ex_en": "sunlight flooded in at the windows",
+      "definitions_ex_vn": "Ánh sáng mặt trời tràn ngập tại cửa sổ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

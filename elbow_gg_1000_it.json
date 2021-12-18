@@ -1,0 +1,57 @@
+{
+  "english": "elbow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ khuỷu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cùi chỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cùi tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuỷu tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ gập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc bằng cùi chỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the joint between the forearm and the upper arm.",
+      "definitions_ex_en": "she propped herself up on one elbow",
+      "definitions_ex_vn": "Cô ấy tự đứng lên trên một khuỷu tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strike (someone) with one's elbow.",
+      "definitions_ex_en": "one player had elbowed another in the face",
+      "definitions_ex_vn": "Một người chơi đã khuỷu tay một người khác vào mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (a person or idea) dismissively.",
+      "definitions_ex_en": "his new TV talk show was elbowed aside in the ratings war",
+      "definitions_ex_vn": "Chương trình Talk Talk mới của anh ấy đã khuỷu tay sang một bên trong cuộc chiến xếp hạng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

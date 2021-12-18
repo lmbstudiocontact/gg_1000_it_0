@@ -1,0 +1,39 @@
+{
+  "english": "enjoy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hưởng thụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thưởng thức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vui thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take delight or pleasure in (an activity or occasion).",
+      "definitions_ex_en": "Joe enjoys reading Icelandic family sagas",
+      "definitions_ex_vn": "Joe thích đọc Sagas gia đình Iceland",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "possess and benefit from.",
+      "definitions_ex_en": "the security forces enjoy legal immunity from prosecution",
+      "definitions_ex_vn": "Các lực lượng an ninh được hưởng miễn dịch pháp lý từ truy tố",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

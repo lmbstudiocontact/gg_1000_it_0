@@ -1,0 +1,41 @@
+{
+  "english": "distinguish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vang danh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặc biệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được nổi tiếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hơn người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khác người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "recognize or treat (someone or something) as different.",
+      "definitions_ex_en": "the child is perfectly capable of distinguishing reality from fantasy",
+      "definitions_ex_vn": "Đứa trẻ hoàn toàn có khả năng phân biệt thực tế từ ảo mộng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

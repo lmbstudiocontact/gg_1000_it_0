@@ -1,0 +1,65 @@
+{
+  "english": "chicken",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trẻ tuổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "còn non nớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còn trẻ tráng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt gà giò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trai trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà giò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người còn trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thành niên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domestic fowl kept for its eggs or meat, especially a young one.",
+      "definitions_ex_en": "rationing was still in force and most people kept chickens",
+      "definitions_ex_vn": "khẩu phần vẫn có hiệu lực và hầu hết mọi người giữ gà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cowardly.",
+      "definitions_ex_en": "they were too chicken to follow the murderers into the mountains",
+      "definitions_ex_vn": "Họ đã quá gà để theo những kẻ giết người xuống núi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "withdraw from or fail in something through lack of nerve.",
+      "definitions_ex_en": "the referee chickened out of giving a penalty",
+      "definitions_ex_vn": "Trọng tài gà con ra khỏi một hình phạt",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

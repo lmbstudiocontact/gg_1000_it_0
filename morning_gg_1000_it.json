@@ -1,0 +1,41 @@
+{
+  "english": "morning",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi mai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng sớm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sớm mai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the period of time between midnight and noon, especially from sunrise to noon.",
+      "definitions_ex_en": "it was a beautiful sunny morning",
+      "definitions_ex_vn": "Đó là một buổi sáng nắng đẹp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "every morning.",
+      "definitions_ex_en": "mornings, she'd sleep late",
+      "definitions_ex_vn": "Buổi sáng, cô ngủ muộn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "short for good morning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

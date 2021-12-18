@@ -1,0 +1,39 @@
+{
+  "english": "bet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đánh cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh cuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "risk something, usually a sum of money, against someone else's on the basis of the outcome of a future event, such as the result of a race or game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "feel sure.",
+      "definitions_ex_en": "I bet this place is really spooky late at night",
+      "definitions_ex_vn": "Tôi cá là nơi này thực sự hư hỏng vào đêm khuya",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of risking a sum of money on the outcome of a future event.",
+      "definitions_ex_en": "every Saturday she had a bet on the horses",
+      "definitions_ex_vn": "Mỗi thứ bảy cô đặt cược vào những con ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "between.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

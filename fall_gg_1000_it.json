@@ -1,0 +1,117 @@
+{
+  "english": "fall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gập ghềnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngã xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sụp đổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thác nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa thu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước thủy triều xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rớt xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "té",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move downward, typically rapidly and freely without control, from a higher to a lower level.",
+      "definitions_ex_en": "five inches of snow fell through the night",
+      "definitions_ex_vn": "Năm inch tuyết rơi qua đêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) lose one's balance and collapse.",
+      "definitions_ex_en": "he stumbled, tripped, and fell",
+      "definitions_ex_vn": "Anh vấp ngã, vấp ngã và ngã",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decrease in number, amount, intensity, or quality.",
+      "definitions_ex_en": "imports fell by 12 percent",
+      "definitions_ex_vn": "Nhập khẩu giảm 12%",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be captured or defeated.",
+      "definitions_ex_en": "the besieged city fell after three months",
+      "definitions_ex_vn": "Thành phố bị bao vây đã giảm sau ba tháng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass into a specified state, situation, or position.",
+      "definitions_ex_en": "she fell pregnant",
+      "definitions_ex_vn": "Cô có thai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of falling or collapsing; a sudden uncontrollable descent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing which falls or has fallen.",
+      "definitions_ex_en": "in October came the first thin fall of snow",
+      "definitions_ex_vn": "Vào tháng 10 đã xuất hiện cú rơi tuyết rơi đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a decrease in size, number, rate, or level; a decline.",
+      "definitions_ex_en": "a big fall in unemployment",
+      "definitions_ex_vn": "Một ngã lớn trong thất nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a defeat or downfall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

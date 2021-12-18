@@ -1,0 +1,39 @@
+{
+  "english": "environment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những vật chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phủ chung quanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the surroundings or conditions in which a person, animal, or plant lives or operates.",
+      "definitions_ex_en": "survival in an often hostile environment",
+      "definitions_ex_vn": "Sống sót trong một môi trường thường thù địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the natural world, as a whole or in a particular geographical area, especially as affected by human activity.",
+      "definitions_ex_en": "the impact of pesticides on the environment",
+      "definitions_ex_vn": "Tác động của thuốc trừ sâu trên môi trường",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

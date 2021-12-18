@@ -1,0 +1,39 @@
+{
+  "english": "glue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "keo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "keo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán keo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an adhesive substance used for sticking objects or materials together.",
+      "definitions_ex_en": "waterproof glue",
+      "definitions_ex_vn": "keo chống thấm nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or join with or as if with glue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

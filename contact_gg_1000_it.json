@@ -1,0 +1,51 @@
+{
+  "english": "contact",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đụng chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gần gủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "va chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếp xúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếp xúc với",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or condition of physical touching.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state or condition of communicating or meeting.",
+      "definitions_ex_en": "Lewis and Clark came into contact with numerous river tribes",
+      "definitions_ex_vn": "Lewis và Clark tiếp xúc với nhiều bộ lạc sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "communicate with (someone), typically in order to give or receive specific information.",
+      "definitions_ex_en": "anyone with any information should contact Darlington police",
+      "definitions_ex_vn": "Bất cứ ai có bất kỳ thông tin nào nên liên hệ với Cảnh sát Darlington",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch.",
+      "definitions_ex_en": "I winced as my blister contacted the floor",
+      "definitions_ex_vn": "Tôi nhăn mặt vì vết phồng rộp liên lạc với sàn nhà",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

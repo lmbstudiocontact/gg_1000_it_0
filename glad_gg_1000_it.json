@@ -1,0 +1,41 @@
+{
+  "english": "glad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hài lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pleased; delighted.",
+      "definitions_ex_en": "I'm really glad to hear that",
+      "definitions_ex_vn": "Tôi thực sự rất vui khi nghe điều đó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make happy; please.",
+      "definitions_ex_en": "Albion's lessening shore could grieve or glad mine eye",
+      "definitions_ex_vn": "Bờ giảm bớt của Albion có thể đau buồn hoặc vui mừng với mắt tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a gladiolus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

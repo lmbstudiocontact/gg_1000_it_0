@@ -1,0 +1,47 @@
+{
+  "english": "gale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây sim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười om sòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gió hiu hiu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuê nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận cười ồn ào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very strong wind.",
+      "definitions_ex_en": "it was almost blowing a gale",
+      "definitions_ex_vn": "Nó gần như thổi một cơn gió",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a burst of sound, especially of laughter.",
+      "definitions_ex_en": "she collapsed into gales of laughter",
+      "definitions_ex_vn": "Cô gục ngã vào những tiếng cười",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

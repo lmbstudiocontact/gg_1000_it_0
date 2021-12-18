@@ -1,0 +1,27 @@
+{
+  "english": "mechanics",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ giới học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the branch of applied mathematics dealing with motion and forces producing motion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the machinery or working parts of something.",
+      "definitions_ex_en": "he looks at the mechanics of a car before the bodywork",
+      "definitions_ex_vn": "anh ta nhìn vào cơ học của một chiếc xe hơi trước thân xe",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

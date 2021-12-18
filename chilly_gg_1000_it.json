@@ -1,0 +1,53 @@
+{
+  "english": "chilly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chịu lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không niềm nở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người sợ lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ớn lạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lãnh đạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rùng mình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh nhạt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lạt lẻo",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vô tình",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lạnh lẻo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "uncomfortably cool or cold.",
+      "definitions_ex_en": "it had turned chilly",
+      "definitions_ex_vn": "nó đã biến lạnh",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

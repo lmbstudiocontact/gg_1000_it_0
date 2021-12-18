@@ -1,0 +1,39 @@
+{
+  "english": "elective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có quyền bầu cữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không bắt buộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "do dân bầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "do tuyển cữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tùy ý",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "related to or working by means of election.",
+      "definitions_ex_en": "an elective democracy",
+      "definitions_ex_vn": "một nền dân chủ tự chọn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of surgical or medical treatment) chosen by the patient rather than urgently necessary.",
+      "definitions_ex_en": "elective surgery",
+      "definitions_ex_vn": "Lựa chọn phẫu thuật",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

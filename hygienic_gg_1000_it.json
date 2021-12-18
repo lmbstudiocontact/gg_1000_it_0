@@ -1,0 +1,25 @@
+{
+  "english": "hygienic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vệ sinh học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conducive to maintaining health and preventing disease, especially by being clean; sanitary.",
+      "definitions_ex_en": "hygienic conditions",
+      "definitions_ex_vn": "Điều kiện vệ sinh",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

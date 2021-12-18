@@ -1,0 +1,27 @@
+{
+  "english": "decimal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thập phân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số thập phân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or denoting a system of numbers and arithmetic based on the number ten, tenth parts, and powers of ten.",
+      "definitions_ex_en": "decimal arithmetic",
+      "definitions_ex_vn": "số thập phân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a fraction whose denominator is a power of ten and whose numerator is expressed by figures placed to the right of a decimal point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

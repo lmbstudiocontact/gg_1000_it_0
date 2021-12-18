@@ -1,0 +1,29 @@
+{
+  "english": "backslide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lại mắc phải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lại sa ngã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tái phạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phạm tội trở lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relapse into bad ways or error.",
+      "definitions_ex_en": "converted vegetarians backslide to T-bones",
+      "definitions_ex_vn": "Chuyển đổi vụ trộm người ăn chay sang xương T",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

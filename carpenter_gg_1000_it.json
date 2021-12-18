@@ -1,0 +1,27 @@
+{
+  "english": "carpenter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghề thợ mộc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes and repairs wooden objects and structures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make by shaping wood.",
+      "definitions_ex_en": "the rails were carpentered very skillfully",
+      "definitions_ex_vn": "Các đường ray đã được đánh cắp rất khéo léo",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

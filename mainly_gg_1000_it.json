@@ -1,0 +1,21 @@
+{
+  "english": "mainly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần đông",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "phần lớn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "more than anything else.",
+      "definitions_ex_en": "he is mainly concerned with fiction",
+      "definitions_ex_vn": "Ông chủ yếu quan tâm đến tiểu thuyết",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

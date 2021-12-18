@@ -1,0 +1,21 @@
+{
+  "english": "food",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thức ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+      "definitions_ex_en": "we need food and water",
+      "definitions_ex_vn": "Chúng tôi cần thức ăn và nước",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

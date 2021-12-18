@@ -1,0 +1,29 @@
+{
+  "english": "deplete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm tan máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông huyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "triệt binh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng hết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "use up the supply or resources of.",
+      "definitions_ex_en": "reservoirs have been depleted by years of drought",
+      "definitions_ex_vn": "Các hồ chứa đã bị cạn kiệt bởi nhiều năm hạn hán",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

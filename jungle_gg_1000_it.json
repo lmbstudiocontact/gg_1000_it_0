@@ -1,0 +1,27 @@
+{
+  "english": "jungle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mớ hỗn độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rừng nhiệt đới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of land overgrown with dense forest and tangled vegetation, typically in the tropics.",
+      "definitions_ex_en": "we set off into the jungle",
+      "definitions_ex_vn": "Chúng tôi lên đường vào rừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of dance music incorporating elements of ragga, hip-hop, and hard core and consisting almost exclusively of very fast electronic drum tracks and slower synthesized bass lines, originating in Britain in the early 1990s.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

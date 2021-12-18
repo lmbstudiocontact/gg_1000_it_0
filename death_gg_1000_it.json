@@ -1,0 +1,25 @@
+{
+  "english": "death",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ khai tử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tử thần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of dying or being killed; the end of the life of a person or organism.",
+      "definitions_ex_en": "an increase in deaths from skin cancer",
+      "definitions_ex_vn": "sự gia tăng tử vong do ung thư da",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

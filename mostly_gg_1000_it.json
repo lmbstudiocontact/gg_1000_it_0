@@ -1,0 +1,21 @@
+{
+  "english": "mostly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn hết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhiều hơn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as regards the greater part or number.",
+      "definitions_ex_en": "I grow mostly annuals",
+      "definitions_ex_vn": "Tôi trồng chủ yếu hàng năm",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

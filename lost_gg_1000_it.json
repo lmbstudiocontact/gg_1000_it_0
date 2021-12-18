@@ -1,0 +1,43 @@
+{
+  "english": "lost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất lạc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past and past participle of lose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "unable to find one's way; not knowing one's whereabouts.",
+      "definitions_ex_en": "Help! We're lost!",
+      "definitions_ex_vn": "Cứu giúp!",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting something that has been taken away or cannot be recovered.",
+      "definitions_ex_en": "if only one could recapture one's lost youth",
+      "definitions_ex_vn": "Nếu chỉ có người ta có thể chiếm lại tuổi trẻ bị mất của một người",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a game or contest) in which a defeat has been sustained.",
+      "definitions_ex_en": "the lost election of 1994",
+      "definitions_ex_vn": "Cuộc bầu cử đã mất năm 1994",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "helicopter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy bay lên thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phi cơ trực thăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay lên thẳng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of aircraft which derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors. It is capable of moving vertically and horizontally, the direction of motion being controlled by the pitch of the rotor blades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport by helicopter.",
+      "definitions_ex_en": "the Coast Guard helicoptered a compressor to one ship",
+      "definitions_ex_vn": "Người bảo vệ bờ biển máy bay trực thăng một máy nén khí cho một con tàu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

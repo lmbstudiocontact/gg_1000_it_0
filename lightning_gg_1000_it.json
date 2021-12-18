@@ -1,0 +1,23 @@
+{
+  "english": "lightning",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tia chớp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder.",
+      "definitions_ex_en": "a tremendous flash of lightning",
+      "definitions_ex_vn": "một tia sét to lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "very quick.",
+      "definitions_ex_en": "a lightning cure for his hangover",
+      "definitions_ex_vn": "một tia sét để nôn nao của mình",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

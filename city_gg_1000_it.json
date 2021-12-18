@@ -1,0 +1,35 @@
+{
+  "english": "city",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đô thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tất cả dân thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành thị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large town.",
+      "definitions_ex_en": "one of Italy's most beautiful cities",
+      "definitions_ex_vn": "một trong những thành phố đẹp nhất của Ý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for City of London.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

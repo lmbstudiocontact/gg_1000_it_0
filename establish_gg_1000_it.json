@@ -1,0 +1,71 @@
+{
+  "english": "establish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "củng cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gây dựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho vửng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập chính phủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng lập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiết lập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiết lập tòa án",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vửng bền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "set up (an organization, system, or set of rules) on a firm or permanent basis.",
+      "definitions_ex_en": "the British established a rich trade with Portugal",
+      "definitions_ex_vn": "Người Anh thành lập một thương mại phong phú với Bồ Đào Nha",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "achieve permanent acceptance or recognition for.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show (something) to be true or certain by determining the facts.",
+      "definitions_ex_en": "the police established that the two passports were forgeries",
+      "definitions_ex_vn": "Cảnh sát đã thành lập rằng hai hộ chiếu là giả mạo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ensure that one's remaining cards in (a suit) will be winners (if not trumped) by playing off the high cards in that suit.",
+      "definitions_ex_en": "the right plan would be to establish dummy's diamonds",
+      "definitions_ex_vn": "Kế hoạch phù hợp sẽ là thiết lập kim cương của Dummy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

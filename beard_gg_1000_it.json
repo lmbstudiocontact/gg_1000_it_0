@@ -1,0 +1,27 @@
+{
+  "english": "beard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "râu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khinh khi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a growth of hair on the chin and lower cheeks of a man's face.",
+      "definitions_ex_en": "he had a black beard",
+      "definitions_ex_vn": "Anh ta có một bộ râu đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "boldly confront or challenge (someone formidable).",
+      "definitions_ex_en": "he was afraid to beard the sultan himself",
+      "definitions_ex_vn": "anh ta sợ phải tự mình ra mồ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

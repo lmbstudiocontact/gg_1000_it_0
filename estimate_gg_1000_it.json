@@ -1,0 +1,31 @@
+{
+  "english": "estimate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lượng giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "roughly calculate or judge the value, number, quantity, or extent of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an approximate calculation or judgment of the value, number, quantity, or extent of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

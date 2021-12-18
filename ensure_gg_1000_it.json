@@ -1,0 +1,25 @@
+{
+  "english": "ensure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bền vững",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho vững",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make certain that (something) shall occur or be the case.",
+      "definitions_ex_en": "the client must ensure that accurate records be kept",
+      "definitions_ex_vn": "Khách hàng phải đảm bảo rằng các hồ sơ chính xác được giữ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

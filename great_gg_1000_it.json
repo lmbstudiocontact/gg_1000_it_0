@@ -1,0 +1,85 @@
+{
+  "english": "great",
+  "list_translation_mean": [
+    {
+      "translate_mean": "to",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phần lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phần nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tuyệt quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô số",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giỏi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of an extent, amount, or intensity considerably above the normal or average.",
+      "definitions_ex_en": "the article was of great interest",
+      "definitions_ex_vn": "Bài báo rất quan tâm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of ability, quality, or eminence considerably above the normal or average.",
+      "definitions_ex_en": "the great Italian conductor",
+      "definitions_ex_vn": "nhạc trưởng tuyệt vời của Ý",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to indicate that someone or something particularly deserves a specified description.",
+      "definitions_ex_en": "I was a great fan of Hank's",
+      "definitions_ex_vn": "Tôi là một fan hâm mộ tuyệt vời của Hank",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in names of family relationships) denoting one degree further removed upward or downward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an important or distinguished person.",
+      "definitions_ex_en": "the Beatles, Bob Dylan, all the greats",
+      "definitions_ex_vn": "The Beatles, Bob Dylan, tất cả những người vĩ đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for Literae Humaniores.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "excellently; very well.",
+      "definitions_ex_en": "we played awful, they played great",
+      "definitions_ex_vn": "Chúng tôi đã chơi khủng khiếp, họ chơi tuyệt vời",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

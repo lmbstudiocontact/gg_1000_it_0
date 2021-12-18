@@ -1,0 +1,155 @@
+{
+  "english": "mean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trung dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách sanh nhai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiết trung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số trung bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trung bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bậc trung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bần cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đê tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hèn mọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung bình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung độ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bần tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hèn hạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghèo khó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghĩa là",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính kết quả trung bình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intend to convey, indicate, or refer to (a particular thing or notion); signify.",
+      "definitions_ex_en": "I don't know what you mean",
+      "definitions_ex_vn": "Tôi không biết ý của bạn là gì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intend (something) to occur or be the case.",
+      "definitions_ex_en": "they mean no harm",
+      "definitions_ex_vn": "họ có nghĩa là không có hại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have as a consequence or result.",
+      "definitions_ex_en": "the proposals are likely to mean another hundred closures",
+      "definitions_ex_vn": "Các đề xuất có khả năng có nghĩa là một trăm lần đóng cửa khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "unkind, spiteful, or unfair.",
+      "definitions_ex_en": "it was very mean of me",
+      "definitions_ex_vn": "Nó rất có ý nghĩa của tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of a place) poor in quality and appearance; shabby.",
+      "definitions_ex_en": "her home was mean and small",
+      "definitions_ex_vn": "nhà của cô ấy có ý nghĩa và nhỏ bé",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excellent; very skillful or effective.",
+      "definitions_ex_en": "he's a mean cook",
+      "definitions_ex_vn": "anh ấy là một đầu bếp có nghĩa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a quantity) calculated as a mean; average.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "equally far from two extremes.",
+      "definitions_ex_en": "hope is the mean virtue between despair and presumption",
+      "definitions_ex_vn": "Hy vọng là đức hạnh trung bình giữa tuyệt vọng và giả định",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the value obtained by dividing the sum of several quantities by their number; an average.",
+      "definitions_ex_en": "acid output was calculated by taking the mean of all three samples",
+      "definitions_ex_vn": "Sản lượng axit được tính bằng cách lấy giá trị trung bình của cả ba mẫu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a condition, quality, or course of action equally removed from two opposite (usually unsatisfactory) extremes.",
+      "definitions_ex_en": "the mean between two extremes",
+      "definitions_ex_vn": "ý nghĩa giữa hai thái cực",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

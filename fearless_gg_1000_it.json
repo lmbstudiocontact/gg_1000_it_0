@@ -1,0 +1,25 @@
+{
+  "english": "fearless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạn dĩ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gan dạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dũng cảm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking fear.",
+      "definitions_ex_en": "a fearless defender of freedom",
+      "definitions_ex_vn": "một người bảo vệ không sợ hãi của tự do",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

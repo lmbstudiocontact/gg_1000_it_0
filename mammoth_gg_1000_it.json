@@ -1,0 +1,27 @@
+{
+  "english": "mammoth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khổng lồ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống voi to lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large extinct elephant of the Pleistocene epoch, typically hairy with a sloping back and long curved tusks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "huge.",
+      "definitions_ex_en": "a mammoth corporation",
+      "definitions_ex_vn": "một tập đoàn voi ma mút.",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

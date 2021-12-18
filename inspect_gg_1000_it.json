@@ -1,0 +1,25 @@
+{
+  "english": "inspect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look at (someone or something) closely, typically to assess their condition or to discover any shortcomings.",
+      "definitions_ex_en": "they were inspecting my outside paintwork for cracks and flaws",
+      "definitions_ex_vn": "Họ đang kiểm tra các tác phẩm sơn bên ngoài của tôi cho các vết nứt và sai sót",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

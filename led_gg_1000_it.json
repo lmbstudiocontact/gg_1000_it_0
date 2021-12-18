@@ -1,0 +1,61 @@
+{
+  "english": "led",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọc chì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buộc chì vào cho nặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn vào khuôn bằng chì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trám chì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tráng chì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hướng dẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyến dụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa đến một kết quả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light-emitting diode (a semiconductor diode which glows when a voltage is applied).",
+      "definitions_ex_en": "light sources can be fluorescent tubes, optical fibers, or LEDs",
+      "definitions_ex_vn": "Nguồn sáng có thể là ống huỳnh quang, sợi quang hoặc đèn LED",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

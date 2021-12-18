@@ -1,0 +1,35 @@
+{
+  "english": "continue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kéo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không dứt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tiếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp tục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "persist in an activity or process.",
+      "definitions_ex_en": "he was unable to continue with his job",
+      "definitions_ex_vn": "anh ấy đã không thể tiếp tục với công việc của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "recommence or resume after interruption.",
+      "definitions_ex_en": "we continue the story from the point reached in Chapter 1",
+      "definitions_ex_vn": "Chúng tôi tiếp tục câu chuyện từ điểm đạt được trong Chương 1",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

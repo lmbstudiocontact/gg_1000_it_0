@@ -1,0 +1,41 @@
+{
+  "english": "century",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đội quân trăm người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một trăm đô la",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một trăm vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế kỷ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of one hundred years.",
+      "definitions_ex_en": "a century ago most people walked to work",
+      "definitions_ex_vn": "Một thế kỷ trước mà hầu hết mọi người bước đi làm việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a score of one hundred in a sporting event, such as a cricket match.",
+      "definitions_ex_en": "he scored the only century of the tour",
+      "definitions_ex_vn": "anh ấy đã ghi được thế kỷ duy nhất của tour du lịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a company in the ancient Roman army, originally of one hundred men.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

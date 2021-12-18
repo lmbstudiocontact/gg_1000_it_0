@@ -1,0 +1,79 @@
+{
+  "english": "let",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngăn trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chướng ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ngăn cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho mướn nhà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chúng ta hảy...",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để mặc cho",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not prevent or forbid; allow.",
+      "definitions_ex_en": "my boss let me leave early",
+      "definitions_ex_vn": "Sếp của tôi hãy để tôi rời đi sớm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used in the imperative to formulate various expressions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hinder.",
+      "definitions_ex_en": "pray you let us not; we fain would greet our mother",
+      "definitions_ex_vn": "cầu nguyện bạn hãy để chúng tôi không;",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in racket sports) a play that is nullified and has to be played again, especially when a served ball touches the top of the net.",
+      "definitions_ex_en": "he was obstructed and asked for a let",
+      "definitions_ex_vn": "anh ta bị tắc nghẽn và yêu cầu cho phép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(forming nouns) denoting a smaller or lesser kind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "denoting articles of ornament or dress.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

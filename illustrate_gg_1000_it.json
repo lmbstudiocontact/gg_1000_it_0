@@ -1,0 +1,25 @@
+{
+  "english": "illustrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chú giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giảng nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuyết minh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "provide (a book, newspaper, etc.) with pictures.",
+      "definitions_ex_en": "the guide is illustrated with full-color photographs",
+      "definitions_ex_vn": "Hướng dẫn được minh họa với các bức ảnh đầy màu sắc",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

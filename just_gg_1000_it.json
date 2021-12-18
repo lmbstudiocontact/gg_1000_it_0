@@ -1,0 +1,55 @@
+{
+  "english": "just",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "based on or behaving according to what is morally right and fair.",
+      "definitions_ex_en": "a just and democratic society",
+      "definitions_ex_vn": "một xã hội vừa và dân chủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "exactly.",
+      "definitions_ex_en": "that's just what I need",
+      "definitions_ex_vn": "đó chỉ là những gì tôi cần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "very recently; in the immediate past.",
+      "definitions_ex_en": "I've just seen the local paper",
+      "definitions_ex_vn": "Tôi vừa thấy giấy địa phương",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "barely; by a little.",
+      "definitions_ex_en": "inflation fell to just over 4 percent",
+      "definitions_ex_vn": "Lạm phát giảm xuống chỉ còn hơn 4 phần trăm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "simply; only; no more than.",
+      "definitions_ex_en": "they were just interested in making money",
+      "definitions_ex_vn": "Họ chỉ quan tâm đến việc kiếm tiền",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "expressing agreement.",
+      "definitions_ex_en": "“Simon really messed things up.” “Didn't he just?”",
+      "definitions_ex_vn": "\"Simon thực sự nhắn tin cho mọi thứ.\"",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

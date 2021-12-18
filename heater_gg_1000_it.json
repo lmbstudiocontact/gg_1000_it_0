@@ -1,0 +1,27 @@
+{
+  "english": "heater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lò sưởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that heats, in particular a device for warming the air or water.",
+      "definitions_ex_en": "a wall-mounted electric heater",
+      "definitions_ex_vn": "một lò sưởi điện treo tường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fastball.",
+      "definitions_ex_en": "he drove the next pitch, another heater, over the left-field fence",
+      "definitions_ex_vn": "Anh ta lái tay tiếp theo, một lò sưởi khác, trên hàng rào cánh đồng bên trái",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "chance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dịp may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều nguy hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngẫu nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc xảy đến thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh liều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều xảy ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a possibility of something happening.",
+      "definitions_ex_en": "there is little chance of his finding a job",
+      "definitions_ex_vn": "Có rất ít cơ hội tìm kiếm một công việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the occurrence and development of events in the absence of any obvious design.",
+      "definitions_ex_en": "he met his brother by chance",
+      "definitions_ex_vn": "Anh gặp anh trai mình tình cờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fortuitous; accidental.",
+      "definitions_ex_en": "a chance meeting",
+      "definitions_ex_vn": "một cuộc họp cơ hội",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "do something by accident or without design.",
+      "definitions_ex_en": "if they chanced to meet",
+      "definitions_ex_vn": "Nếu họ tình cờ gặp nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "do (something) despite its being dangerous or of uncertain outcome.",
+      "definitions_ex_en": "she waited a few seconds and chanced another look",
+      "definitions_ex_vn": "Cô chờ đợi một vài giây và đánh lạc với một cái nhìn khác",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

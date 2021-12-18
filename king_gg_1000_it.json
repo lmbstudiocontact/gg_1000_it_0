@@ -1,0 +1,33 @@
+{
+  "english": "king",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lảnh chúa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the male ruler of an independent state, especially one who inherits the position by right of birth.",
+      "definitions_ex_en": "King Henry VIII",
+      "definitions_ex_vn": "King Henry VIII.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the most important chess piece, of which each player has one, which the opponent has to checkmate in order to win. The king can move in any direction, including diagonally, to any adjacent square that is not attacked by an opponent's piece or pawn.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (someone) king.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

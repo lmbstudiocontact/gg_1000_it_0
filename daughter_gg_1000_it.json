@@ -1,0 +1,29 @@
+{
+  "english": "daughter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con gái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a girl or woman in relation to either or both of her parents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nuclide formed by the radioactive decay of another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "originating through division or replication.",
+      "definitions_ex_en": "daughter cells",
+      "definitions_ex_vn": "tế bào con",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

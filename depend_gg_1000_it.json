@@ -1,0 +1,41 @@
+{
+  "english": "depend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng thòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tin cậy vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tùy theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tự lực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be controlled or determined by.",
+      "definitions_ex_en": "differences in earnings depended on a wide variety of factors",
+      "definitions_ex_vn": "sự khác biệt về thu nhập phụ thuộc vào nhiều yếu tố khác nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rely on.",
+      "definitions_ex_en": "the kind of person you could depend on",
+      "definitions_ex_vn": "loại người bạn có thể phụ thuộc vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hang down.",
+      "definitions_ex_en": "his tongue depended from open jaws",
+      "definitions_ex_vn": "Lưỡi của anh ta phụ thuộc từ hàm mở",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

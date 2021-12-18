@@ -1,0 +1,37 @@
+{
+  "english": "many",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô số",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large number of.",
+      "definitions_ex_en": "many people agreed with her",
+      "definitions_ex_vn": "nhiều người đồng ý với cô ấy",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a large number of people or things.",
+      "definitions_ex_en": "it could be the solution to many of our problems",
+      "definitions_ex_vn": "Nó có thể là giải pháp cho nhiều vấn đề của chúng tôi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "the majority of people.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "hide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "che",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn tránh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh mạng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put or keep out of sight; conceal from the view or notice of others.",
+      "definitions_ex_en": "he hid the money in the house",
+      "definitions_ex_vn": "Anh ta giấu tiền trong nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the skin of an animal, especially when tanned or dressed.",
+      "definitions_ex_en": "we'll skin them right here and preserve their hides",
+      "definitions_ex_vn": "chúng ta sẽ làm da chúng ngay tại đây và giữ gìn sự che giấu của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a former measure of land used in England, typically equal to between 60 and 120 acres, being the amount that would support a family and its dependents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

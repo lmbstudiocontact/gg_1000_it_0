@@ -1,0 +1,53 @@
+{
+  "english": "between",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng giữa",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at, into, or across the space separating (two objects or regions).",
+      "definitions_ex_en": "the border between Mexico and the United States",
+      "definitions_ex_vn": "biên giới giữa Mexico và Hoa Kỳ",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in the period separating (two points in time).",
+      "definitions_ex_en": "they snack between meals",
+      "definitions_ex_vn": "Họ ăn nhẹ giữa các bữa ăn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in the interval separating (two points on a scale).",
+      "definitions_ex_en": "a man aged between 18 and 30",
+      "definitions_ex_vn": "một người đàn ông trong độ tuổi từ 18 đến 30",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating a connection or relationship involving two or more parties.",
+      "definitions_ex_en": "links between science and industry",
+      "definitions_ex_vn": "Liên kết giữa khoa học và công nghiệp",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "by combining the resources or actions of (two or more people or other entities).",
+      "definitions_ex_en": "we have created something between us",
+      "definitions_ex_vn": "Chúng tôi đã tạo ra một cái gì đó giữa chúng tôi",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in or along the space separating two objects or regions.",
+      "definitions_ex_en": "layers of paper with tar in between",
+      "definitions_ex_vn": "các lớp giấy có tar ở giữa",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in the period separating two points in time.",
+      "definitions_ex_en": "sets of exercises with no rest in between",
+      "definitions_ex_vn": "bộ bài tập không có phần còn lại ở giữa",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

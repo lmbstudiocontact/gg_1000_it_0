@@ -1,0 +1,67 @@
+{
+  "english": "curb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bờ đá ở hai bên đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành giếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ sưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàm thiếc ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiềm chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lề đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a check or restraint on something.",
+      "definitions_ex_en": "curbs on the powers of labor unions",
+      "definitions_ex_vn": "curbs về quyền hạn của công đoàn lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a swelling on the back of a horse's hock, caused by spraining a ligament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "restrain or keep in check.",
+      "definitions_ex_en": "she promised she would curb her temper",
+      "definitions_ex_vn": "Cô hứa cô sẽ kiềm chế sự nóng nảy của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

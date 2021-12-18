@@ -1,0 +1,51 @@
+{
+  "english": "cling",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bám vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bấu lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dính vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không bỏ ý kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "níu lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hold on tightly to.",
+      "definitions_ex_en": "she clung to Joe's arm",
+      "definitions_ex_vn": "Cô bám vào cánh tay của Joe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a clingstone peach.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

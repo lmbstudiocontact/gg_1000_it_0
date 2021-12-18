@@ -1,0 +1,27 @@
+{
+  "english": "besides",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vả chăng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vả lại",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in addition to; apart from.",
+      "definitions_ex_en": "I have no other family besides my parents",
+      "definitions_ex_vn": "Tôi không có gia đình nào khác ngoài bố mẹ tôi",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in addition; as well.",
+      "definitions_ex_en": "I'm capable of doing the work, and a lot more besides",
+      "definitions_ex_vn": "Tôi có khả năng thực hiện công việc, và nhiều hơn nữa bên cạnh đó",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

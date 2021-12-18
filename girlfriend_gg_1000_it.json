@@ -1,0 +1,21 @@
+{
+  "english": "girlfriend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạn gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yêu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular female companion with whom a person has a romantic or sexual relationship.",
+      "definitions_ex_en": "his girlfriend is Australian",
+      "definitions_ex_vn": "Bạn gái của anh ấy là người Úc",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

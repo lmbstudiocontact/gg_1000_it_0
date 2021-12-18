@@ -1,0 +1,39 @@
+{
+  "english": "maroon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm biếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lười biếng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a brownish-crimson color.",
+      "definitions_ex_en": "ornate maroon and gold wallpaper",
+      "definitions_ex_vn": "Hình nền trang trí công phu và vàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a brownish-crimson color.",
+      "definitions_ex_en": "the hat is available in either white or maroon",
+      "definitions_ex_vn": "Chiếc mũ có sẵn trong màu trắng hoặc maroon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of any of various communities in parts of the Caribbean who were originally descended from escaped slaves. In the 18th century Jamaican Maroons fought two wars against the British settlers, both of which ended with treaties affirming the independence of the Maroons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "leave (someone) trapped and isolated in an inaccessible place, especially an island.",
+      "definitions_ex_en": "a novel about schoolboys marooned on a desert island",
+      "definitions_ex_vn": "Một cuốn tiểu thuyết về học sinh Marooned trên một hòn đảo sa mạc",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

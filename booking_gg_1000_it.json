@@ -1,0 +1,23 @@
+{
+  "english": "booking",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bièn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of reserving accommodations, travel, etc., or of buying a ticket in advance.",
+      "definitions_ex_en": "the hotel does not handle group bookings",
+      "definitions_ex_vn": "Khách sạn không xử lý việc đặt phòng nhóm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of a player being cautioned by the referee for foul play.",
+      "definitions_ex_en": "it was a rough match with five bookings",
+      "definitions_ex_vn": "Đó là một trận đấu khó khăn với năm đặt phòng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

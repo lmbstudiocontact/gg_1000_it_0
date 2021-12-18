@@ -1,0 +1,43 @@
+{
+  "english": "inform",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cho người nào biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tố cáo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (someone) facts or information; tell.",
+      "definitions_ex_en": "he wrote to her, informing her of the situation",
+      "definitions_ex_vn": "anh ấy đã viết cho cô ấy, thông báo cho cô ấy về tình huống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give an essential or formative principle or quality to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

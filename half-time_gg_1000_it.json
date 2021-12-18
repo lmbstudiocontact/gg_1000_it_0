@@ -1,0 +1,37 @@
+{
+  "english": "half-time",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giờ nghỉ giải lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học sinh nữa ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm việc nữa ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữa ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữa ngày ở xưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ làm nữa ngày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time at which half of a game or contest is completed, especially when marked by an intermission.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

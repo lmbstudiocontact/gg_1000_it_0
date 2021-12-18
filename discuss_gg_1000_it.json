@@ -1,0 +1,25 @@
+{
+  "english": "discuss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bàn luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "talk about (something) with another person or group of people.",
+      "definitions_ex_en": "I discussed the matter with my wife",
+      "definitions_ex_vn": "Tôi đã thảo luận vấn đề với vợ tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

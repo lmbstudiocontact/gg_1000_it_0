@@ -1,0 +1,35 @@
+{
+  "english": "hardly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đụng mạnh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khó nhọc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mạnh",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "scarcely (used to qualify a statement by saying that it is true to an insignificant degree).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "harshly.",
+      "definitions_ex_en": "the rule worked hardly",
+      "definitions_ex_vn": "Quy tắc làm việc chăm chỉ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

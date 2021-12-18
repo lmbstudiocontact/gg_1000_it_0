@@ -1,0 +1,39 @@
+{
+  "english": "charcoal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức họa bằng than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở mỹ bức vẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẽ bằng than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi than cho đen",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a porous black solid, consisting of an amorphous form of carbon, obtained as a residue when wood, bone, or other organic matter is heated in the absence of air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook over charcoal.",
+      "definitions_ex_en": "we charcoaled a couple T-bone steaks",
+      "definitions_ex_vn": "Chúng tôi than cấy một vài miếng bít tết xương T",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "impose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưởng bức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánhn lưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh thuế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lạm dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa phỉnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp chữ vào khuông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "force (something unwelcome or unfamiliar) to be accepted or put in place.",
+      "definitions_ex_en": "the decision was theirs and was not imposed on them by others",
+      "definitions_ex_vn": "Quyết định là của họ và không được áp dụng cho họ bởi những người khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take advantage of someone by demanding their attention or commitment.",
+      "definitions_ex_en": "she realized that she had imposed on Miss Hatherby's kindness",
+      "definitions_ex_vn": "Cô nhận ra rằng cô đã áp đặt vào lòng tốt của Miss Hatherby",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange (pages of type) so that they will be in the correct order after printing and folding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

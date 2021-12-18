@@ -1,0 +1,35 @@
+{
+  "english": "define",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch biên giới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "state or describe exactly the nature, scope, or meaning of.",
+      "definitions_ex_en": "the contract will seek to define the client's obligations",
+      "definitions_ex_vn": "Hợp đồng sẽ tìm cách xác định nghĩa vụ của khách hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark out the boundary or limits of.",
+      "definitions_ex_en": "the river defines the park's boundary",
+      "definitions_ex_vn": "dòng sông xác định ranh giới của công viên",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

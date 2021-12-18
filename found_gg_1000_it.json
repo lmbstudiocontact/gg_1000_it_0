@@ -1,0 +1,75 @@
+{
+  "english": "found",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lập thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xây dựng thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "căn cứ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựa trên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu chảy kim loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp nền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc kim loại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past and past participle of find.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "establish or originate (an institution or organization), especially by providing an endowment.",
+      "definitions_ex_en": "the monastery was founded in 1665",
+      "definitions_ex_vn": "Tu viện được thành lập vào năm 1665",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "construct or base (a principle or other abstract thing) according to a particular principle or grounds.",
+      "definitions_ex_en": "a society founded on the highest principles of religion and education",
+      "definitions_ex_vn": "Một xã hội được thành lập dựa trên các nguyên tắc giáo dục và giáo dục cao nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "melt and mold (metal).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having been discovered by chance or unexpectedly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a ship) equipped; supplied.",
+      "definitions_ex_en": "the ship was two years old, well found and seaworthy",
+      "definitions_ex_vn": "con tàu được hai tuổi, được tìm thấy tốt và đi biển",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

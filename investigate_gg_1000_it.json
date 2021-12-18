@@ -1,0 +1,25 @@
+{
+  "english": "investigate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dò xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.",
+      "definitions_ex_en": "police are investigating the alleged beating",
+      "definitions_ex_vn": "Cảnh sát đang điều tra bị cáo buộc đánh đập",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

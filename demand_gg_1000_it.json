@@ -1,0 +1,51 @@
+{
+  "english": "demand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời xin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỉnh nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xin việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an insistent and peremptory request, made as if by right.",
+      "definitions_ex_en": "a series of demands for far-reaching reforms",
+      "definitions_ex_vn": "một loạt các yêu cầu để cải cách sâu rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ask authoritatively or brusquely.",
+      "definitions_ex_en": "“Where is she?” he demanded",
+      "definitions_ex_vn": "\"Cô ấy ở đâu?\"",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

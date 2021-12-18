@@ -1,0 +1,25 @@
+{
+  "english": "intelligent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thông minh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôn ngoan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sáng trí",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing intelligence, especially of a high level.",
+      "definitions_ex_en": "Annabelle is intelligent and hardworking",
+      "definitions_ex_vn": "Annabelle là thông minh và chăm chỉ",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

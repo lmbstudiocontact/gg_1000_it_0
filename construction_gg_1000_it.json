@@ -1,0 +1,45 @@
+{
+  "english": "construction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đặt câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiến tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xây dựng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the building of something, typically a large structure.",
+      "definitions_ex_en": "there was a skyscraper under construction",
+      "definitions_ex_vn": "Có một tòa nhà chọc trời đang được xây dựng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

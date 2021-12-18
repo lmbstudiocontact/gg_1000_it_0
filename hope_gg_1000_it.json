@@ -1,0 +1,49 @@
+{
+  "english": "hope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông mông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kỳ vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ước vọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of expectation and desire for a certain thing to happen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling of trust.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "want something to happen or be the case.",
+      "definitions_ex_en": "he's hoping for an offer of compensation",
+      "definitions_ex_vn": "Anh ấy hy vọng cho một lời đề nghị bồi thường",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "boring",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bực dọc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chán nản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơi buồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó chịu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm buồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quấy rầy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not interesting; tedious.",
+      "definitions_ex_en": "I've got a boring job in an office",
+      "definitions_ex_vn": "Tôi đã có một công việc nhàm chán trong một văn phòng",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

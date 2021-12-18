@@ -1,0 +1,29 @@
+{
+  "english": "dad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tía",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one's father.",
+      "definitions_ex_en": "his dad was with him",
+      "definitions_ex_vn": "Bố anh ở cùng anh.",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

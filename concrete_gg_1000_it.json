@@ -1,0 +1,59 @@
+{
+  "english": "concrete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bê tông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cụ thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cụ thể hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc bê tông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngưng kết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing in a material or physical form; not abstract.",
+      "definitions_ex_en": "concrete objects like stones",
+      "definitions_ex_vn": "Đối tượng bê tông như đá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water, that can be spread or poured into molds and that forms a mass resembling stone on hardening.",
+      "definitions_ex_en": "slabs of concrete",
+      "definitions_ex_vn": "Tấm bê tông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (an area) with concrete.",
+      "definitions_ex_en": "the precious English countryside may soon be concreted over",
+      "definitions_ex_vn": "nông thôn tiếng Anh quý giá có thể sớm được cụ thể hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form (something) into a mass; solidify.",
+      "definitions_ex_en": "the juices of the plants are concreted upon the surface",
+      "definitions_ex_vn": "Các loại nước ép của cây được bê tông hóa trên bề mặt",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

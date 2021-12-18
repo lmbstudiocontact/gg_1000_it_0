@@ -1,0 +1,51 @@
+{
+  "english": "loud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đọc to",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay làm ồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "huyên náo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lòe loẹt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói lớn tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ồn ào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sặc sở",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "producing or capable of producing much noise; easily audible.",
+      "definitions_ex_en": "they were kept awake by loud music",
+      "definitions_ex_vn": "họ đã được thức dậy bởi âm nhạc lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with a great deal of volume.",
+      "definitions_ex_en": "they shouted as loud as they could",
+      "definitions_ex_vn": "Họ hét to như họ có thể",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "derive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyển hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn máu từ khí quyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "do ở đâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát nguyên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm sự vui thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trích dẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain something from (a specified source).",
+      "definitions_ex_en": "they derived great comfort from this assurance",
+      "definitions_ex_vn": "Họ bắt nguồn sự thoải mái tuyệt vời từ sự đảm bảo này",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

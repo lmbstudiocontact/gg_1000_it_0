@@ -1,0 +1,29 @@
+{
+  "english": "beautiful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắc đẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ đẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pleasing the senses or mind aesthetically.",
+      "definitions_ex_en": "beautiful poetry",
+      "definitions_ex_vn": "Thơ đẹp",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

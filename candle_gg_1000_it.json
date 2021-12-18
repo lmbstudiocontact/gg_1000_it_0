@@ -1,0 +1,27 @@
+{
+  "english": "candle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đèn cầy,đèn sáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a poultry breeder) test (an egg) for freshness or fertility by holding it to the light.",
+      "definitions_ex_en": "the egg was candled—it was fertile",
+      "definitions_ex_vn": "quả trứng được nến, nó là màu mỡ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

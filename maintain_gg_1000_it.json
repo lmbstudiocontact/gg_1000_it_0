@@ -1,0 +1,61 @@
+{
+  "english": "maintain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo tồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bảo tồn danh dự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ bình tỉnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ gìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ gìn thanh danh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ im lặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủng hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "duy trì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause or enable (a condition or state of affairs) to continue.",
+      "definitions_ex_en": "the need to maintain close links between industry and schools",
+      "definitions_ex_vn": "sự cần thiết phải duy trì các liên kết chặt chẽ giữa ngành công nghiệp và trường học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide with necessities for life or existence.",
+      "definitions_ex_en": "the allowance covers the basic costs of maintaining a child",
+      "definitions_ex_vn": "trợ cấp bao gồm các chi phí cơ bản của việc duy trì một đứa trẻ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "state something strongly to be the case; assert.",
+      "definitions_ex_en": "he has always maintained his innocence",
+      "definitions_ex_vn": "Anh ấy luôn duy trì sự ngây thơ của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "brown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu nâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiên cho vàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhuộm màu nâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sơn màu nâu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a color produced by mixing red, yellow, and blue, as of dark wood or rich soil.",
+      "definitions_ex_en": "an old brown coat",
+      "definitions_ex_vn": "một chiếc áo khoác màu nâu cũ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) dark-skinned or suntanned.",
+      "definitions_ex_en": "his face was brown from the sun",
+      "definitions_ex_vn": "Mặt anh có màu nâu từ mặt trời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "brown color or pigment.",
+      "definitions_ex_en": "the brown of his eyes",
+      "definitions_ex_vn": "màu nâu của mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or become brown, typically by cooking.",
+      "definitions_ex_en": "a skillet in which food has been browned",
+      "definitions_ex_vn": "một cái chảo trong đó thực phẩm đã bị nâu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

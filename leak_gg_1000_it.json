@@ -1,0 +1,55 @@
+{
+  "english": "leak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dò ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rịn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thấm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỉ nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a container or covering) accidentally lose or admit contents, especially liquid or gas, through a hole or crack.",
+      "definitions_ex_en": "the roof leaked",
+      "definitions_ex_vn": "mái nhà bị rò rỉ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intentionally disclose (something private or secret).",
+      "definitions_ex_en": "who had a motive to leak the story?",
+      "definitions_ex_vn": "Ai đã có một động cơ để rò rỉ câu chuyện?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a hole in a container or covering through which contents, especially liquid or gas, may accidentally pass.",
+      "definitions_ex_en": "I checked all of the pipes for leaks",
+      "definitions_ex_vn": "Tôi đã kiểm tra tất cả các đường ống cho rò rỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intentional disclosure of something secret or private.",
+      "definitions_ex_en": "one of the employees was responsible for the leak",
+      "definitions_ex_vn": "Một trong những nhân viên chịu trách nhiệm về rò rỉ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

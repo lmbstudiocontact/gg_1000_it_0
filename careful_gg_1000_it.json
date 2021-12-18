@@ -1,0 +1,43 @@
+{
+  "english": "careful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lo lắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lưu ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thận trọng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "making sure of avoiding potential danger, mishap, or harm; cautious.",
+      "definitions_ex_en": "I begged him to be more careful",
+      "definitions_ex_vn": "Tôi cầu xin anh ấy cẩn thận hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "done with or showing thought and attention.",
+      "definitions_ex_en": "a careful consideration of the facts",
+      "definitions_ex_vn": "một sự xem xét cẩn thận về sự thật",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "faithful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung thành",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remaining loyal and steadfast.",
+      "definitions_ex_en": "throughout his career, he remained faithful to the principles of Classical art",
+      "definitions_ex_vn": "Trong suốt sự nghiệp, ông vẫn trung thành với các nguyên tắc của nghệ thuật cổ điển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "true to the facts or the original.",
+      "definitions_ex_en": "the rugs they make today remain faithful to their ancestors' methods",
+      "definitions_ex_vn": "những tấm thảm họ làm cho ngày nay vẫn trung thành với phương pháp của tổ tiên của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "those who are faithful to a particular religion or political party.",
+      "definitions_ex_en": "a muezzin called the faithful to prayer",
+      "definitions_ex_vn": "một muezzin gọi là trung thành để cầu nguyện",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "drizzle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa bụi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưa phùn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "light rain falling in very fine drops.",
+      "definitions_ex_en": "Boston will be cloudy with patchy drizzle",
+      "definitions_ex_vn": "Boston sẽ nhiều mây với mưa phùn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rain lightly.",
+      "definitions_ex_en": "it's started to drizzle",
+      "definitions_ex_vn": "Nó bắt đầu mưa phùn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

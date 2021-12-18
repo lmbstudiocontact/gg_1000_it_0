@@ -1,0 +1,41 @@
+{
+  "english": "demonstrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu tình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng minh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng tỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed).",
+      "definitions_ex_en": "computerized design methods will be demonstrated",
+      "definitions_ex_vn": "Phương pháp thiết kế vi tính sẽ được chứng minh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clearly show the existence or truth of (something) by giving proof or evidence.",
+      "definitions_ex_en": "their shameful silence demonstrates their ineptitude",
+      "definitions_ex_vn": "sự im lặng đáng xấu hổ của họ thể hiện sự bất lực của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take part in a public demonstration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

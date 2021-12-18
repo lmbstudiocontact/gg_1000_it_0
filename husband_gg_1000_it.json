@@ -1,0 +1,39 @@
+{
+  "english": "husband",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phu quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cày cấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dành dụm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưới vợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a married man considered in relation to his spouse.",
+      "definitions_ex_en": "she and her husband are both retired",
+      "definitions_ex_vn": "Cô và chồng đều nghỉ hưu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use (resources) economically; conserve.",
+      "definitions_ex_en": "the need to husband his remaining strength",
+      "definitions_ex_vn": "sự cần thiết phải chồng sức mạnh còn lại của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

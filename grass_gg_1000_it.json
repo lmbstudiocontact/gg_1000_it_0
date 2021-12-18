@@ -1,0 +1,75 @@
+{
+  "english": "grass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cỏ xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn rơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho cỏ mọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để cỏ mọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trải phơi trên bải cỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng cỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture, and as a fodder crop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the mainly herbaceous plant that constitutes grass, which has jointed stems and spikes of small, wind-pollinated flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "marijuana.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (an area of ground) with grass.",
+      "definitions_ex_en": "hillsides so closely grassed over, they seem to be painted green",
+      "definitions_ex_vn": "Hillsides rất chặt chẽ, họ dường như được sơn màu xanh lá cây",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

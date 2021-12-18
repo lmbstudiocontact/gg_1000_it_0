@@ -1,0 +1,25 @@
+{
+  "english": "famous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có danh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổi danh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "known about by many people.",
+      "definitions_ex_en": "the country is famous for its natural beauty",
+      "definitions_ex_vn": "Đất nước nổi tiếng với vẻ đẹp tự nhiên của nó",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

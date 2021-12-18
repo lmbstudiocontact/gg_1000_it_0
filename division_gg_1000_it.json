@@ -1,0 +1,73 @@
+{
+  "english": "division",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng khu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of separating something into parts or the process of being separated.",
+      "definitions_ex_en": "the division of the land into small fields",
+      "definitions_ex_vn": "sự phân chia đất thành những cánh đồng nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "disagreement between two or more groups, typically producing tension or hostility.",
+      "definitions_ex_en": "a growing sense of division between north and south",
+      "definitions_ex_vn": "một cảm giác ngày càng tăng của sự phân chia giữa Bắc và Nam",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process or skill of dividing one number by another.",
+      "definitions_ex_en": "no multiplication or division is necessary",
+      "definitions_ex_vn": "Không cần nhân hoặc phân chia là cần thiết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the parts into which something is divided.",
+      "definitions_ex_en": "the main divisions of the book",
+      "definitions_ex_vn": "các bộ phận chính của cuốn sách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a partition that divides two groups or things.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

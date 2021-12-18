@@ -1,0 +1,45 @@
+{
+  "english": "modest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiêm nhượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khiêm tốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nết na",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhã nhặn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thùy mị",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unassuming or moderate in the estimation of one's abilities or achievements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an amount, rate, or level) relatively moderate, limited, or small.",
+      "definitions_ex_en": "drink modest amounts of alcohol",
+      "definitions_ex_vn": "uống một lượng khiêm tốn của rượu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "dressing or behaving so as to avoid impropriety or indecency, especially to avoid attracting sexual attention (typically used of a woman).",
+      "definitions_ex_en": "the modest women wear long-sleeved dresses and all but cover their faces",
+      "definitions_ex_vn": "Những người phụ nữ khiêm tốn mặc váy dài tay và tất cả nhưng che mặt",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

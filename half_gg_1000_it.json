@@ -1,0 +1,39 @@
+{
+  "english": "half",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rưỡi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bán phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một nữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân nữa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either of two equal or corresponding parts into which something is or can be divided.",
+      "definitions_ex_en": "two and a half years",
+      "definitions_ex_vn": "Hai năm rưỡi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "to the extent of half.",
+      "definitions_ex_en": "the glass was half full",
+      "definitions_ex_vn": "Kính đầy một nửa",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

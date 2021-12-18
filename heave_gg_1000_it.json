@@ -1,0 +1,93 @@
+{
+  "english": "heave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn nôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhấc lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buồn mữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đở lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giật ngữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nâng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồn mữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buồn nôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dỡ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lift or haul (a heavy thing) with great effort.",
+      "definitions_ex_en": "she heaved the sofa back into place",
+      "definitions_ex_vn": "Cô ấy đã ném vào ghế sofa trở lại vị trí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce (a sigh).",
+      "definitions_ex_en": "he heaved a euphoric sigh of relief",
+      "definitions_ex_vn": "Anh thở phào nhẹ nhõm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rise and fall rhythmically or spasmodically.",
+      "definitions_ex_en": "his shoulders heaved as he panted",
+      "definitions_ex_vn": "Vai của anh ấy nặng nề khi anh ấy thở hổn hển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of heaving, especially a strong pull.",
+      "definitions_ex_en": "with that last heave, Maurice's anchor wrenched clear of the mud",
+      "definitions_ex_vn": "Với thứ cuối cùng đó, mỏ neo của Maurice vặn vẹo bùn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sideways displacement in a fault.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a case of retching or vomiting.",
+      "definitions_ex_en": "waiting for the heaves to subside",
+      "definitions_ex_vn": "Chờ đợi những món ăn giảm bớt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disease of horses, with labored breathing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

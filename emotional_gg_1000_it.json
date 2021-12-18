@@ -1,0 +1,25 @@
+{
+  "english": "emotional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đa cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay cảm động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tình cảm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a person's emotions.",
+      "definitions_ex_en": "children with emotional difficulties",
+      "definitions_ex_vn": "Trẻ em gặp khó khăn về mặt cảm xúc",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

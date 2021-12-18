@@ -1,0 +1,29 @@
+{
+  "english": "fertilizer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đất màu mở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động vật thụ thai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân bón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thụ tinh của thực vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chemical or natural substance added to soil or land to increase its fertility.",
+      "definitions_ex_en": "a nitrogenous fertilizer",
+      "definitions_ex_vn": "một phân bón nitơ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

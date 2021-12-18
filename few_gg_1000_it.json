@@ -1,0 +1,61 @@
+{
+  "english": "few",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất ít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ít có",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vật ít có",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small number of.",
+      "definitions_ex_en": "may I ask a few questions?",
+      "definitions_ex_vn": "Tôi có thể hỏi một vài câu hỏi không?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used to emphasize how small a number is.",
+      "definitions_ex_en": "he had few friends",
+      "definitions_ex_vn": "anh ấy có vài người bạn",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a small number of people or things.",
+      "definitions_ex_en": "I will recount a few of the stories told me",
+      "definitions_ex_vn": "Tôi sẽ kể lại một vài câu chuyện nói với tôi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to emphasize how small a number of people or things is.",
+      "definitions_ex_en": "few thought to challenge these assumptions",
+      "definitions_ex_vn": "Ít suy nghĩ để thách thức những giả định này",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "the minority of people; the elect.",
+      "definitions_ex_en": "art is not just for the few",
+      "definitions_ex_vn": "nghệ thuật không chỉ dành cho một vài",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "contribute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cộng sự với một tờ báo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gánh vác một phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "góp phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "góp sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiệp lực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (something, especially money) in order to help achieve or provide something.",
+      "definitions_ex_en": "she contributed to a private pension",
+      "definitions_ex_vn": "cô ấy đã đóng góp cho một lương hưu tư nhân",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

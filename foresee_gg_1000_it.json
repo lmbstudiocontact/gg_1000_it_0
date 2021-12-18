@@ -1,0 +1,21 @@
+{
+  "english": "foresee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấy trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be aware of beforehand; predict.",
+      "definitions_ex_en": "we did not foresee any difficulties",
+      "definitions_ex_vn": "Chúng tôi đã không thấy trước bất kỳ khó khăn nào",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "forbear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ông bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ tiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "politely or patiently restrain an impulse to do something; refrain.",
+      "definitions_ex_en": "he modestly forbears to include his own work",
+      "definitions_ex_vn": "Anh ta khiêm tốn để bao gồm công việc của riêng mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of forebear.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

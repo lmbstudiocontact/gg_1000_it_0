@@ -1,0 +1,81 @@
+{
+  "english": "fell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dã man",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hung dữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông trừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số cây đốn một lần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốn ngã",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past of fall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut down (a tree).",
+      "definitions_ex_en": "33 million trees are felled each day",
+      "definitions_ex_vn": "33 triệu cây bị ngã mỗi ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stitch down (the edge of a seam) to lie flat.",
+      "definitions_ex_en": "a flat-felled seam",
+      "definitions_ex_vn": "một đường may phẳng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an amount of timber cut.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hill or stretch of high moorland, especially in northern England.",
+      "definitions_ex_en": "Cross Fell",
+      "definitions_ex_vn": "Chéo ngã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal's hide or skin with its hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of terrible evil or ferocity; deadly.",
+      "definitions_ex_en": "sorcerers use spells to achieve their fell ends",
+      "definitions_ex_vn": "Pháp sư sử dụng phép thuật để đạt được kết thúc thất bại của họ",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

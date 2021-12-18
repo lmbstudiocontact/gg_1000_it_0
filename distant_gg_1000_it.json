@@ -1,0 +1,35 @@
+{
+  "english": "distant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xa xôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống hao hao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lãnh đạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật ở xa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "far away in space or time.",
+      "definitions_ex_en": "distant parts of the world",
+      "definitions_ex_vn": "những nơi xa xôi trên thế giới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) not intimate; cool or reserved.",
+      "definitions_ex_en": "his children found him strangely distant",
+      "definitions_ex_vn": "con cái anh thấy anh xa cách lạ",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "instead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại diện",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thay thế",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as an alternative or substitute.",
+      "definitions_ex_en": "do not use lotions, but put on a clean dressing instead",
+      "definitions_ex_vn": "Thay vào đó, không sử dụng kem dưỡng da, nhưng thay vào đó hãy mặc quần áo sạch",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

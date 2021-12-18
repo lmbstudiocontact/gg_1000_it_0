@@ -1,0 +1,85 @@
+{
+  "english": "black",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đen",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dơ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bất hạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rủi ro",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa ô",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the very darkest color owing to the absence of or complete absorption of light; the opposite of white.",
+      "definitions_ex_en": "black smoke",
+      "definitions_ex_vn": "khói đen",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of any human group having dark-colored skin, especially of African or Australian Aboriginal ancestry.",
+      "definitions_ex_en": "black adolescents of Jamaican descent",
+      "definitions_ex_vn": "Thanh thiếu niên đen của Jamaica",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a period of time or situation) characterized by tragic or disastrous events; causing despair or pessimism.",
+      "definitions_ex_en": "five thousand men were killed on the blackest day of the war",
+      "definitions_ex_vn": "Năm ngàn người đã bị giết vào ngày đen nhất của cuộc chiến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "black color or pigment.",
+      "definitions_ex_en": "a tray decorated in black and green",
+      "definitions_ex_vn": "Một khay được trang trí bằng màu đen và màu xanh lá cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a dark-skinned people, especially one of African or Australian Aboriginal ancestry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the situation of not owing money to a bank or of making a profit in a business operation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something) black; blacken.",
+      "definitions_ex_en": "the house was pocked with bullet holes and blacked by smoke",
+      "definitions_ex_vn": "Ngôi nhà bị đổ với các lỗ đạn và bôi đen bởi khói",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

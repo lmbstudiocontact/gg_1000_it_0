@@ -1,0 +1,55 @@
+{
+  "english": "coast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường trợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trợt xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyên hãi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buôn bán bằng đường biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dọc bờ biển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of the land near the sea; the edge of the land.",
+      "definitions_ex_en": "the west coast of Africa",
+      "definitions_ex_vn": "Bờ Tây của Châu Phi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a run or movement in or on a vehicle without the use of power.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or vehicle) move easily without using power.",
+      "definitions_ex_en": "the engines stopped, and the craft coasted along",
+      "definitions_ex_vn": "Các động cơ dừng lại, và thủ công nằm dọc theo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sail along the coast, especially in order to carry cargo.",
+      "definitions_ex_en": "he coasted down the eastern shore",
+      "definitions_ex_vn": "Anh xuống bờ phía đông",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "humble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiêm tốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhún nhường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tầm thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "từ tốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm nhục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xấu hổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lăng nhục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a modest or low estimate of one's own importance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of low social, administrative, or political rank.",
+      "definitions_ex_en": "she came from a humble, unprivileged background",
+      "definitions_ex_vn": "Cô đến từ một nền tảng khiêm tốn, không có đặc quyền",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a thing) of modest pretensions or dimensions.",
+      "definitions_ex_en": "he built the business empire from humble beginnings",
+      "definitions_ex_vn": "Ông đã xây dựng đế chế kinh doanh từ sự khởi đầu khiêm tốn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lower (someone) in dignity or importance.",
+      "definitions_ex_en": "I knew he had humbled himself to ask for my help",
+      "definitions_ex_vn": "Tôi biết anh ta đã khiêm tốn mình để yêu cầu sự giúp đỡ của tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

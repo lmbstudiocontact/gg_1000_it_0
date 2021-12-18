@@ -1,0 +1,37 @@
+{
+  "english": "emerge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhô lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiện ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ló ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nỗi lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồi lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move out of or away from something and come into view.",
+      "definitions_ex_en": "black ravens emerged from the fog",
+      "definitions_ex_vn": "Queen đen nổi lên từ sương mù",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

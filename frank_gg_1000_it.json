@@ -1,0 +1,51 @@
+{
+  "english": "frank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chữ áp ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả trước tiền tem",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "open, honest, and direct in speech or writing, especially when dealing with unpalatable matters.",
+      "definitions_ex_en": "a long and frank discussion",
+      "definitions_ex_vn": "Một cuộc thảo luận dài và thẳng thắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "stamp an official mark on (a letter or parcel), especially to indicate that postage has been paid or does not need to be paid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an official mark or signature on a letter or parcel, especially to indicate that postage has been paid or does not need to be paid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a Germanic people that conquered Gaul in the 6th century and controlled much of western Europe for several centuries afterward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

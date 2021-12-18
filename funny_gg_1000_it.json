@@ -1,0 +1,49 @@
+{
+  "english": "funny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đùa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ cục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ quặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôi hài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui cười",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "causing laughter or amusement; humorous.",
+      "definitions_ex_en": "a funny story",
+      "definitions_ex_vn": "Một câu chuyện vui nhộn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "difficult to explain or understand; strange or odd.",
+      "definitions_ex_en": "I had a funny feeling you'd be around",
+      "definitions_ex_vn": "Tôi đã có một cảm giác hài hước, bạn sẽ ở đây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a joke or witty remark.",
+      "definitions_ex_en": "I was trying to make a funny, but failed miserably",
+      "definitions_ex_vn": "Tôi đã cố gắng để làm cho một hài hước, nhưng thất bại thảm hại",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

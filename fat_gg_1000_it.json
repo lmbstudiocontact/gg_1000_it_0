@@ -1,0 +1,61 @@
+{
+  "english": "fat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "béo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "béo bở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phì nhiêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ thịt mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phát phì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuôi cho mập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phái phì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a natural oily or greasy substance occurring in animal bodies, especially when deposited as a layer under the skin or around certain organs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or animal) having a large amount of excess flesh.",
+      "definitions_ex_en": "the driver was a fat, wheezing man",
+      "definitions_ex_vn": "Người lái xe là một người đàn ông béo, thở khò khè",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become fat.",
+      "definitions_ex_en": "numbers of black cattle are fatted here",
+      "definitions_ex_vn": "Số lượng gia súc đen được vỗ béo ở đây",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "complimentary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kính trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật kính biếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật kính tặng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expressing a compliment; praising or approving.",
+      "definitions_ex_en": "Jennie was very complimentary about Kathy's riding",
+      "definitions_ex_vn": "Jennie rất miễn phí về việc cưỡi của Kathy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "given or supplied free of charge.",
+      "definitions_ex_en": "a complimentary bottle of wine",
+      "definitions_ex_vn": "một chai rượu vang miễn phí",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

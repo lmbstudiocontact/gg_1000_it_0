@@ -1,0 +1,49 @@
+{
+  "english": "diving",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoán trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phỏng đoán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phỏng trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiên đoán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ước đoán",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sport or activity of swimming or exploring underwater.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sport or activity of diving into water from a diving board.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "moving quickly or suddenly through the air, especially in a downward direction.",
+      "definitions_ex_en": "I tried in vain to get a shot of a diving falcon",
+      "definitions_ex_vn": "Tôi đã cố gắng trong vô vọng để có được một cú sút của một falcon lặn",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "experiment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực nghiệm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+      "definitions_ex_en": "I have tested this by experiment",
+      "definitions_ex_vn": "Tôi đã thử nghiệm điều này bằng thí nghiệm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perform a scientific procedure, especially in a laboratory, to determine something.",
+      "definitions_ex_en": "she experimented on chickens as well as mice",
+      "definitions_ex_vn": "Cô ấy đã thử nghiệm trên gà cũng như chuột",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

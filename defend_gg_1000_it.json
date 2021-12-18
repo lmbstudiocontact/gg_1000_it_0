@@ -1,0 +1,33 @@
+{
+  "english": "defend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bào chửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "binh vực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resist an attack made on (someone or something); protect from harm or danger.",
+      "definitions_ex_en": "we shall defend our country, whatever the cost",
+      "definitions_ex_vn": "Chúng ta sẽ bảo vệ đất nước của chúng ta, bất kể chi phí nào",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

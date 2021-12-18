@@ -1,0 +1,33 @@
+{
+  "english": "discreet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ý tứ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín đáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín miệng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thận trọng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage.",
+      "definitions_ex_en": "we made some discreet inquiries",
+      "definitions_ex_vn": "Chúng tôi đã thực hiện một số yêu cầu kín đáo",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "both",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cả hai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "anh và tôi",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used before the first of two alternatives to emphasize that the statement being made applies to each (the other alternative being introduced by “and”).",
+      "definitions_ex_en": "it has won favor with both young and old",
+      "definitions_ex_vn": "nó đã giành được sự ưu ái với cả trẻ và già",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "equate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngang nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cân nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consider (one thing) to be the same as or equivalent to another.",
+      "definitions_ex_en": "customers equate their name with quality",
+      "definitions_ex_vn": "Khách hàng đánh đồng tên của họ với chất lượng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

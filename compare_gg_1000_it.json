@@ -1,0 +1,39 @@
+{
+  "english": "compare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vô song",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối chiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so sánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so với",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỷ giảo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "estimate, measure, or note the similarity or dissimilarity between.",
+      "definitions_ex_en": "individual schools compared their facilities with those of others in the area",
+      "definitions_ex_vn": "trường học cá nhân so sánh các cơ sở của họ với những người khác trong khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form the comparative and superlative degrees of (an adjective or an adverb).",
+      "definitions_ex_en": "words of one syllable are usually compared by “-er” and “-est.”",
+      "definitions_ex_vn": "Các từ của một âm tiết thường được so sánh bởi \"-er\" và \"-est.\"",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

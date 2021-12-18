@@ -1,0 +1,41 @@
+{
+  "english": "crimson",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đỏ thắm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giận đỏ mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "màu đỏ đậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhuộm màu đỏ thắm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a rich deep red color inclining to purple.",
+      "definitions_ex_en": "she blushed crimson with embarrassment",
+      "definitions_ex_vn": "Cô đỏ mặt đỏ thẫm với sự bối rối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a rich deep red color inclining to purple.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person's face) become flushed, especially through embarrassment.",
+      "definitions_ex_en": "my face crimsoned and my hands began to shake",
+      "definitions_ex_vn": "khuôn mặt của tôi đỏ thẫm và tay tôi bắt đầu run rẩy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

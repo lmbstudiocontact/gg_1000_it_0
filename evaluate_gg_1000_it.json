@@ -1,0 +1,25 @@
+{
+  "english": "evaluate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỏng đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm một biểu thức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form an idea of the amount, number, or value of; assess.",
+      "definitions_ex_en": "when you evaluate any hammer, look for precision machining",
+      "definitions_ex_vn": "Khi bạn đánh giá bất kỳ búa, hãy tìm gia công chính xác",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

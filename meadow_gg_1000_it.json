@@ -1,0 +1,21 @@
+{
+  "english": "meadow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng cỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of grassland, especially one used for hay.",
+      "definitions_ex_en": "a meadow ready for cutting",
+      "definitions_ex_vn": "một đồng cỏ đã sẵn sàng để cắt",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

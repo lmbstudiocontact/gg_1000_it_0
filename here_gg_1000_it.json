@@ -1,0 +1,53 @@
+{
+  "english": "here",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đây",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nơi đây",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở đây",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tại đây",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in, at, or to this place or position.",
+      "definitions_ex_en": "they have lived here most of their lives",
+      "definitions_ex_vn": "họ đã sống ở đây hầu hết cuộc sống của họ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used when introducing something or someone.",
+      "definitions_ex_en": "here's a dish that is simple and quick to make",
+      "definitions_ex_vn": "Đây là một món ăn đơn giản và nhanh chóng để thực hiện",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used when indicating a time, point, or situation that has arrived or is happening.",
+      "definitions_ex_en": "here is your opportunity",
+      "definitions_ex_vn": "Đây là cơ hội của bạn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to attract someone's attention.",
+      "definitions_ex_en": "here, let me hold it",
+      "definitions_ex_vn": "Ở đây, hãy để tôi giữ nó",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "indicating one's presence in a roll call.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

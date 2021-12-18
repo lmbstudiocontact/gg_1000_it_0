@@ -1,0 +1,173 @@
+{
+  "english": "go",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trôi qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị đuổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị gãy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cút đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đang lưu hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cơn sốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoạt bát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoái hoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move from one place to another; travel.",
+      "definitions_ex_en": "he went out to the store",
+      "definitions_ex_vn": "Anh ấy đi ra cửa hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "leave; depart.",
+      "definitions_ex_en": "I really must go",
+      "definitions_ex_vn": "Tôi thực sự phải đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intend or be likely or intended to be or do something; be about to (used to express a future tense).",
+      "definitions_ex_en": "I'm going to be late for work",
+      "definitions_ex_vn": "Tôi sẽ đến muộn để làm việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass into a specified state, especially an undesirable one.",
+      "definitions_ex_en": "the food is going bad",
+      "definitions_ex_vn": "thức ăn là xấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "proceed in a specified way or have a specified outcome; turn out.",
+      "definitions_ex_en": "how did the weekend go?",
+      "definitions_ex_vn": "Làm thế nào vào cuối tuần đi?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be harmonious, complementary, or matching.",
+      "definitions_ex_en": "rosemary goes with roast lamb",
+      "definitions_ex_vn": "Rosemary đi với thịt cừu nướng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a machine or device) function.",
+      "definitions_ex_en": "my car won't go",
+      "definitions_ex_vn": "Xe của tôi sẽ không đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a thing) contribute to or be put into (a whole); be used for or devoted to.",
+      "definitions_ex_en": "considerable effort went into making the operation successful",
+      "definitions_ex_vn": "nỗ lực đáng kể đã đi vào hoạt động thành công",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an article) be regularly kept or put in a particular place.",
+      "definitions_ex_en": "remember which card goes in which slot",
+      "definitions_ex_vn": "nhớ thẻ nào đi vào khe nào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a song, account, verse, etc.) have a specified content or wording.",
+      "definitions_ex_en": "if you haven't heard it, the story goes like this",
+      "definitions_ex_vn": "Nếu bạn chưa nghe thấy nó, câu chuyện diễn ra như thế này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a toilet; urinate or defecate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an attempt or trial at something.",
+      "definitions_ex_en": "I thought I'd give it a go",
+      "definitions_ex_vn": "Tôi nghĩ rằng tôi sẽ cho nó một đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state of affairs.",
+      "definitions_ex_en": "this seems a rum sort of go",
+      "definitions_ex_vn": "Điều này có vẻ là một loại rượu rum",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Japanese board game of territorial possession and capture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "functioning properly.",
+      "definitions_ex_en": "all systems go",
+      "definitions_ex_vn": "tất cả các hệ thống đi",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

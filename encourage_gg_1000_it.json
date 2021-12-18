@@ -1,0 +1,29 @@
+{
+  "english": "encourage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạo dạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hăng hái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phấn khởi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give support, confidence, or hope to (someone).",
+      "definitions_ex_en": "we were encouraged by the success of this venture",
+      "definitions_ex_vn": "Chúng tôi được khuyến khích bởi sự thành công của liên doanh này",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

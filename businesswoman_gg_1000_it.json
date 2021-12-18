@@ -1,0 +1,21 @@
+{
+  "english": "businesswoman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà kinh doanh nữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman who works in business or commerce, especially at an executive level.",
+      "definitions_ex_en": "a successful and self-reliant businesswoman",
+      "definitions_ex_vn": "một nữ doanh nhân thành công và tự lực",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

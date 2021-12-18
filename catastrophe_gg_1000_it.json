@@ -1,0 +1,25 @@
+{
+  "english": "catastrophe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết cuộc thê thảm một vở kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm họa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an event causing great and often sudden damage or suffering; a disaster.",
+      "definitions_ex_en": "a national economic catastrophe",
+      "definitions_ex_vn": "một thảm họa kinh tế quốc gia",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

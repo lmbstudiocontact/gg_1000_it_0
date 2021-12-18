@@ -1,0 +1,21 @@
+{
+  "english": "lately",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chậm trể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "muộn màn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "recently; not long ago.",
+      "definitions_ex_en": "she hasn't been looking too well lately",
+      "definitions_ex_vn": "gần đây cô ấy đã không nhìn quá nhiều",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

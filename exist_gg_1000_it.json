@@ -1,0 +1,39 @@
+{
+  "english": "exist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "còn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tồn tại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẩn còn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẩn còn tồn tại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have objective reality or being.",
+      "definitions_ex_en": "there existed no organization to cope with espionage",
+      "definitions_ex_vn": "Không có tổ chức nào để đối phó với gián điệp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "live, especially under adverse conditions.",
+      "definitions_ex_en": "only a minority of people exist on unemployment benefits alone",
+      "definitions_ex_vn": "Chỉ có một thiểu số người dân tồn tại trên lợi ích thất nghiệp một mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

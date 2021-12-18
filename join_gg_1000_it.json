@@ -1,0 +1,39 @@
+{
+  "english": "join",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "link; connect.",
+      "definitions_ex_en": "the tap was joined to a pipe",
+      "definitions_ex_vn": "vòi được nối với một đường ống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a place or line where two or more things are connected or fastened together.",
+      "definitions_ex_en": "it was soldered so well that you couldn't see the join",
+      "definitions_ex_vn": "nó đã được hàn rất tốt mà bạn không thể nhìn thấy sự tham gia",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

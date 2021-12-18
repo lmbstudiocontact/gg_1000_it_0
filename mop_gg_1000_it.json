@@ -1,0 +1,43 @@
+{
+  "english": "mop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổi quét sân tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ lau nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ chổi có cán dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhăn nhó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùi bằng chổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhăn nhó",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement consisting of a sponge or a bundle of thick loose strings attached to a handle, used for wiping floors or other surfaces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean or soak up liquid from (something) by wiping.",
+      "definitions_ex_en": "she mopped the floor and cleaned out two cupboards",
+      "definitions_ex_vn": "Cô lau sàn và dọn sạch hai tủ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

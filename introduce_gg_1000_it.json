@@ -1,0 +1,55 @@
+{
+  "english": "introduce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem ra dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đút vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giới thiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhét vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (something, especially a product, measure, or concept) into use or operation for the first time.",
+      "definitions_ex_en": "various new taxes were introduced",
+      "definitions_ex_vn": "Nhiều loại thuế mới đã được giới thiệu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone) known by name to another in person, especially formally.",
+      "definitions_ex_en": "I hope to introduce Jenny to them very soon",
+      "definitions_ex_vn": "Tôi hy vọng sẽ giới thiệu Jenny với họ rất sớm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "insert or bring into something.",
+      "definitions_ex_en": "a device that introduces chlorine into the pool automatically",
+      "definitions_ex_vn": "một thiết bị giới thiệu clo vào hồ bơi tự động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "occur at the start of; open.",
+      "definitions_ex_en": "a longer, more lyrical opening that introduces her first solo",
+      "definitions_ex_vn": "một lối mở dài hơn, trữ tình hơn giới thiệu solo đầu tiên của cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

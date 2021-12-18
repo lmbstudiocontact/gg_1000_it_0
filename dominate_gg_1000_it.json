@@ -1,0 +1,41 @@
+{
+  "english": "dominate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đàn áp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đô hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiềm chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi hơn hết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thống trị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have a commanding influence on; exercise control over.",
+      "definitions_ex_en": "the company dominates the market for operating system software",
+      "definitions_ex_vn": "Công ty chi phối thị trường cho phần mềm hệ điều hành",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

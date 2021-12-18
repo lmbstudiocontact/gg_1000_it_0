@@ -1,0 +1,39 @@
+{
+  "english": "intend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có ý định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dành cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có ý muốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định phần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have (a course of action) as one's purpose or objective; plan.",
+      "definitions_ex_en": "the company intends to cut about 4,500 jobs",
+      "definitions_ex_vn": "Công ty dự định cắt giảm khoảng 4.500 việc làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "design or destine (someone or something) for a particular purpose or end.",
+      "definitions_ex_en": "this one-roomed cottage was intended to accommodate a family",
+      "definitions_ex_vn": "Cottage một phòng này được dự định để chứa một gia đình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

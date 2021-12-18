@@ -1,0 +1,29 @@
+{
+  "english": "bespeak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xin ơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an appearance or action) suggest; be evidence of.",
+      "definitions_ex_en": "the attractive tree-lined road bespoke money",
+      "definitions_ex_vn": "Con đường lót cây hấp dẫn Bespoke Money",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "order or reserve (something) in advance.",
+      "definitions_ex_en": "obtaining the affidavits that it has been necessary to bespeak",
+      "definitions_ex_vn": "có được các bản khai mà nó là cần thiết để bespeak",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "speak to.",
+      "definitions_ex_en": "and in disgrace bespoke him thus",
+      "definitions_ex_vn": "và trong sự ô nhục bespoke anh ta như vậy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

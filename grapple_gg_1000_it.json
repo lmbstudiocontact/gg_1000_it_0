@@ -1,0 +1,61 @@
+{
+  "english": "grapple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc vật lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ôm đánh nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật lộn với người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc bằng cái móc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quăn móc qua thuyền khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vật nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "níu lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engage in a close fight or struggle without weapons; wrestle.",
+      "definitions_ex_en": "passersby grappled with the man after the knife attack",
+      "definitions_ex_vn": "Người qua đường vật lộn với người đàn ông sau cuộc tấn công dao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "seize or hold with a grapnel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of grappling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

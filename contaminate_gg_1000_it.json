@@ -1,0 +1,29 @@
+{
+  "english": "contaminate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩn thỉu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ô uế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dơ bẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền bịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) impure by exposure to or addition of a poisonous or polluting substance.",
+      "definitions_ex_en": "the site was found to be contaminated by radioactivity",
+      "definitions_ex_vn": "Trang web đã bị phát hiện bị ô nhiễm bởi phóng xạ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

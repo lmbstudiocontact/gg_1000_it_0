@@ -1,0 +1,21 @@
+{
+  "english": "forbid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cản trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refuse to allow (something).",
+      "definitions_ex_en": "environmental laws forbid alteration of the coast",
+      "definitions_ex_vn": "Luật môi trường cấm thay đổi bờ biển",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

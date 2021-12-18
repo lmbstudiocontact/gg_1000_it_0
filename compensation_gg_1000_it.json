@@ -1,0 +1,25 @@
+{
+  "english": "compensation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đền bù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bồi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thường lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something, typically money, awarded to someone as a recompense for loss, injury, or suffering.",
+      "definitions_ex_en": "seeking compensation for injuries suffered at work",
+      "definitions_ex_vn": "tìm kiếm bồi thường cho thương tích bị làm việc tại nơi làm việc",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "mention",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhắc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ghi chép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi chép",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refer to something briefly and without going into detail.",
+      "definitions_ex_en": "I haven't mentioned it to William yet",
+      "definitions_ex_vn": "Tôi chưa đề cập đến William chưa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a reference to someone or something.",
+      "definitions_ex_en": "their eyes light up at a mention of Sartre",
+      "definitions_ex_vn": "Đôi mắt của họ sáng lên tại một đề cập đến Sartre",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

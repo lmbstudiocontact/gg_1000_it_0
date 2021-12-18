@@ -1,0 +1,29 @@
+{
+  "english": "indebted",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mang ơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mang nợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắc nợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu nợ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "owing money.",
+      "definitions_ex_en": "heavily indebted countries",
+      "definitions_ex_vn": "các nước mắc nợ nặng nề",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

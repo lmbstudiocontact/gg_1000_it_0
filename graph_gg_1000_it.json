@@ -1,0 +1,65 @@
+{
+  "english": "graph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng đồ hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biểu thành toán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ đồ hình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a visual symbol representing a unit of sound or other feature of speech. Graphs include not only letters of the alphabet but also punctuation marks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plot or trace on a graph.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in nouns denoting something written or drawn in a specified way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "in nouns denoting an instrument that records.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ]
+}

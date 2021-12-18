@@ -1,0 +1,153 @@
+{
+  "english": "be",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cha nó là trạng sư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chúng nó túng tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để yên tôi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm sao bây giờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nó bị giết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nó là người anh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tôi vừa viết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thì giờ là tiền bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trời tốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exist.",
+      "definitions_ex_en": "there are no easy answers",
+      "definitions_ex_vn": "Không có câu trả lời dễ dàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "occur; take place.",
+      "definitions_ex_en": "the exhibition will be in November",
+      "definitions_ex_vn": "Triển lãm sẽ diễn ra vào tháng 11",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having the state, quality, identity, nature, role, etc., specified.",
+      "definitions_ex_en": "Amy was 91",
+      "definitions_ex_vn": "Amy là 91.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "say.",
+      "definitions_ex_en": "when I got there, they were like “What are you doing here?”",
+      "definitions_ex_vn": "Khi tôi đến đó, họ giống như \"Bạn đang làm gì ở đây?\"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with a present participle to form continuous tenses.",
+      "definitions_ex_en": "they are coming",
+      "definitions_ex_vn": "họ đang tới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with a past participle to form the passive mood.",
+      "definitions_ex_en": "it was done",
+      "definitions_ex_vn": "nó đã được thực hiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to indicate something due to happen.",
+      "definitions_ex_en": "construction is to begin next summer",
+      "definitions_ex_vn": "Xây dựng là để bắt đầu vào mùa hè tới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with the past participle of intransitive verbs to form perfect tenses.",
+      "definitions_ex_en": "I am returned",
+      "definitions_ex_vn": "Tôi đang trở về",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(forming verbs) all over; all round.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "(added to intransitive verbs) expressing transitive action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "(added to adjectives and nouns) expressing transitive action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "(added to nouns) affect with.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "(forming adjectives ending in -ed ) having; covered with.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "Bachelor of Education.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Bachelor of Engineering.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "bill of exchange.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Black English.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

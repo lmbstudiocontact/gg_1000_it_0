@@ -1,0 +1,105 @@
+{
+  "english": "dark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảm đạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mờ ám",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mù mịt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tối om",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nham hiểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng tối tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tối mò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trong bóng tối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with little or no light.",
+      "definitions_ex_en": "it's too dark to see much",
+      "definitions_ex_vn": "Thật quá tối để thấy nhiều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a color or object) not reflecting much light; approaching black in shade.",
+      "definitions_ex_en": "dark green",
+      "definitions_ex_vn": "Màu xanh lá cây đậm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a period of time or situation) characterized by tragedy, unhappiness, or unpleasantness.",
+      "definitions_ex_en": "the dark days of the war",
+      "definitions_ex_vn": "Những ngày đen tối của cuộc chiến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "hidden from knowledge; mysterious.",
+      "definitions_ex_en": "a dark secret",
+      "definitions_ex_vn": "một bí mật đen tối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a velarized form of the sound of the letter l as it sounds at the end of a word or before another consonant (as in full or bulk in most accents of English).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the absence of light in a place.",
+      "definitions_ex_en": "Carolyn was sitting in the dark",
+      "definitions_ex_vn": "Carolyn đang ngồi trong bóng tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dark color or shade, especially in a painting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "creep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "leo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rụt rè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trườn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lòn cúi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rởn tóc gáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rùng mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trượt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move slowly and carefully in order to avoid being heard or noticed.",
+      "definitions_ex_en": "he crept downstairs, hardly making any noise",
+      "definitions_ex_vn": "Anh ta len lỏi xuống cầu thang, hầu như không gây ồn ào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plant) grow along the ground or other surface by means of extending stems or branches.",
+      "definitions_ex_en": "thorny roses crept up the dull gray walls",
+      "definitions_ex_vn": "Hoa hồng gai nhỏ nhăn lên những bức tường màu xám xỉn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plastic solid) undergo gradual deformation under stress.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "slow movement, especially at a steady but almost imperceptible pace.",
+      "definitions_ex_en": "an attempt to prevent this slow creep of costs",
+      "definitions_ex_vn": "một nỗ lực để ngăn chặn sự tăng chi phí chậm chạp này",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

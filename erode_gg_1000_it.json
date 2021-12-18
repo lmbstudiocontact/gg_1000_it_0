@@ -1,0 +1,37 @@
+{
+  "english": "erode",
+  "list_translation_mean": [
+    {
+      "translate_mean": "a cít",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn lở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chất độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nước có độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoi mòn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of wind, water, or other natural agents) gradually wear away (soil, rock, or land).",
+      "definitions_ex_en": "the cliffs have been eroded by the sea",
+      "definitions_ex_vn": "Các vách đá đã bị xói mòn bởi biển",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "behind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chậm trể",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "phía sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đàng sau",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at or to the far side of (something), typically so as to be hidden by it.",
+      "definitions_ex_en": "the recording machinery was kept behind screens",
+      "definitions_ex_vn": "Máy ghi âm được giữ đằng sau màn hình",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in a line or procession, following or further back than (another member of the line or procession).",
+      "definitions_ex_en": "stuck behind a slow-moving tractor",
+      "definitions_ex_vn": "bị mắc kẹt đằng sau một máy kéo di chuyển chậm",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in support of or giving guidance to (someone else).",
+      "definitions_ex_en": "whatever you decide to do, I'll be behind you",
+      "definitions_ex_vn": "bất cứ điều gì bạn quyết định làm, tôi sẽ đứng sau bạn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "after the departure or death of (the person referred to).",
+      "definitions_ex_en": "he left behind him a manuscript that was subsequently published",
+      "definitions_ex_vn": "Anh ta để lại một bản thảo sau đó được xuất bản.",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "less advanced than (someone else) in achievement or development.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "having a lower score than (another competitor).",
+      "definitions_ex_en": "Woodnam moved to ten under par, five shots behind Fred Couples",
+      "definitions_ex_vn": "Woodnam chuyển đến mười dưới mệnh, năm bức ảnh đằng sau các cặp vợ chồng Fred",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "at or to the far side or the back side of something.",
+      "definitions_ex_en": "Campbell grabbed him from behind",
+      "definitions_ex_vn": "Campbell nắm lấy anh ta từ phía sau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "remaining after someone or something is gone.",
+      "definitions_ex_en": "don't leave me behind",
+      "definitions_ex_vn": "Đừng để tôi lại phía sau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "further back than other members of a group.",
+      "definitions_ex_en": "Bill led the way, with the others a short distance behind",
+      "definitions_ex_vn": "Bill đã dẫn đường, với những người khác một quãng ngắn phía sau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(in a game or contest) having a score lower than that of the opposition.",
+      "definitions_ex_en": "polls showed him as much as 50 points behind",
+      "definitions_ex_vn": "Các cuộc thăm dò cho thấy anh ta đến 50 điểm phía sau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "slow or late in accomplishing a task.",
+      "definitions_ex_en": "getting behind with my work",
+      "definitions_ex_vn": "đứng sau với công việc của tôi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a place or time already past.",
+      "definitions_ex_en": "the adventure lay behind them",
+      "definitions_ex_vn": "Cuộc phiêu lưu nằm phía sau họ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the buttocks.",
+      "definitions_ex_en": "sitting on her behind",
+      "definitions_ex_vn": "ngồi ở phía sau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a one-point score made by kicking the ball between the outer set of two sets of goalposts (the behind line), or by touching the ball, causing it to pass between the inner posts (goalposts).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

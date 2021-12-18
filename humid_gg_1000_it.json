@@ -1,0 +1,21 @@
+{
+  "english": "humid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ẩm thấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ẩm ướt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "marked by a relatively high level of water vapor in the atmosphere.",
+      "definitions_ex_en": "a hot and humid day",
+      "definitions_ex_vn": "một ngày nóng và ẩm ướt",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

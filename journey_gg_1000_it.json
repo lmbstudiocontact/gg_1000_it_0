@@ -1,0 +1,35 @@
+{
+  "english": "journey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chặng đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc hành trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quãng đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm một cuộc hành trình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of traveling from one place to another.",
+      "definitions_ex_en": "she went on a long journey",
+      "definitions_ex_vn": "Cô ấy đã đi trên một hành trình dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel somewhere.",
+      "definitions_ex_en": "they journeyed south",
+      "definitions_ex_vn": "Họ đi về phía nam",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

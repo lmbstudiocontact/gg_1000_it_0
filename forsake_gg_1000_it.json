@@ -1,0 +1,29 @@
+{
+  "english": "forsake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ lơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ một thói quen",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ rơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "abandon (someone or something).",
+      "definitions_ex_en": "he would never forsake Tara",
+      "definitions_ex_vn": "anh ấy sẽ không bao giờ bỏ tara",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

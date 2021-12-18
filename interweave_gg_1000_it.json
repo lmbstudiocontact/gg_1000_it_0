@@ -1,0 +1,29 @@
+{
+  "english": "interweave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dệt lẩn nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xen lẩn nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xen lộn với nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "weave or become woven together.",
+      "definitions_ex_en": "the rugs are made by tightly interweaving the strands",
+      "definitions_ex_vn": "Những tấm thảm được tạo ra bằng cách đan chặt các sợi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

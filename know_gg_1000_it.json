@@ -1,0 +1,45 @@
+{
+  "english": "know",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be aware of through observation, inquiry, or information.",
+      "definitions_ex_en": "most people know that CFCs can damage the ozone layer",
+      "definitions_ex_vn": "Hầu hết mọi người biết rằng CFC có thể làm hỏng lớp ozone",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have developed a relationship with (someone) through meeting and spending time with them; be familiar or friendly with.",
+      "definitions_ex_en": "he knew and respected Laura",
+      "definitions_ex_vn": "Anh biết và kính trọng Laura",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have sexual intercourse with (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

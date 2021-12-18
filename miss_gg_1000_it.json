@@ -1,0 +1,131 @@
+{
+  "english": "miss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh hụt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đánh trật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyết điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh thiếu tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sẩy thai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọi người nào bằng cô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đẻ non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu chút nữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không gặp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trể tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không hiểu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fail to hit, reach, or come into contact with (something aimed at).",
+      "definitions_ex_en": "a laser-guided bomb had missed its target",
+      "definitions_ex_vn": "một quả bom dẫn đường laser đã bỏ lỡ mục tiêu của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fail to notice, hear, or understand.",
+      "definitions_ex_en": "the villa is impossible to miss—it's right by the road",
+      "definitions_ex_vn": "Biệt thự là không thể bỏ lỡ - nó nằm ngay bên đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "notice the loss or absence of.",
+      "definitions_ex_en": "he's rich—he won't miss the money",
+      "definitions_ex_vn": "Anh ấy giàu có, anh ấy sẽ không bỏ lỡ tiền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an engine or motor vehicle) undergo failure of ignition in one or more cylinders.",
+      "definitions_ex_en": "the motor began missing and investigation found a cracked cylinder head",
+      "definitions_ex_vn": "Động cơ bắt đầu mất tích và điều tra tìm thấy một đầu xi lanh bị nứt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a failure to hit, catch, or reach something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a title prefixed to the name of an unmarried woman or girl, or to that of a married woman retaining her maiden name for professional purposes.",
+      "definitions_ex_en": "Miss Hazel Armstrong",
+      "definitions_ex_vn": "Cô Hazel Armstrong.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a girl or young woman, especially one regarded as silly or headstrong.",
+      "definitions_ex_en": "there was none of the country bumpkin about this young miss",
+      "definitions_ex_vn": "Không có gì trong nước Bumpkin về hoa hậu trẻ tuổi này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a range of standard sizes, usually 8 to 20, in women's clothing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a miscarriage.",
+      "definitions_ex_en": "she had a miss, that time, lost the baby",
+      "definitions_ex_vn": "Cô ấy đã có một lần nhớ, thời gian đó, mất em bé",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Mississippi.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "insist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cố nài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "năn nỉ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "demand something forcefully, not accepting refusal.",
+      "definitions_ex_en": "she insisted on carrying her own bag",
+      "definitions_ex_vn": "Cô khăng khăng mang túi riêng của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

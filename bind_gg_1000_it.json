@@ -1,0 +1,99 @@
+{
+  "english": "bind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết thân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trói buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ưng thuận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tie or fasten (something) tightly.",
+      "definitions_ex_en": "the logs were bound together with ropes",
+      "definitions_ex_vn": "Các bản ghi bị ràng buộc với nhau bằng dây thừng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cohere or cause to cohere in a single mass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (people) to feel united.",
+      "definitions_ex_en": "it's music that has bound us together",
+      "definitions_ex_vn": "Đó là âm nhạc đã ràng buộc chúng ta lại với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "impose a legal or contractual obligation on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix together and enclose (the pages of a book) in a cover.",
+      "definitions_ex_en": "a small, fat volume, bound in red morocco",
+      "definitions_ex_vn": "một khối lượng nhỏ, béo, bị ràng buộc trong Morocco đỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "trim (the edge of a piece of material) with a decorative strip.",
+      "definitions_ex_en": "a ruffle with the edges bound in a contrasting color",
+      "definitions_ex_vn": "một ruffle với các cạnh bị ràng buộc trong một màu tương phản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a quantifier) be applied to (a given variable) so that the variable falls within its scope.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a rule or set of grammatical conditions) determine the relationship between (coreferential noun phrases).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a problematical situation.",
+      "definitions_ex_en": "he is in a political bind over the welfare issue",
+      "definitions_ex_vn": "anh ấy đang ở trong một sự ràng buộc chính trị về vấn đề phúc lợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a statutory constraint.",
+      "definitions_ex_en": "the moral bind of the law",
+      "definitions_ex_vn": "sự ràng buộc đạo đức của pháp luật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for tie.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for bine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

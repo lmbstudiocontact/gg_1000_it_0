@@ -1,0 +1,21 @@
+{
+  "english": "earn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain (money) in return for labor or services.",
+      "definitions_ex_en": "they earn $35 per hour",
+      "definitions_ex_vn": "họ kiếm được 35 đô la mỗi giờ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

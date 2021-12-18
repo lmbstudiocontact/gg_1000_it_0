@@ -1,0 +1,29 @@
+{
+  "english": "each",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mỗi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to every one of two or more people or things, regarded and identified separately.",
+      "definitions_ex_en": "each battery is in a separate compartment",
+      "definitions_ex_vn": "Mỗi pin nằm trong một ngăn riêng biệt",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "every one of two or more people or things, regarded and identified separately.",
+      "definitions_ex_en": "they each have their own personality",
+      "definitions_ex_vn": "Họ từng có tính cách riêng của họ",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "to, for, or by every one of a group (used after a noun or an amount).",
+      "definitions_ex_en": "they cost $11 each",
+      "definitions_ex_vn": "họ có giá $ 11 mỗi",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

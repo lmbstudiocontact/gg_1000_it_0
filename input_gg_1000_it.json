@@ -1,0 +1,33 @@
+{
+  "english": "input",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặt vào trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn điện ở bên trong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "what is put in, taken in, or operated on by any process or system.",
+      "definitions_ex_en": "perceptions and sensory input",
+      "definitions_ex_vn": "Nhận thức và đầu vào cảm giác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where, or a device through which, energy or information enters a system.",
+      "definitions_ex_en": "the signal being fed through the main input",
+      "definitions_ex_vn": "Tín hiệu được cho ăn thông qua đầu vào chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (data) into a computer.",
+      "definitions_ex_en": "test results can be inputted by the technician in the laboratory",
+      "definitions_ex_vn": "Kết quả kiểm tra có thể được nhập liệu bởi kỹ thuật viên trong phòng thí nghiệm",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

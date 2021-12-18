@@ -1,0 +1,31 @@
+{
+  "english": "breakfast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bữa ăn sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn sáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a meal eaten in the morning, the first of the day.",
+      "definitions_ex_en": "I don't eat breakfast",
+      "definitions_ex_vn": "Tôi không ăn sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "eat breakfast.",
+      "definitions_ex_en": "she breakfasted on French toast and bacon",
+      "definitions_ex_vn": "Cô ấy đã ăn sáng trên bánh mì nướng Pháp và thịt xông khói",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

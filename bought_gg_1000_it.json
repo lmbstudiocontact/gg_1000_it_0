@@ -1,0 +1,23 @@
+{
+  "english": "bought",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain in exchange for payment.",
+      "definitions_ex_en": "he bought me a new dress",
+      "definitions_ex_vn": "Anh ấy đã mua cho tôi một chiếc váy mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept the truth of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

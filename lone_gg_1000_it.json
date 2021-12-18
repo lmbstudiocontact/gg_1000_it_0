@@ -1,0 +1,25 @@
+{
+  "english": "lone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cô độc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiu quạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một mình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having no companions; solitary or single.",
+      "definitions_ex_en": "I approached a lone drinker across the bar",
+      "definitions_ex_vn": "Tôi đã tiếp cận một người nghiện rượu độc lạ trên khắp quán bar",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

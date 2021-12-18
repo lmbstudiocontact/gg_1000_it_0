@@ -1,0 +1,37 @@
+{
+  "english": "consonant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "êm dịu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phụ âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phù hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a basic speech sound in which the breath is at least partly obstructed and which can be combined with a vowel to form a syllable.",
+      "definitions_ex_en": "fricatives are by far the largest group of English consonants",
+      "definitions_ex_vn": "Frictive cho đến nay là nhóm phụ âm tiếng Anh lớn nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a consonant sound or letter.",
+      "definitions_ex_en": "a consonant phoneme",
+      "definitions_ex_vn": "một âm vị phụ âm.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in agreement or harmony with.",
+      "definitions_ex_en": "the findings are consonant with other research",
+      "definitions_ex_vn": "Những phát hiện là phụ âm với nghiên cứu khác",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

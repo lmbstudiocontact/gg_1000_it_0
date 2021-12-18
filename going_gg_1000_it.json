@@ -1,0 +1,41 @@
+{
+  "english": "going",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghỉ ngơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act or instance of leaving a place; a departure.",
+      "definitions_ex_en": "his going left an enormous gap in each of their lives",
+      "definitions_ex_vn": "anh ta sẽ để lại một khoảng cách to lớn trong mỗi cuộc sống của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the condition of the ground viewed in terms of suitability for walking, riding, or other travel (used especially in the context of horse racing).",
+      "definitions_ex_en": "the going was ideal here, with short turf and a level surface",
+      "definitions_ex_vn": "Việc đi là lý tưởng ở đây, với sân ngắn và một bề mặt cấp độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of a price) generally accepted as fair or correct; current.",
+      "definitions_ex_en": "people willing to work for the going rate",
+      "definitions_ex_vn": "Mọi người sẵn sàng làm việc cho tỷ lệ đi",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

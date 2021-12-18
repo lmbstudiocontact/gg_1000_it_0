@@ -1,0 +1,47 @@
+{
+  "english": "constitute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây nên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấu tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có hình vóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "họp thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiết lập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủy nhiệm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be (a part) of a whole.",
+      "definitions_ex_en": "single parents constitute a great proportion of the poor",
+      "definitions_ex_vn": "Cha mẹ đơn thân tạo thành một tỷ lệ tuyệt vời của người nghèo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give legal or constitutional form to (an institution); establish by law.",
+      "definitions_ex_en": "the superior courts were constituted by the Judicature Acts 1873–5",
+      "definitions_ex_vn": "Các tòa án Superior đã được cấu thành bởi ACTICATION ACTS 1873-5",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

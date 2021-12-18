@@ -1,0 +1,21 @@
+{
+  "english": "greedily",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tham ăn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "háu ăn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that shows an excessive desire or appetite for food.",
+      "definitions_ex_en": "we greedily devoured the hors d'oeuvres",
+      "definitions_ex_vn": "Chúng tôi tham lam nuốt chửng những con ngựa d'oeuvres",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

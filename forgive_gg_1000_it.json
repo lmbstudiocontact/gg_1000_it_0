@@ -1,0 +1,29 @@
+{
+  "english": "forgive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao thiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tụ họp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tha lổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xá tội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "stop feeling angry or resentful toward (someone) for an offense, flaw, or mistake.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

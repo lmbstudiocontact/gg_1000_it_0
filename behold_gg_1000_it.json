@@ -1,0 +1,33 @@
+{
+  "english": "behold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mục kích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "see or observe (a thing or person, especially a remarkable or impressive one).",
+      "definitions_ex_en": "the botanical gardens were a wonder to behold",
+      "definitions_ex_vn": "Những khu vườn thực vật là một tuyệt vời để nhìn thấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

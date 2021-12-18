@@ -1,0 +1,31 @@
+{
+  "english": "construct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cất lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiến trúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "build or erect (something, typically a building, road, or machine).",
+      "definitions_ex_en": "a company that constructs oil rigs",
+      "definitions_ex_vn": "một công ty xây dựng giàn khoan dầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an idea or theory containing various conceptual elements, typically one considered to be subjective and not based on empirical evidence.",
+      "definitions_ex_en": "history is largely an ideological construct",
+      "definitions_ex_vn": "Lịch sử phần lớn là một cấu trúc tư tưởng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "english": "corridor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành lang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long passage in a building from which doors lead into rooms.",
+      "definitions_ex_en": "his room lay at the very end of the corridor",
+      "definitions_ex_vn": "phòng của anh nằm ở cuối hành lang",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "befall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of something bad) happen to someone.",
+      "definitions_ex_en": "a tragedy befell his daughter",
+      "definitions_ex_vn": "một bi kịch befell con gái của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

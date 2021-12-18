@@ -1,0 +1,17 @@
+{
+  "english": "candidate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dự bổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who applies for a job or is nominated for election.",
+      "definitions_ex_en": "candidates applying for this position should be computer-literate",
+      "definitions_ex_vn": "Ứng viên áp dụng cho vị trí này nên được biết chữ máy tính",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

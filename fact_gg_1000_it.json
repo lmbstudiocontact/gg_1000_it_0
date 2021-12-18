@@ -1,0 +1,25 @@
+{
+  "english": "fact",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dĩ nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is known or proved to be true.",
+      "definitions_ex_en": "he ignores some historical and economic facts",
+      "definitions_ex_vn": "Anh ta bỏ qua một số sự thật lịch sử và kinh tế",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

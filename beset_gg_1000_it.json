@@ -1,0 +1,31 @@
+{
+  "english": "beset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao vây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo riết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a problem or difficulty) trouble or threaten persistently.",
+      "definitions_ex_en": "the social problems that beset the inner city",
+      "definitions_ex_vn": "các vấn đề xã hội bao vây thành phố nội thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be covered or studded with.",
+      "definitions_ex_en": "blades of grass beset with glistening drops of dew",
+      "definitions_ex_vn": "Lưỡi dao Buldet với những giọt sương lấp lánh",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

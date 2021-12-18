@@ -1,0 +1,51 @@
+{
+  "english": "farm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đất để trồng trọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồn điền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nông trại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of land and its buildings used for growing crops and rearing animals, typically under the control of one owner or manager.",
+      "definitions_ex_en": "a farm of 100 acres",
+      "definitions_ex_vn": "một trang trại của 100 mẫu Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make one's living by growing crops or keeping livestock.",
+      "definitions_ex_en": "he has farmed organically for five years",
+      "definitions_ex_vn": "Ông đã nuôi hữu cơ trong năm năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send out or subcontract work to others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow someone to collect and keep the revenues from (a tax) on payment of a fee.",
+      "definitions_ex_en": "the customs had been farmed to the collector for a fixed sum",
+      "definitions_ex_vn": "Hải quan đã được trang bị cho người sưu tập một khoản tiền cố định",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

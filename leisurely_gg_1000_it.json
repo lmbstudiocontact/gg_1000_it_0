@@ -1,0 +1,39 @@
+{
+  "english": "leisurely",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thung dung",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không gấp",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không bao giờ gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không bao giời vội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thông thả",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "acting or done at leisure; unhurried or relaxed.",
+      "definitions_ex_en": "a leisurely breakfast at our hotel",
+      "definitions_ex_vn": "Một bữa ăn sáng nhàn nhã tại khách sạn của chúng tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without hurry.",
+      "definitions_ex_en": "couples strolled leisurely along",
+      "definitions_ex_vn": "Các cặp vợ chồng đi dạo nhàn nhã dọc theo",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

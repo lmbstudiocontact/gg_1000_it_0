@@ -1,0 +1,113 @@
+{
+  "english": "end",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đuôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết qủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc lâm chung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu cuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục đích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chung qui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chấm dứt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết liểu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a final part of something, especially a period of time, an activity, or a story.",
+      "definitions_ex_en": "the end of the year",
+      "definitions_ex_vn": "cuối năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the furthest or most extreme part or point of something.",
+      "definitions_ex_en": "the end house",
+      "definitions_ex_vn": "Nhà cuối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a goal or result that one seeks to achieve.",
+      "definitions_ex_en": "each would use the other to further his own ends",
+      "definitions_ex_vn": "mỗi người sẽ sử dụng cái khác để tiếp tục kết thúc của chính mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in lawn bowling and curling) a session of play in one particular direction across the playing area.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offensive or defensive lineman positioned nearest to the sideline.",
+      "definitions_ex_en": "a defensive end",
+      "definitions_ex_vn": "một kết thúc phòng thủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "come or bring to a final point; finish.",
+      "definitions_ex_en": "when the war ended, policy changed",
+      "definitions_ex_vn": "Khi chiến tranh kết thúc, chính sách đã thay đổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting a person or thing to be treated in a specified way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

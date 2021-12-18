@@ -1,0 +1,35 @@
+{
+  "english": "hunting",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạy không đều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự chỉ bậy bạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đuổi bắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the activity of hunting wild animals or game, especially for food or sport.",
+      "definitions_ex_en": "they talked about going hunting",
+      "definitions_ex_vn": "Họ nói về việc đi săn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simple system of changes in which bells move through the order in a regular progression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

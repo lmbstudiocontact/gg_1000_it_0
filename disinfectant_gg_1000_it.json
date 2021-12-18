@@ -1,0 +1,27 @@
+{
+  "english": "disinfectant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc tẩy uế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuốc trừ độc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chemical liquid that destroys bacteria.",
+      "definitions_ex_en": "all surfaces are cleaned manually or by pressure washer with disinfectant",
+      "definitions_ex_vn": "Tất cả các bề mặt được làm sạch bằng tay hoặc bằng máy rửa áp lực với chất khử trùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "causing the destruction of bacteria.",
+      "definitions_ex_en": "cleansing and disinfectant products",
+      "definitions_ex_vn": "Sản phẩm tẩy rửa và khử trùng",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

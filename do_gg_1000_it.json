@@ -1,0 +1,187 @@
+{
+  "english": "do",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cử chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gian xảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành động của người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón lừa đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "om sòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xảo quyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nốt đô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọn dẹp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng vai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đủ rồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xếp đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phận sự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiên dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải một bài toán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mệt đừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu nướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perform (an action, the precise nature of which is often unspecified).",
+      "definitions_ex_en": "very little work has been done in this field",
+      "definitions_ex_vn": "rất ít công việc đã được thực hiện trong lĩnh vực này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "achieve or complete.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act or behave in a specified way.",
+      "definitions_ex_en": "they are free to do as they please",
+      "definitions_ex_vn": "họ miễn phí để làm như họ muốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be suitable or acceptable.",
+      "definitions_ex_en": "if he's anything like you, he'll do",
+      "definitions_ex_vn": "Nếu anh ấy là bất cứ điều gì như bạn, anh ấy sẽ làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat up or kill.",
+      "definitions_ex_en": "he was the guy who did Maranzano",
+      "definitions_ex_vn": "anh ấy là người làm maranzano",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used before a verb (except be, can, may, ought, shall, will ) in questions and negative statements.",
+      "definitions_ex_en": "do you have any pets?",
+      "definitions_ex_vn": "Bạn có nuôi con gì không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to refer to a verb already mentioned.",
+      "definitions_ex_en": "he looks better than he did before",
+      "definitions_ex_vn": "anh ấy trông tốt hơn so với trước đây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to give emphasis to a positive verb.",
+      "definitions_ex_en": "I do want to act on this",
+      "definitions_ex_vn": "Tôi muốn hành động về điều này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with inversion of a subject and verb when an adverbial phrase begins a clause for emphasis.",
+      "definitions_ex_en": "only rarely did they succumb",
+      "definitions_ex_vn": "chỉ hiếm khi họ đã chịu thua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "excrement.",
+      "definitions_ex_en": "the air was rancid with the smell of donkey doo",
+      "definitions_ex_vn": "Không khí bị ôi ôi với mùi Donkey Doo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in solmization) the first and eighth note of a major scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ditto.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "contain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao hàm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đựng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have or hold (someone or something) within.",
+      "definitions_ex_en": "coffee cans that once contained a full pound of coffee",
+      "definitions_ex_vn": "lon cà phê đã từng chứa một pound cà phê đầy đủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "control or restrain (oneself or a feeling).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "gather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "góp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hội họp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lượm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhóm họp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhóm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "siết chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tụ họp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come together; assemble or accumulate.",
+      "definitions_ex_en": "a crowd gathered in the square",
+      "definitions_ex_vn": "Một đám đông tập trung tại quảng trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring together and take in from scattered places or sources.",
+      "definitions_ex_en": "we have gathered the information",
+      "definitions_ex_vn": "Chúng tôi đã thu thập thông tin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "develop a higher degree of.",
+      "definitions_ex_en": "the green movement is gathering pace",
+      "definitions_ex_vn": "Phong trào xanh đang tập hợp tốc độ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "infer; understand.",
+      "definitions_ex_en": "her clients were, I gathered, a prosperous group",
+      "definitions_ex_vn": "Khách hàng của cô là, tôi đã tập hợp, một nhóm thịnh vượng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "summon up (a mental or physical attribute such as one's thoughts or strength) for a purpose.",
+      "definitions_ex_en": "he lay gathering his thoughts together",
+      "definitions_ex_vn": "Anh ấy nằm tập hợp những suy nghĩ của mình với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw and hold together (fabric or a part of a garment) by running thread through it.",
+      "definitions_ex_en": "the front is gathered at the waist",
+      "definitions_ex_vn": "Mặt trước được tập hợp ở eo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a part of a garment that is gathered or drawn in.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

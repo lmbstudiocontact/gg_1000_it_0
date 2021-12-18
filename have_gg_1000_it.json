@@ -1,0 +1,81 @@
+{
+  "english": "have",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự gian lận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qủa quyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "possess, own, or hold.",
+      "definitions_ex_en": "he had a new car and a boat",
+      "definitions_ex_vn": "Anh ấy có một chiếc xe mới và một chiếc thuyền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "experience; undergo.",
+      "definitions_ex_en": "I went to a few parties and had a good time",
+      "definitions_ex_vn": "Tôi đã đi đến một vài bữa tiệc và có một thời gian tốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be obliged or find it necessary to do the specified thing.",
+      "definitions_ex_en": "you don't have to accept this situation",
+      "definitions_ex_vn": "Bạn không cần phải chấp nhận tình huống này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform the action indicated by the noun specified (used especially in spoken English as an alternative to a more specific verb).",
+      "definitions_ex_en": "he had a look around",
+      "definitions_ex_vn": "anh ấy đã có một cái nhìn xung quanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show (a personal attribute or quality) by one's actions or attitude.",
+      "definitions_ex_en": "he had little patience with technological gadgetry",
+      "definitions_ex_vn": "Anh có chút kiên nhẫn với thiết bị công nghệ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place or keep (something) in a particular position.",
+      "definitions_ex_en": "Mary had her back to me",
+      "definitions_ex_vn": "Mary đã đưa cô ấy trở lại với tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be the recipient of (something sent, given, or done).",
+      "definitions_ex_en": "she had a letter from Mark",
+      "definitions_ex_vn": "cô ấy đã có một lá thư từ Mark",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with a past participle to form the perfect, pluperfect, and future perfect tenses, and the conditional mood.",
+      "definitions_ex_en": "I have finished",
+      "definitions_ex_vn": "tôi đã xong",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "people with plenty of money and possessions.",
+      "definitions_ex_en": "an increasing gap between the haves and have-nots",
+      "definitions_ex_vn": "khoảng cách ngày càng tăng giữa các haves và không có",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

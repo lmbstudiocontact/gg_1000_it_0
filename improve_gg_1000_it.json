@@ -1,0 +1,25 @@
+{
+  "english": "improve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho hoàn hảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tốt thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên tốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become better.",
+      "definitions_ex_en": "we’ve used technology to improve relations with customers",
+      "definitions_ex_vn": "Chúng tôi đã sử dụng công nghệ để cải thiện quan hệ với khách hàng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

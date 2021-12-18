@@ -1,0 +1,47 @@
+{
+  "english": "fraction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miếng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a numerical quantity that is not a whole number (e.g. 1/2, 0.5).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small or tiny part, amount, or proportion of something.",
+      "definitions_ex_en": "he hesitated for a fraction of a second",
+      "definitions_ex_vn": "anh do dự trong một phần của một giây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the portions into which a mixture may be separated by a process in which the individual components behave differently according to their physical properties.",
+      "definitions_ex_en": "the third fraction contain alcohols with boiling points of 120–130°C",
+      "definitions_ex_vn": "Phân số thứ ba chứa cồn với điểm sôi 120-130 ° C",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Christian Church) the breaking of the Eucharistic bread.",
+      "definitions_ex_en": "the Fraction may be accompanied by the Agnus Dei",
+      "definitions_ex_vn": "Phân số có thể được kèm theo Agnus dei",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "fling",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quăng ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phun ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vọt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng mình tới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "throw or hurl forcefully.",
+      "definitions_ex_en": "he picked up the debris and flung it away",
+      "definitions_ex_vn": "Anh nhặt những mảnh vụn và ném nó đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a short period of enjoyment or wild behavior.",
+      "definitions_ex_en": "one final fling before a tranquil retirement",
+      "definitions_ex_vn": "một trận chung kết trước khi nghỉ hưu yên tĩnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Highland fling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

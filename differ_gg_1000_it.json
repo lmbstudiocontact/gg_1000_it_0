@@ -1,0 +1,29 @@
+{
+  "english": "differ",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất đồng ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khác nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không đồng ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không giống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be unlike or dissimilar.",
+      "definitions_ex_en": "the second set of data differed from the first",
+      "definitions_ex_vn": "bộ dữ liệu thứ hai khác nhau so với đầu tiên",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

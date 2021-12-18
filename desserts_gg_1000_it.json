@@ -1,0 +1,21 @@
+{
+  "english": "desserts",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn tráng miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tráng miệng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sweet course eaten at the end of a meal.",
+      "definitions_ex_en": "a dessert of chocolate mousse",
+      "definitions_ex_vn": "một món tráng miệng của mousse sô cô la",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

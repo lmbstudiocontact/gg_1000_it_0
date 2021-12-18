@@ -1,0 +1,31 @@
+{
+  "english": "believe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tín ngưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "accept (something) as true; feel sure of the truth of.",
+      "definitions_ex_en": "the superintendent believed Lancaster's story",
+      "definitions_ex_vn": "Tổng giám đốc tin rằng câu chuyện của Lancaster",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold (something) as an opinion; think or suppose.",
+      "definitions_ex_en": "I believe we've already met",
+      "definitions_ex_vn": "Tôi tin rằng chúng tôi đã gặp nhau",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

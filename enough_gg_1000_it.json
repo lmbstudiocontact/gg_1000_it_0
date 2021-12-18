@@ -1,0 +1,41 @@
+{
+  "english": "enough",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơi khá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kha khá",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as much or as many as required.",
+      "definitions_ex_en": "there's too much work and not enough people to do it",
+      "definitions_ex_vn": "Có quá nhiều công việc và không đủ người để làm điều đó",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "as much or as many of something as required.",
+      "definitions_ex_en": "you need to get enough of the right things to eat",
+      "definitions_ex_vn": "Bạn cần phải có đủ những thứ phù hợp để ăn",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "to the required degree or extent (used after an adjective, adverb, or verb).",
+      "definitions_ex_en": "at the time, he wasn't old enough to vote",
+      "definitions_ex_vn": "Vào thời điểm đó, anh ấy không đủ tuổi để bỏ phiếu",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

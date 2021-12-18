@@ -1,0 +1,21 @@
+{
+  "english": "carefully",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hảy cẩn thận",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hảy giữ gìn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that deliberately avoids harm or errors; cautiously.",
+      "definitions_ex_en": "they must be carefully handled and stored",
+      "definitions_ex_vn": "họ phải được xử lý và lưu trữ cẩn thận",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

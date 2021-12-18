@@ -1,0 +1,51 @@
+{
+  "english": "moment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chốc lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩn yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc quan trọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very brief period of time.",
+      "definitions_ex_en": "she was silent for a moment before replying",
+      "definitions_ex_vn": "Cô im lặng một lúc trước khi trả lời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "importance.",
+      "definitions_ex_en": "the issues were of little moment to the electorate",
+      "definitions_ex_vn": "Các vấn đề là một khoảnh khắc nhỏ cho cử tri",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a turning effect produced by a force acting at a distance on an object.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity that expresses the average or expected value of the first, second, third, or fourth power of the deviation of each component of a frequency distribution from some given value, typically mean or zero. The first moment is the mean, the second moment the variance, the third moment the skew, and the fourth moment the kurtosis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

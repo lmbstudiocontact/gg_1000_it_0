@@ -1,0 +1,79 @@
+{
+  "english": "blue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc lam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật sắc xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhuộm xanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài phá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a color intermediate between green and violet, as of the sky or sea on a sunny day.",
+      "definitions_ex_en": "the clear blue sky",
+      "definitions_ex_vn": "bầu trời xanh trong",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or mood) melancholy, sad, or depressed.",
+      "definitions_ex_en": "he's feeling blue",
+      "definitions_ex_vn": "Anh ấy cảm thấy màu xanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a movie, joke, or story) with sexual or pornographic content.",
+      "definitions_ex_en": "the blue movies are hugely profitable",
+      "definitions_ex_vn": "Những bộ phim màu xanh có lợi nhuận rất nhiều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "rigidly religious or moralistic; puritanical.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "blue color or pigment.",
+      "definitions_ex_en": "she was dressed in blue",
+      "definitions_ex_vn": "Cô ấy mặc đồ màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small butterfly, the male of which is predominantly blue while the female is typically brown.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or become blue.",
+      "definitions_ex_en": "the light dims, bluing the retina",
+      "definitions_ex_vn": "ánh sáng mờ, làm mờ võng mạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wash (white clothes) with bluing.",
+      "definitions_ex_en": "they blued the shirts and starched the uniforms",
+      "definitions_ex_vn": "Họ thổi bay những chiếc áo và làm sáng tỏ các bộ đồng phục",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

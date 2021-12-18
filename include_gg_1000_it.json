@@ -1,0 +1,31 @@
+{
+  "english": "include",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao gồm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao hàm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gồm có",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "comprise or contain as part of a whole.",
+      "definitions_ex_en": "the price includes dinner, bed, and breakfast",
+      "definitions_ex_vn": "Giá bao gồm bữa tối, giường và bữa sáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make part of a whole or set.",
+      "definitions_ex_en": "we have included some hints for beginners in this section",
+      "definitions_ex_vn": "Chúng tôi đã bao gồm một số gợi ý cho người mới bắt đầu trong phần này",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

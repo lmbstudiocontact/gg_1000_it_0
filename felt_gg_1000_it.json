@@ -1,0 +1,41 @@
+{
+  "english": "felt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót phớt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a kind of cloth made by rolling and pressing wool or another suitable textile accompanied by the application of moisture or heat, which causes the constituent fibers to mat together to create a smooth surface.",
+      "definitions_ex_en": "a felt hat",
+      "definitions_ex_vn": "một chiếc mũ nỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make into felt; mat together.",
+      "definitions_ex_en": "the wood fibers are shredded and felted together",
+      "definitions_ex_vn": "Các sợi gỗ được băm nhỏ và nỉ với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past and past participle of feel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

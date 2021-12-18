@@ -1,0 +1,55 @@
+{
+  "english": "gird",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao vây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vấn xung quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "encircle (a person or part of the body) with a belt or band.",
+      "definitions_ex_en": "a young man was to be girded with the belt of knighthood",
+      "definitions_ex_vn": "Một chàng trai trẻ đang được girded với vành đai hiệp sĩ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare oneself for something difficult or challenging.",
+      "definitions_ex_en": "they are girding themselves for the upcoming court case",
+      "definitions_ex_vn": "họ đang tự dang cho trường hợp tòa án sắp tới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make cutting or critical remarks.",
+      "definitions_ex_en": "they girded at the committee",
+      "definitions_ex_vn": "họ đã girded tại Ủy ban",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cutting or critical remark; a taunt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "forearm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cánh tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuẩn bị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a person's arm extending from the elbow to the wrist or the fingertips.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prepare (someone) in advance for danger, attack, or another undesirable future event.",
+      "definitions_ex_en": "within ourselves, we are forearmed against unpleasant possibilities",
+      "definitions_ex_vn": "Trong chính chúng ta, chúng tôi đã nói chuyện với những khả năng khó chịu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

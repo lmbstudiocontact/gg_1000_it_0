@@ -1,0 +1,65 @@
+{
+  "english": "less",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ít hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kém hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ hơn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a smaller amount of; not as much.",
+      "definitions_ex_en": "the less time spent there, the better",
+      "definitions_ex_vn": "càng ít thời gian ở đó, càng tốt",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a smaller amount or quantity of something.",
+      "definitions_ex_en": "storage is less of a problem than it used to be",
+      "definitions_ex_vn": "lưu trữ ít có vấn đề hơn so với trước đây",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "to a smaller extent; not so much.",
+      "definitions_ex_en": "cut out less important material",
+      "definitions_ex_vn": "cắt ra ít vật liệu quan trọng hơn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "before subtracting (something); minus.",
+      "definitions_ex_en": "$900,000 less tax",
+      "definitions_ex_vn": "$ 900.000 ít thuế",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "of lower rank or importance.",
+      "definitions_ex_en": "James the Less",
+      "definitions_ex_vn": "James ít hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(from nouns) not having; without; free from.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "(from verbs) not affected by or not carrying out the action of the verb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

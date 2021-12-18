@@ -1,0 +1,27 @@
+{
+  "english": "bladder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọng đái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a membranous sac in humans and other animals, in which urine is collected for excretion.",
+      "definitions_ex_en": "patients were asked to empty their bladders before going to bed",
+      "definitions_ex_vn": "Bệnh nhân được yêu cầu làm trống những con bọ xít của họ trước khi đi ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "anything inflated and hollow.",
+      "definitions_ex_en": "an air bladder in the arch and collar of the shoe",
+      "definitions_ex_vn": "một bàng quang trong vòm và cổ áo của giày",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

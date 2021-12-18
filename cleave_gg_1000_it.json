@@ -1,0 +1,59 @@
+{
+  "english": "cleave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bối rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ hai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ ra làm đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúng túng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nứt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ đám đông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ sóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tách ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "split or sever (something), especially along a natural line or grain.",
+      "definitions_ex_en": "the large axe his father used to cleave wood for the fire",
+      "definitions_ex_vn": "Cái rìu lớn cha anh từng tách gỗ cho lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stick fast to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

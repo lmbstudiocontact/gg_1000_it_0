@@ -1,0 +1,25 @@
+{
+  "english": "hat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội nón cho người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform.",
+      "definitions_ex_en": "a black straw hat",
+      "definitions_ex_vn": "một chiếc mũ rơm đen",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

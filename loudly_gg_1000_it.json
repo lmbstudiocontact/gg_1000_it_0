@@ -1,0 +1,21 @@
+{
+  "english": "loudly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huyên náo",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ồn ào",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that produces much noise.",
+      "definitions_ex_en": "he laughed loudly",
+      "definitions_ex_vn": "Anh cười to",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

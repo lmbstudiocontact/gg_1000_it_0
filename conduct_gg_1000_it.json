@@ -1,0 +1,93 @@
+{
+  "english": "conduct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong nôm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hướng dẫn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách cư xữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cư xử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạnh kiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng dẫn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm hạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh nết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the manner in which a person behaves, especially on a particular occasion or in a particular context.",
+      "definitions_ex_en": "all three brothers were known for their disorderly conduct",
+      "definitions_ex_vn": "Cả ba anh em đều được biết đến với hành vi vô trật tự của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or manner of managing an activity or organization.",
+      "definitions_ex_en": "his conduct of the campaign",
+      "definitions_ex_vn": "Tiến hành chiến dịch của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "organize and carry out.",
+      "definitions_ex_en": "in the second trial he conducted his own defense",
+      "definitions_ex_vn": "Trong thử nghiệm thứ hai, ông đã thực hiện quốc phòng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lead or guide (someone) to or around a particular place.",
+      "definitions_ex_en": "he conducted us through his personal gallery of the Civil War",
+      "definitions_ex_vn": "Ông đã tiến hành chúng tôi thông qua bộ sưu tập cá nhân của cuộc nội chiến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transmit (a form of energy such as heat or electricity) by conduction.",
+      "definitions_ex_en": "heat is conducted to the surface",
+      "definitions_ex_vn": "nhiệt được tiến hành lên bề mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "direct the performance of (a piece of music or a musical ensemble).",
+      "definitions_ex_en": "my first attempt to conduct a great work",
+      "definitions_ex_vn": "nỗ lực đầu tiên của tôi để tiến hành một công việc tuyệt vời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave in a specified way.",
+      "definitions_ex_en": "he conducted himself with the utmost propriety",
+      "definitions_ex_vn": "anh ấy đã tiến hành với sự phù hợp tối đa",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

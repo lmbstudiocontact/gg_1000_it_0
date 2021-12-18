@@ -1,0 +1,47 @@
+{
+  "english": "cheek",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gò má",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh liều lỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xấc xược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không biết xấu hổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt dầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngạo mạn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either side of the face below the eye.",
+      "definitions_ex_en": "tears rolled down her cheeks",
+      "definitions_ex_vn": "Nước mắt lăn xuống má cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impertinent talk or behavior.",
+      "definitions_ex_en": "he had the cheek to complain",
+      "definitions_ex_vn": "Anh ta có má phàn nàn",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

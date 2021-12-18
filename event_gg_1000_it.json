@@ -1,0 +1,45 @@
+{
+  "english": "event",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến cố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biến sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi họp về thể thao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đấu gươm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc xảy ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that happens, especially one of importance.",
+      "definitions_ex_en": "one of the main political events of the late 20th century",
+      "definitions_ex_vn": "một trong những sự kiện chính trị chính của cuối thế kỷ 20",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

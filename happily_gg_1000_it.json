@@ -1,0 +1,29 @@
+{
+  "english": "happily",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có phước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hạnh phúc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "diểm phúc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sung sướng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a happy way.",
+      "definitions_ex_en": "Eleanor giggled happily",
+      "definitions_ex_vn": "Eleanor cười khúc khích vui vẻ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

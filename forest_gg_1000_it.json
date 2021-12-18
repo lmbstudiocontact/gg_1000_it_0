@@ -1,0 +1,21 @@
+{
+  "english": "forest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trồng cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large area covered chiefly with trees and undergrowth.",
+      "definitions_ex_en": "a pine forest",
+      "definitions_ex_vn": "một rừng thông",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

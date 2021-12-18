@@ -1,0 +1,25 @@
+{
+  "english": "disappear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chết mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không còn tồn tại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cease to be visible.",
+      "definitions_ex_en": "he disappeared into the trees",
+      "definitions_ex_vn": "Anh biến mất vào những cái cây",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

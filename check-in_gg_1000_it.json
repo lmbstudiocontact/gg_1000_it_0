@@ -1,0 +1,25 @@
+{
+  "english": "check-in",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đăng ký vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm soát khi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký tên khi đến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the act of reporting one's presence and registering, typically at an airport or hotel.",
+      "definitions_ex_en": "the check-in counter",
+      "definitions_ex_vn": "quầy làm thủ tục",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

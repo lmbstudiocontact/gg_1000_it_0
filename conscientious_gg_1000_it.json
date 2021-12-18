@@ -1,0 +1,27 @@
+{
+  "english": "conscientious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hết lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tận tâm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) wishing to do what is right, especially to do one's work or duty well and thoroughly.",
+      "definitions_ex_en": "a conscientious and hardworking clerk",
+      "definitions_ex_vn": "một thư ký có lương tâm và chăm chỉ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a person's conscience.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "mislay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh mất văn kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lạc mất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unintentionally put (an object) where it cannot readily be found and so lose it temporarily.",
+      "definitions_ex_en": "I seem to have mislaid my car keys",
+      "definitions_ex_vn": "Tôi dường như đã đánh lừa chìa khóa xe của tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "manifest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất hiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu tình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu thị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clear or obvious to the eye or mind.",
+      "definitions_ex_en": "the system's manifest failings",
+      "definitions_ex_vn": "lỗi rõ ràng của hệ thống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "display or show (a quality or feeling) by one's acts or appearance; demonstrate.",
+      "definitions_ex_en": "Ray manifested signs of severe depression",
+      "definitions_ex_vn": "Tia biểu hiện dấu hiệu của trầm cảm nặng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "record in a manifest.",
+      "definitions_ex_en": "every passenger is manifested at the point of departure",
+      "definitions_ex_vn": "Mỗi hành khách được biểu hiện tại điểm khởi hành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a document giving comprehensive details of a ship and its cargo and other contents, passengers, and crew for the use of customs officers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

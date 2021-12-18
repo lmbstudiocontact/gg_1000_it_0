@@ -1,0 +1,51 @@
+{
+  "english": "cloudy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm u",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đen đặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó hiểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lờ mờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập mờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều mây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sầm tối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "u tối",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of the sky or weather) covered with or characterized by clouds; overcast.",
+      "definitions_ex_en": "next morning was cloudy",
+      "definitions_ex_vn": "Sáng hôm sau trời nhiều mây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a liquid) not transparent or clear.",
+      "definitions_ex_en": "the pond water is slightly cloudy",
+      "definitions_ex_vn": "Nước ao hơi nhiều mây",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

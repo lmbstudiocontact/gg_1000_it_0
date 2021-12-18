@@ -1,0 +1,57 @@
+{
+  "english": "generally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ đại khái",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ đa số",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ phần đông",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ sự tổng quát",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ thường thường",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đại khái",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tánh cách suy rộng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thường thường",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in most cases; usually.",
+      "definitions_ex_en": "the term of a lease is generally 99 years",
+      "definitions_ex_vn": "Thuật ngữ của hợp đồng thuê thường là 99 năm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in general terms; without regard to particulars or exceptions.",
+      "definitions_ex_en": "a decade when France was moving generally to the left",
+      "definitions_ex_vn": "một thập kỷ khi Pháp thường di chuyển sang trái",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "widely.",
+      "definitions_ex_en": "the best scheme is generally reckoned to be the Canadian one",
+      "definitions_ex_vn": "Đề án tốt nhất thường được tính toán là người Canada",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

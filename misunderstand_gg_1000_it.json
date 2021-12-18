@@ -1,0 +1,25 @@
+{
+  "english": "misunderstand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hiểu không rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiểu không rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu lầm người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fail to interpret or understand (something) correctly.",
+      "definitions_ex_en": "he had misunderstood the policeman's hand signals",
+      "definitions_ex_vn": "anh ta đã hiểu nhầm tín hiệu tay của cảnh sát",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "honest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh liêm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chân thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "liêm kiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free of deceit and untruthfulness; sincere.",
+      "definitions_ex_en": "I haven't been totally honest with you",
+      "definitions_ex_vn": "Tôi đã không hoàn toàn trung thực với bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to persuade someone of the truth of something.",
+      "definitions_ex_en": "you'll like it when you get there, honest",
+      "definitions_ex_vn": "bạn sẽ thích nó khi bạn đến đó, trung thực",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

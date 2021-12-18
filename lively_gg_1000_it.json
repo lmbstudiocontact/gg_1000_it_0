@@ -1,0 +1,45 @@
+{
+  "english": "lively",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy sanh khí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hớn hở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "linh động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "linh hoạt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "màu sáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắc tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui vẻ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "full of life and energy; active and outgoing.",
+      "definitions_ex_en": "she joined a lively team of reporters",
+      "definitions_ex_vn": "Cô tham gia một đội ngũ phóng viên sôi nổi",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "how",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sao",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "làm sao",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "gò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mô đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in what way or manner; by what means.",
+      "definitions_ex_en": "how does it work?",
+      "definitions_ex_vn": "làm thế nào nó hoạt động?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to ask about the condition or quality of something.",
+      "definitions_ex_en": "how was your vacation?",
+      "definitions_ex_vn": "kỳ nghỉ của bạn thế nào?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to ask about the extent or degree of something.",
+      "definitions_ex_en": "how old are you?",
+      "definitions_ex_vn": "bạn bao nhiêu tuổi?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the way in which; that.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a greeting attributed to North American Indians (used in humorous imitation).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

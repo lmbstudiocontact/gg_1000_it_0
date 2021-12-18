@@ -1,0 +1,35 @@
+{
+  "english": "busy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bận rộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bận việc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoạt động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chăm lo việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a great deal to do.",
+      "definitions_ex_en": "he had been too busy to enjoy himself",
+      "definitions_ex_vn": "anh ấy đã quá bận rộn để tận hưởng chính mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "keep occupied.",
+      "definitions_ex_en": "she busied herself with her new home",
+      "definitions_ex_vn": "Cô ấy bận rộn với ngôi nhà mới của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

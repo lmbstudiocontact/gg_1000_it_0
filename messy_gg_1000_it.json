@@ -1,0 +1,27 @@
+{
+  "english": "messy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩn thỉu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhớp nhúa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "untidy or dirty.",
+      "definitions_ex_en": "his messy hair",
+      "definitions_ex_vn": "Tóc bừa bộn của anh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a situation) confused and difficult to deal with.",
+      "definitions_ex_en": "a messy divorce",
+      "definitions_ex_vn": "một cuộc ly hôn lộn xộn.",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

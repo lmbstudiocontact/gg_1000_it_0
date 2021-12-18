@@ -1,0 +1,25 @@
+{
+  "english": "every",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tất cả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mổi",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(preceding a singular noun) used to refer to all the individual members of a set without exception.",
+      "definitions_ex_en": "the hotel assures every guest of personal attention",
+      "definitions_ex_vn": "Khách sạn đảm bảo mọi khách mời cá nhân",
+      "definitions_type_word": "article"
+    }
+  ]
+}

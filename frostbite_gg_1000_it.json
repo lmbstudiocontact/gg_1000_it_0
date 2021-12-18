@@ -1,0 +1,21 @@
+{
+  "english": "frostbite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự queo lại vì lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tê cóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "injury to body tissues caused by exposure to extreme cold, typically affecting the nose, fingers, or toes and sometimes resulting in gangrene.",
+      "definitions_ex_en": "when they rescued him he was suffering from frostbite",
+      "definitions_ex_vn": "Khi họ giải cứu anh ta, anh ta đang bị tê lạnh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

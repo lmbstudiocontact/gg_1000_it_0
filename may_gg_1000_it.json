@@ -1,0 +1,45 @@
+{
+  "english": "may",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lẽ",
+      "type_word": "auxiliary verb"
+    },
+    {
+      "translate_mean": "có thể",
+      "type_word": "auxiliary verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expressing possibility.",
+      "definitions_ex_en": "that may be true",
+      "definitions_ex_vn": "Điều đó có thể đúng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing permission.",
+      "definitions_ex_en": "may I ask a few questions?",
+      "definitions_ex_vn": "Tôi có thể hỏi một vài câu hỏi không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a wish or hope.",
+      "definitions_ex_en": "may she rest in peace",
+      "definitions_ex_vn": "Cô có thể nghỉ ngơi trong hòa bình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the hawthorn or its blossom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fifth month of the year, in the northern hemisphere usually considered the last month of spring.",
+      "definitions_ex_en": "the new model makes its showroom debut in May",
+      "definitions_ex_vn": "mô hình mới làm cho showroom của nó ra mắt vào tháng 5",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

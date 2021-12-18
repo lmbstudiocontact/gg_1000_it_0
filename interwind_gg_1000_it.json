@@ -1,0 +1,25 @@
+{
+  "english": "interwind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấn lẩn nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tréo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wind together.",
+      "definitions_ex_en": "in order to avoid scratches, interwind the coil with tissue paper",
+      "definitions_ex_vn": "Để tránh trầy xước, hãy xen kẽ cuộn dây bằng giấy lụa",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

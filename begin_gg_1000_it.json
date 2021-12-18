@@ -1,0 +1,27 @@
+{
+  "english": "begin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi sự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "start; perform or undergo the first part of (an action or activity).",
+      "definitions_ex_en": "it was beginning to snow",
+      "definitions_ex_vn": "Nó đã bắt đầu tuyết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "not have any chance or likelihood of doing a specified thing.",
+      "definitions_ex_en": "circuitry that Karen could not begin to comprehend",
+      "definitions_ex_vn": "Mạch mà Karen không thể bắt đầu hiểu",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

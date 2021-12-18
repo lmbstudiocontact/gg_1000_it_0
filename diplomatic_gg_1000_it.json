@@ -1,0 +1,35 @@
+{
+  "english": "diplomatic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khôn ngoan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giao thiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôn khéo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoại giao",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or concerning the profession, activity, or skill of managing international relations.",
+      "definitions_ex_en": "diplomatic relations between the United States and Britain",
+      "definitions_ex_vn": "quan hệ ngoại giao giữa Hoa Kỳ và Anh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an edition or copy) exactly reproducing an original version.",
+      "definitions_ex_en": "a diplomatic transcription",
+      "definitions_ex_vn": "một phiên âm ngoại giao",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

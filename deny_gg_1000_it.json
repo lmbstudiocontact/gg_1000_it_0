@@ -1,0 +1,43 @@
+{
+  "english": "deny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhìn nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quên mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "state that one refuses to admit the truth or existence of.",
+      "definitions_ex_en": "they deny any responsibility for the tragedy",
+      "definitions_ex_vn": "Họ phủ nhận bất kỳ trách nhiệm cho bi kịch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "refuse to give or grant (something requested or desired) to (someone).",
+      "definitions_ex_en": "the inquiry was denied access to intelligence sources",
+      "definitions_ex_vn": "Cuộc điều tra đã bị từ chối truy cập vào các nguồn thông minh",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

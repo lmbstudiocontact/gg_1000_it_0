@@ -1,0 +1,39 @@
+{
+  "english": "harm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thiệt hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổn hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "physical injury, especially that which is deliberately inflicted.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physically injure.",
+      "definitions_ex_en": "the villains didn't harm him",
+      "definitions_ex_vn": "Những nhân vật phản diện không làm hại anh ta",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

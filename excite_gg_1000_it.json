@@ -1,0 +1,33 @@
+{
+  "english": "excite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm phấn khởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause strong feelings of enthusiasm and eagerness in (someone).",
+      "definitions_ex_en": "flying still excites me",
+      "definitions_ex_vn": "Bay vẫn còn kích thích tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring out or give rise to (a feeling or reaction).",
+      "definitions_ex_en": "the ability to excite interest in others",
+      "definitions_ex_vn": "khả năng phấn khích sự quan tâm đến người khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce a state of increased energy or activity in (a physical or biological system).",
+      "definitions_ex_en": "the energy of an electron is sufficient to excite the atom",
+      "definitions_ex_vn": "Năng lượng của một electron là đủ để kích thích nguyên tử",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "determine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến kỳ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mản hạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhứt quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân xử dứt khoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyết định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thủ tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch biên giới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (something) to occur in a particular way; be the decisive factor in.",
+      "definitions_ex_en": "it will be her mental attitude that determines her future",
+      "definitions_ex_vn": "Đó sẽ là thái độ tinh thần của cô ấy quyết định tương lai của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ascertain or establish exactly, typically as a result of research or calculation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "firmly decide.",
+      "definitions_ex_en": "he determined on a withdrawal of his forces",
+      "definitions_ex_vn": "Ông xác định về việc rút lực lượng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring or come to an end.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

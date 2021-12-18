@@ -1,0 +1,59 @@
+{
+  "english": "east",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía đông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the direction toward the point of the horizon where the sun rises at the equinoxes, on the right-hand side of a person facing north, or the point on the horizon itself.",
+      "definitions_ex_en": "a gale was blowing from the east",
+      "definitions_ex_vn": "Một cơn gió đang thổi từ phía đông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the eastern part of the world or of a specified country, region, or town.",
+      "definitions_ex_en": "a factory in the east of the city",
+      "definitions_ex_vn": "một nhà máy ở phía đông của thành phố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the player sitting to the left of North and partnering West.",
+      "definitions_ex_en": "East passes and you respond one heart",
+      "definitions_ex_vn": "East Passes và bạn trả lời một trái tim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lying toward, near, or facing the east.",
+      "definitions_ex_en": "the hospital's east wing",
+      "definitions_ex_vn": "cánh đông của bệnh viện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or denoting the eastern part of a specified area, city, or country or its inhabitants.",
+      "definitions_ex_en": "East Texas",
+      "definitions_ex_vn": "Đông Texas.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to or toward the east.",
+      "definitions_ex_en": "traveling east, he met two men",
+      "definitions_ex_vn": "Đi về phía đông, anh gặp hai người đàn ông",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

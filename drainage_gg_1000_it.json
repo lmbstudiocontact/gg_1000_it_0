@@ -1,0 +1,41 @@
+{
+  "english": "drainage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho khô ráo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước rút nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rút mũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rút nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tháo nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tát cạn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vắt ráo nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of draining something.",
+      "definitions_ex_en": "the pot must have holes in the base for good drainage",
+      "definitions_ex_vn": "Nồi phải có lỗ trong đế để thoát nước tốt",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

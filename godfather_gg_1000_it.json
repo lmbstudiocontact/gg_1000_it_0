@@ -1,0 +1,35 @@
+{
+  "english": "godfather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bố già",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha đở đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đở đầu đứa trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha đở đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who presents a child at baptism and promises to take responsibility for their religious education.",
+      "definitions_ex_en": "he is godfather to her son",
+      "definitions_ex_vn": "anh ấy là cha đỡ đầu với con trai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man who is influential or pioneering in a movement or organization.",
+      "definitions_ex_en": "the godfather of alternative comedy",
+      "definitions_ex_vn": "Bố già hài kịch thay thế",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

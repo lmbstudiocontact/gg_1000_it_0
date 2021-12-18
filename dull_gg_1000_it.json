@@ -1,0 +1,67 @@
+{
+  "english": "dull",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chậm chạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đần độn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắt yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nặng nề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự đau ngầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tai không thính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trì độn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm bớt đau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking interest or excitement.",
+      "definitions_ex_en": "your diet doesn't have to be dull and boring",
+      "definitions_ex_vn": "chế độ ăn uống của bạn không cần phải buồn tẻ và nhàm chán",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking brightness, vividness, or sheen.",
+      "definitions_ex_en": "his face glowed in the dull lamplight",
+      "definitions_ex_vn": "Khuôn mặt của anh phát sáng trong Lamplight buồn tẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) slow to understand; stupid.",
+      "definitions_ex_en": "the voice of a teacher talking to a rather dull child",
+      "definitions_ex_vn": "Tiếng nói của một giáo viên nói chuyện với một đứa trẻ khá buồn tẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become dull or less intense.",
+      "definitions_ex_en": "time dulls the memory",
+      "definitions_ex_vn": "Thời gian xỉn trí nhớ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

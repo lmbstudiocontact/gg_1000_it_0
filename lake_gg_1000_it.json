@@ -1,0 +1,27 @@
+{
+  "english": "lake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large body of water surrounded by land.",
+      "definitions_ex_en": "boys were swimming in the lake",
+      "definitions_ex_vn": "Con trai đang bơi trong hồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an insoluble pigment made by combining a soluble organic dye and an insoluble mordant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

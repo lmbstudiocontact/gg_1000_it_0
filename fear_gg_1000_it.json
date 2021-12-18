@@ -1,0 +1,43 @@
+{
+  "english": "fear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn trọng pháp luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh hải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lo sợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+      "definitions_ex_en": "he is prey to irrational fears",
+      "definitions_ex_vn": "anh ấy là con mồi để sợ hãi phi lý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be afraid of (someone or something) as likely to be dangerous, painful, or threatening.",
+      "definitions_ex_en": "farmers fear that they will lose business",
+      "definitions_ex_vn": "Nông dân sợ rằng họ sẽ mất kinh doanh",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

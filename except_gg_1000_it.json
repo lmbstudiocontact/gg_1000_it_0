@@ -1,0 +1,49 @@
+{
+  "english": "except",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bác ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không kể ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không thừa nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngoại trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not including; other than.",
+      "definitions_ex_en": "they work every day except Sunday",
+      "definitions_ex_vn": "họ làm việc mỗi ngày trừ chủ nhật",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "used before a statement that forms an exception to one just made.",
+      "definitions_ex_en": "I didn't tell him anything, except that I needed the money",
+      "definitions_ex_vn": "Tôi đã không nói với anh ta bất cứ điều gì, ngoại trừ việc tôi cần tiền",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "specify as not included in a category or group; exclude.",
+      "definitions_ex_en": "he excepted from his criticism a handful of distinguished writers",
+      "definitions_ex_vn": "anh ta ngoại trừ những lời chỉ trích của mình một số ít các nhà văn nổi bật",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

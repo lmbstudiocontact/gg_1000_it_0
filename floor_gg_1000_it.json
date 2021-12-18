@@ -1,0 +1,69 @@
+{
+  "english": "floor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đáy sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp khoáng sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rầm nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sàn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân đập lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầng lầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh ngã địch thủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót sàn nhà",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the lower surface of a room, on which one may walk.",
+      "definitions_ex_en": "he dropped the cup and it smashed on the floor",
+      "definitions_ex_vn": "Anh đánh rơi cốc và nó đập vỡ trên sàn nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "all the rooms or areas on the same level of a building; a story.",
+      "definitions_ex_en": "a third-floor apartment",
+      "definitions_ex_vn": "Căn hộ tầng ba",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a legislative assembly) the part of the house in which members sit and from which they speak.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a room or area) with a floor.",
+      "definitions_ex_en": "a stone-floored building",
+      "definitions_ex_vn": "một tòa nhà sàn đá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "knock (someone) to the ground, especially with a punch.",
+      "definitions_ex_en": "the champion floored Close with an uppercut",
+      "definitions_ex_vn": "Nhà vô địch nổi lên gần với một cú đánh",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "edge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề lưỡi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề mặt hẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rìa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ nguy kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho sắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp lề đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài cho bén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viền vải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the outside limit of an object, area, or surface; a place or part farthest away from the center of something.",
+      "definitions_ex_en": "a willow tree at the water's edge",
+      "definitions_ex_vn": "một cây liễu ở rìa của nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sharpened side of the blade of a cutting implement or weapon.",
+      "definitions_ex_en": "a knife with a razor-sharp edge",
+      "definitions_ex_vn": "một con dao với một cạnh sắc như dao cạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quality or factor that gives superiority over close rivals or competitors.",
+      "definitions_ex_en": "the veal had the edge on flavor",
+      "definitions_ex_vn": "Veal có rìa trên hương vị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a border or edge.",
+      "definitions_ex_en": "the pool is edged with paving",
+      "definitions_ex_vn": "Hồ bơi được lát bằng lát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move gradually, carefully, or furtively in a particular direction.",
+      "definitions_ex_en": "she tried to edge away from him",
+      "definitions_ex_vn": "Cô cố gắng rời khỏi anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give an intense or sharp quality to.",
+      "definitions_ex_en": "desperation edged her voice",
+      "definitions_ex_vn": "Desperation tăng giọng của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ski with one's weight on the edges of one's skis.",
+      "definitions_ex_en": "you will be edging early, controlling a parallel turn",
+      "definitions_ex_vn": "Bạn sẽ được chỉnh sửa sớm, kiểm soát một lượt song song",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

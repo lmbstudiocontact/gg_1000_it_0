@@ -1,0 +1,67 @@
+{
+  "english": "flow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạy qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy tràn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu thông của máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát sanh ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a fluid, gas, or electricity) move along or out steadily and continuously in a current or stream.",
+      "definitions_ex_en": "from here the river flows north",
+      "definitions_ex_vn": "Từ đây sông chảy về phía bắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go from one place to another in a steady stream, typically in large numbers.",
+      "definitions_ex_en": "the firm is hoping the orders will keep flowing in",
+      "definitions_ex_vn": "Công ty đang hy vọng các đơn đặt hàng sẽ tiếp tục chảy trong",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a solid) undergo a permanent change of shape under stress, without melting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action or fact of moving along in a steady, continuous stream.",
+      "definitions_ex_en": "the flow of water into the pond",
+      "definitions_ex_vn": "dòng nước vào ao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steady, continuous stream of something.",
+      "definitions_ex_en": "she eased the car into the flow of traffic",
+      "definitions_ex_vn": "Cô nới lỏng chiếc xe vào dòng chảy của giao thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the gradual permanent deformation of a solid under stress, without melting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

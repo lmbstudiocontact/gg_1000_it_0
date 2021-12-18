@@ -1,0 +1,33 @@
+{
+  "english": "boat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi chơi bằng ghe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small vessel propelled on water by oars, sails, or an engine.",
+      "definitions_ex_en": "a fishing boat",
+      "definitions_ex_vn": "một chiếc thuyền đánh cá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a serving dish in the shape of a boat.",
+      "definitions_ex_en": "a gravy boat",
+      "definitions_ex_vn": "một chiếc thuyền gravy.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel or go in a boat for pleasure.",
+      "definitions_ex_en": "they boated through fjords",
+      "definitions_ex_vn": "Họ chèo thuyền qua các vịnh hẹp",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

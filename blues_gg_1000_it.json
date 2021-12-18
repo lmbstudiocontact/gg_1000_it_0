@@ -1,0 +1,23 @@
+{
+  "english": "blues",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu xanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "melancholic music of black American folk origin, typically in a twelve-bar sequence. It developed in the rural southern US toward the end of the 19th century, finding a wider audience in the 1940s, as black people migrated to the cities. This urban blues gave rise to rhythm and blues and rock and roll.",
+      "definitions_ex_en": "blues has always had a strong following in Australia",
+      "definitions_ex_vn": "Blues luôn có một người theo dõi mạnh mẽ ở Úc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feelings of melancholy, sadness, or depression.",
+      "definitions_ex_en": "she's got the blues",
+      "definitions_ex_vn": "Cô ấy có blues",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

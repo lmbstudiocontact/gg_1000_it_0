@@ -1,0 +1,53 @@
+{
+  "english": "marry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho lấy nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết thừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hôn với người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phối hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "join in marriage.",
+      "definitions_ex_en": "I was married in church",
+      "definitions_ex_vn": "Tôi đã kết hôn trong nhà thờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to meet or fit together; combine.",
+      "definitions_ex_en": "the show marries poetry with art",
+      "definitions_ex_vn": "chương trình kết hôn với thơ nghệ thuật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing surprise, indignation, or emphatic assertion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

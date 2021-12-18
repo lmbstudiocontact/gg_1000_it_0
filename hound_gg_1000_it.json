@@ -1,0 +1,43 @@
+{
+  "english": "hound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chó săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáng khinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khốn nạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bần tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "săn bằng chó",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dog of a breed used for hunting, especially one able to track by scent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "harass, persecute, or pursue relentlessly.",
+      "definitions_ex_en": "his opponents used the allegations to hound him out of office",
+      "definitions_ex_vn": "Đối thủ của anh ta đã sử dụng các cáo buộc để làm phiền anh ta ra khỏi văn phòng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

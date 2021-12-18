@@ -1,0 +1,21 @@
+{
+  "english": "extremely",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trường hợp đặc biệt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vô cùng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to a very great degree; very.",
+      "definitions_ex_en": "this is an extremely difficult thing to do",
+      "definitions_ex_vn": "Đây là một điều cực kỳ khó khăn để làm",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

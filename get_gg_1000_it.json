@@ -1,0 +1,133 @@
+{
+  "english": "get",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lứa đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh trả lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị cảm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cút đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đến nơi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuồn đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tìm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai mỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mắc phải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come to have or hold (something); receive.",
+      "definitions_ex_en": "I got the impression that she wasn't happy",
+      "definitions_ex_vn": "Tôi có ấn tượng rằng cô ấy không hạnh phúc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in attaining, achieving, or experiencing; obtain.",
+      "definitions_ex_en": "I need all the sleep I can get",
+      "definitions_ex_vn": "Tôi cần tất cả những giấc ngủ tôi có thể nhận được",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enter or reach a specified state or condition; become.",
+      "definitions_ex_en": "it's getting late",
+      "definitions_ex_vn": "Trời đã muộn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come, go, or make progress eventually or with some difficulty.",
+      "definitions_ex_en": "I got to the airport",
+      "definitions_ex_vn": "Tôi đến sân bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "see have.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "catch or apprehend (someone).",
+      "definitions_ex_en": "the police have got him",
+      "definitions_ex_vn": "Cảnh sát đã có anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "understand (an argument or the person making it).",
+      "definitions_ex_en": "What do you mean? I don't get it",
+      "definitions_ex_vn": "Ý bạn là gì?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "acquire (knowledge) by study; learn.",
+      "definitions_ex_en": "knowledge which is gotten at school",
+      "definitions_ex_vn": "kiến thức đang ở trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an animal's offspring.",
+      "definitions_ex_en": "he passes this on to his get",
+      "definitions_ex_vn": "anh ấy chuyển cái này vào nhận của anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

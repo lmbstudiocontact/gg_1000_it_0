@@ -1,0 +1,29 @@
+{
+  "english": "cheerful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người tươi cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người vui vẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xinh đẹp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "noticeably happy and optimistic.",
+      "definitions_ex_en": "how can she be so cheerful at six o'clock in the morning?",
+      "definitions_ex_vn": "Làm thế nào cô ấy có thể vui vẻ như vậy lúc sáu giờ sáng?",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

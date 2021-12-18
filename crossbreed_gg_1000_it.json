@@ -1,0 +1,27 @@
+{
+  "english": "crossbreed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pha giống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "produce (an animal or plant) by mating or hybridizing two different species, breeds, or varieties.",
+      "definitions_ex_en": "he taught himself how to crossbreed superior seeds",
+      "definitions_ex_vn": "Anh tự dạy mình cách nuôi hạt giống cao cấp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an animal or plant produced by mating or hybridizing two different species, breeds, or varieties.",
+      "definitions_ex_en": "a crossbreed Labrador",
+      "definitions_ex_vn": "một labrador lai",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "most",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều hơn hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn hết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kỳ lạ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rất",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thật kỳ dị",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "greatest in amount, quantity, or degree.",
+      "definitions_ex_en": "they've had the most success",
+      "definitions_ex_vn": "Họ đã có nhiều thành công nhất",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "the greatest amount or quantity.",
+      "definitions_ex_en": "we had the most to lose",
+      "definitions_ex_vn": "Chúng tôi đã có nhiều nhất để mất",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "forming the superlative of adjectives and adverbs, especially those of more than one syllable.",
+      "definitions_ex_en": "the most important event of my life",
+      "definitions_ex_vn": "sự kiện quan trọng nhất của cuộc đời tôi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to the greatest extent.",
+      "definitions_ex_en": "the things he most enjoyed",
+      "definitions_ex_vn": "những thứ anh ấy thích nhất",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "extremely; very.",
+      "definitions_ex_en": "it was most kind of you",
+      "definitions_ex_vn": "Đó là loại của bạn nhiều nhất",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "forming superlative adjectives and adverbs from prepositions and other words indicating relative position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

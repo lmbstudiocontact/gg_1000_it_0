@@ -1,0 +1,33 @@
+{
+  "english": "carcass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mình của con vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạc đạn phát hỏa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tử thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành bánh xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the dead body of an animal.",
+      "definitions_ex_en": "she saw the mud-covered carcass of a sheep",
+      "definitions_ex_vn": "Cô nhìn thấy thân thịt phủ bùn của một con cừu",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

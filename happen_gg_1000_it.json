@@ -1,0 +1,37 @@
+{
+  "english": "happen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take place; occur.",
+      "definitions_ex_en": "two hours had passed and still nothing had happened",
+      "definitions_ex_vn": "Hai giờ đã trôi qua và vẫn không có gì xảy ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "find or come across by chance.",
+      "definitions_ex_en": "Mike played football as a boy and happened on cycling by accident",
+      "definitions_ex_vn": "Mike chơi bóng đá như một cậu bé và đã xảy ra khi đạp xe một cách tình cờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be experienced by (someone); befall.",
+      "definitions_ex_en": "the same thing happened to me",
+      "definitions_ex_vn": "Điều tương tự cũng xảy ra với tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

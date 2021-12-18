@@ -1,0 +1,43 @@
+{
+  "english": "exact",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chính xác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghiêm khắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích đáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu sách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not approximated in any way; precise.",
+      "definitions_ex_en": "the exact details were still being worked out",
+      "definitions_ex_vn": "Các chi tiết chính xác vẫn đang được thực hiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "demand and obtain (something, especially a payment) from someone.",
+      "definitions_ex_en": "tributes exacted from the Slavic peoples",
+      "definitions_ex_vn": "Ngành chính xác từ các dân tộc Slav",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

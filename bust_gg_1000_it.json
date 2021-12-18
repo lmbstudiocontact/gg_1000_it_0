@@ -1,0 +1,61 @@
+{
+  "english": "bust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman's chest as measured around her breasts.",
+      "definitions_ex_en": "a 36-inch bust",
+      "definitions_ex_vn": "một bức tượng bán thân 36 inch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sculpture of a person's head, shoulders, and chest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period of economic difficulty or depression.",
+      "definitions_ex_en": "the boom was followed by the present bust",
+      "definitions_ex_vn": "sự bùng nổ được theo sau bởi bức tượng bán thân hiện tại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a raid or arrest by the police.",
+      "definitions_ex_en": "a drug bust",
+      "definitions_ex_vn": "một vụ buôn bán ma túy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a worthless thing.",
+      "definitions_ex_en": "as a show it was a bust",
+      "definitions_ex_vn": "như một chương trình nó là một bức tượng bán thân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "break, split, or burst (something).",
+      "definitions_ex_en": "they bust the tunnel wide open",
+      "definitions_ex_vn": "họ phá đường hầm mở rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bankrupt.",
+      "definitions_ex_en": "firms will go bust",
+      "definitions_ex_vn": "Các công ty sẽ đi bán thân",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

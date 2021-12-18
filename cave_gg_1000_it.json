@@ -1,0 +1,43 @@
+{
+  "english": "cave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào hang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những người chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoi hang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large underground chamber, typically of natural origin, in a hillside or cliff.",
+      "definitions_ex_en": "the narrow gorge contains a series of prehistoric caves",
+      "definitions_ex_vn": "Hẻm núi hẹp chứa một loạt các hang động thời tiền sử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "explore caves as a sport.",
+      "definitions_ex_en": "they say they cave for the adventure, challenge, and physical exercise",
+      "definitions_ex_vn": "Họ nói rằng họ hang động cho cuộc phiêu lưu, thách thức và tập thể dục",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

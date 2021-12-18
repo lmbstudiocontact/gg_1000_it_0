@@ -1,0 +1,25 @@
+{
+  "english": "enthusiastic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiệt tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiệt thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sốt sắng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing intense and eager enjoyment, interest, or approval.",
+      "definitions_ex_en": "the promoter was enthusiastic about the concert venue",
+      "definitions_ex_vn": "Người quảng bá rất nhiệt tình về địa điểm buổi hòa nhạc",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "lean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gầy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gầy còm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ốm nhom",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sơ sài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xoàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gầy ốm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khuynh tả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt nạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nghiêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có khuynh hướng về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựa vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khom mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiêng mình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be in or move into a sloping position.",
+      "definitions_ex_en": "he leaned back in his chair",
+      "definitions_ex_vn": "Anh ta dựa lưng vào ghế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a deviation from the perpendicular; an inclination.",
+      "definitions_ex_en": "the vehicle has a definite lean to the left",
+      "definitions_ex_vn": "Chiếc xe có một cái chắc chắn nghiêng về bên trái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lean part of meat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or animal) thin, especially healthily so; having no superfluous fat.",
+      "definitions_ex_en": "his lean, muscular body",
+      "definitions_ex_vn": "cơ thể nạc, cơ bắp của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an activity or a period of time) offering little reward, substance, or nourishment; meager.",
+      "definitions_ex_en": "the lean winter months",
+      "definitions_ex_vn": "những tháng mùa đông nạc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vaporized fuel mixture) having a high proportion of air.",
+      "definitions_ex_en": "lean air-to-fuel ratios",
+      "definitions_ex_vn": "Tỷ lệ nạc không khí",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

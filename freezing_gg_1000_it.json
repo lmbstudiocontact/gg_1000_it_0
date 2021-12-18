@@ -1,0 +1,27 @@
+{
+  "english": "freezing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặc lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm đông lại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "below 32°F (0°C).",
+      "definitions_ex_en": "strong winds and freezing temperatures",
+      "definitions_ex_vn": "gió mạnh và nhiệt độ đóng băng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the freezing point of water.",
+      "definitions_ex_en": "the temperature was well above freezing",
+      "definitions_ex_vn": "nhiệt độ cao hơn đông lạnh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

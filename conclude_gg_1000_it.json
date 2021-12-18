@@ -1,0 +1,39 @@
+{
+  "english": "conclude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấm dứt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết liểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết thúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyết định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (something) to an end.",
+      "definitions_ex_en": "they conclude their study with these words",
+      "definitions_ex_vn": "Họ kết luận nghiên cứu của họ với những từ này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrive at a judgment or opinion by reasoning.",
+      "definitions_ex_en": "the doctors concluded that Esther had suffered a stroke",
+      "definitions_ex_vn": "Các bác đã kết luận rằng Esther đã bị đột quỵ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

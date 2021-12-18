@@ -1,0 +1,25 @@
+{
+  "english": "humorous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoạt kê",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôi hài",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "causing lighthearted laughter and amusement; comic.",
+      "definitions_ex_en": "a humorous and entertaining talk",
+      "definitions_ex_vn": "Một cuộc nói chuyện hài hước và giải trí",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

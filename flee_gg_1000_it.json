@@ -1,0 +1,33 @@
+{
+  "english": "flee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lánh xa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn tránh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "run away from a place or situation of danger.",
+      "definitions_ex_en": "a man was shot twice as he fled from five masked youths",
+      "definitions_ex_vn": "Một người đàn ông bị bắn hai lần khi anh ta bỏ trốn khỏi năm thanh niên đeo mặt nạ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

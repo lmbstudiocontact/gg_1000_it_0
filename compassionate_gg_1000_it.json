@@ -1,0 +1,33 @@
+{
+  "english": "compassionate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "động lòng thương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "động lòng trắc ẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lòng thương hại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thương xót",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tình thương xót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing sympathy and concern for others.",
+      "definitions_ex_en": "I allowed him to go home on compassionate grounds",
+      "definitions_ex_vn": "Tôi cho phép anh ta về nhà trên những căn cứ từ bi",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

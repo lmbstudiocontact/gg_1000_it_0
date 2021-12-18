@@ -1,0 +1,39 @@
+{
+  "english": "chest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hộp cất vật quí gía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đựng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the front surface of a person's or animal's body between the neck and the abdomen.",
+      "definitions_ex_en": "she crossed her arms across her chest",
+      "definitions_ex_vn": "Cô khoanh tay qua ngực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large strong box, typically made of wood and used for storage or shipping.",
+      "definitions_ex_en": "an oak chest",
+      "definitions_ex_vn": "một cây sồi",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "dear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đắt đỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắc mỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân ái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân thiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yêu quí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "người thân yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yêu dấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "regarded with deep affection; cherished by someone.",
+      "definitions_ex_en": "a dear friend",
+      "definitions_ex_vn": "Một người bạn thân yêu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used as an affectionate or friendly form of address.",
+      "definitions_ex_en": "don't you worry, dear",
+      "definitions_ex_vn": "Đừng lo lắng, em yêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in expressions of surprise, dismay, or sympathy.",
+      "definitions_ex_en": "oh dear, I've upset you",
+      "definitions_ex_vn": "Ôi trời ơi, tôi đã làm bạn buồn",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "consider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đắn đo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khảo sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu tâm đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "think carefully about (something), typically before making a decision.",
+      "definitions_ex_en": "each application is considered on its merits",
+      "definitions_ex_vn": "Mỗi ứng dụng được xem xét về giá trị của nó",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

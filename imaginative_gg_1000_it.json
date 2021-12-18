@@ -1,0 +1,25 @@
+{
+  "english": "imaginative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giàu tưởng tượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay tưởng tượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mơ tưởng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing creativity or inventiveness.",
+      "definitions_ex_en": "making imaginative use of computer software",
+      "definitions_ex_vn": "Làm cho việc sử dụng trí tưởng tượng của phần mềm máy tính",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

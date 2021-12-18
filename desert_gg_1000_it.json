@@ -1,0 +1,69 @@
+{
+  "english": "desert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khô khan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hẻo lánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắng vẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sa mạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xứng đáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ đảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn đi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "abandon (a person, cause, or organization) in a way considered disloyal or treacherous.",
+      "definitions_ex_en": "we feel our public representatives have deserted us",
+      "definitions_ex_vn": "Chúng tôi cảm thấy đại diện công cộng của chúng tôi đã bỏ rơi chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a dry, barren area of land, especially one covered with sand, that is characteristically desolate, waterless, and without vegetation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "like a desert.",
+      "definitions_ex_en": "overgrazing has created desert conditions",
+      "definitions_ex_vn": "Phát sóng quá mức đã tạo điều kiện sa mạc",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

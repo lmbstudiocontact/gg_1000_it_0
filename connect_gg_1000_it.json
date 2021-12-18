@@ -1,0 +1,37 @@
+{
+  "english": "connect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấp nối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên hiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phối hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring together or into contact so that a real or notional link is established.",
+      "definitions_ex_en": "the electrodes were connected to a recording device",
+      "definitions_ex_vn": "Các điện cực được kết nối với một thiết bị ghi âm",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

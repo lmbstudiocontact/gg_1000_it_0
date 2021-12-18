@@ -1,0 +1,43 @@
+{
+  "english": "breast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngực đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống cự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẽ sóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trèo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either of the two soft, protruding organs on the upper front of a woman's body that secrete milk after pregnancy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "face and move forward against or through (something).",
+      "definitions_ex_en": "I watched him breast the wave",
+      "definitions_ex_vn": "Tôi nhìn anh ta sóng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

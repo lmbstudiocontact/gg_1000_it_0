@@ -1,0 +1,81 @@
+{
+  "english": "bit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng mảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng hàm thiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từng miếng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece, part, or quantity of something.",
+      "definitions_ex_en": "give the duck a bit of bread",
+      "definitions_ex_vn": "Cho vịt một chút bánh mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of actions or ideas associated with a specific group or activity.",
+      "definitions_ex_en": "she's gone off to do her theatrical bit",
+      "definitions_ex_vn": "Cô ấy đã đi làm một chút kịch tính của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mouthpiece, typically made of metal, which is attached to a bridle and used to control a horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool or piece for boring or drilling, typically of metal.",
+      "definitions_ex_en": "a drill bit",
+      "definitions_ex_vn": "một mũi khoan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of information expressed as either a 0 or 1 in binary notation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past of bite.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put a bit into the mouth of (a horse).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

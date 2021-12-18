@@ -1,0 +1,39 @@
+{
+  "english": "bid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bỏ thầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả giá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offer (a certain price) for something, especially at an auction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "utter (a greeting or farewell) to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "command or order (someone) to do something.",
+      "definitions_ex_en": "I did as he bade me",
+      "definitions_ex_vn": "Tôi đã làm như anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an offer of a price, especially at an auction.",
+      "definitions_ex_en": "several buyers made bids for the Van Gogh sketches",
+      "definitions_ex_vn": "Một số người mua đã lập hồ sơ dự thầu cho các bản phác thảo Van Gogh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

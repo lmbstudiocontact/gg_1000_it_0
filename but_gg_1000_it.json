@@ -1,0 +1,83 @@
+{
+  "english": "but",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhưng",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "chưa chắc",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "mà",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "nhưng mà",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "chỉ là",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở phía ngoài",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to introduce a phrase or clause contrasting with what has already been mentioned.",
+      "definitions_ex_en": "he stumbled but didn't fall",
+      "definitions_ex_vn": "Anh vấp ngã nhưng không rơi",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used to indicate the impossibility of anything other than what is being stated.",
+      "definitions_ex_en": "one cannot but sympathize",
+      "definitions_ex_vn": "một không thể nhưng thông cảm",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used to introduce a response expressing a feeling such as surprise or anger.",
+      "definitions_ex_en": "but that's an incredible saving!",
+      "definitions_ex_vn": "Nhưng đó là một sự tiết kiệm đáng kinh ngạc!",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used after an expression of apology for what one is about to say.",
+      "definitions_ex_en": "I'm sorry, but I can't pay you",
+      "definitions_ex_vn": "Tôi xin lỗi, nhưng tôi không thể trả tiền cho bạn",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "without it being the case that.",
+      "definitions_ex_en": "it never rains but it pours",
+      "definitions_ex_vn": "Trời không bao giờ mưa nhưng mưa như trút",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "except; apart from; other than.",
+      "definitions_ex_en": "in Texas, we were never anything but poor",
+      "definitions_ex_vn": "Ở Texas, chúng tôi không bao giờ bất cứ điều gì ngoài sự nghèo nàn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "no more than; only.",
+      "definitions_ex_en": "he is but a shadow of his former self",
+      "definitions_ex_vn": "anh ấy là một cái bóng của bản thân trước đây của mình",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an argument against something; an objection.",
+      "definitions_ex_en": "no buts —just get out of here",
+      "definitions_ex_vn": "Không, nhưng -Just ra khỏi đây",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

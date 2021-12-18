@@ -1,0 +1,85 @@
+{
+  "english": "matter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất mũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đề mục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghèn mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có quan hệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vết thương làm mũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vết thương ra mũ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "physical substance in general, as distinct from mind and spirit; (in physics) that which occupies space and possesses rest mass, especially as distinct from energy.",
+      "definitions_ex_en": "the structure and properties of matter",
+      "definitions_ex_vn": "Cấu trúc và tính chất của vật chất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an affair or situation under consideration; a topic.",
+      "definitions_ex_en": "a great deal of work was done on this matter",
+      "definitions_ex_vn": "rất nhiều công việc đã được thực hiện trong vấn đề này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the reason for distress or a problem.",
+      "definitions_ex_en": "what's the matter?",
+      "definitions_ex_vn": "Có chuyện gì vậy?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the substance or content of a text as distinct from its manner or form.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be of importance; have significance.",
+      "definitions_ex_en": "it doesn't matter what the guests wear",
+      "definitions_ex_vn": "Không quan trọng những gì khách mặc",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

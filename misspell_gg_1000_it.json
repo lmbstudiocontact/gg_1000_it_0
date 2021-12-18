@@ -1,0 +1,21 @@
+{
+  "english": "misspell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh vần sai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh vần trật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "spell (a word) incorrectly.",
+      "definitions_ex_en": "“siege” had been misspelt as “seige”",
+      "definitions_ex_vn": "\"Siege\" đã là Misspelt là \"Seige\"",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

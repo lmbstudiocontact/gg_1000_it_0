@@ -1,0 +1,75 @@
+{
+  "english": "coat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bên trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo choàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo choàng ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo giáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo khoác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lômg loài thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outer garment worn outdoors, having sleeves and typically extending below the hips.",
+      "definitions_ex_en": "a winter coat",
+      "definitions_ex_vn": "một chiếc áo khoác mùa đông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal's covering of fur or hair.",
+      "definitions_ex_en": "a dog's coat may become tangled and matted",
+      "definitions_ex_vn": "áo khoác của một con chó có thể bị rối và mờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an outer layer or covering of a specified kind.",
+      "definitions_ex_en": "the protein coat of the virus",
+      "definitions_ex_vn": "Bộ lông protein của virus",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a layer or covering of something; apply a coat to.",
+      "definitions_ex_en": "coat each part with a thin oil",
+      "definitions_ex_vn": "phủ mỗi phần với một loại dầu mỏng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

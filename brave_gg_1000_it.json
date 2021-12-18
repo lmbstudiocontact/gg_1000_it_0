@@ -1,0 +1,41 @@
+{
+  "english": "brave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn mặt đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "can đảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dủng cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thách đố",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "ready to face and endure danger or pain; showing courage.",
+      "definitions_ex_en": "a brave soldier",
+      "definitions_ex_vn": "một người lính dũng cảm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a North American Indian warrior.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "endure or face (unpleasant conditions or behavior) without showing fear.",
+      "definitions_ex_en": "we had to brave the full heat of the sun",
+      "definitions_ex_vn": "Chúng tôi đã phải dũng cảm với nhiệt độ đầy nắng của mặt trời",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

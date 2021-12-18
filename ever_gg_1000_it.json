@@ -1,0 +1,47 @@
+{
+  "english": "ever",
+  "list_translation_mean": [
+    {
+      "translate_mean": "luôn luôn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chẳng bao giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không bao giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không khi nào",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at any time.",
+      "definitions_ex_en": "nothing ever seemed to ruffle her",
+      "definitions_ex_vn": "không có gì dường như xù lông",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at all times; always.",
+      "definitions_ex_en": "ever the man of action, he was impatient with intellectuals",
+      "definitions_ex_vn": "bao giờ người đàn ông hành động, anh ta thiếu kiên nhẫn với trí thức",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "increasingly; constantly.",
+      "definitions_ex_en": "having to borrow ever larger sums",
+      "definitions_ex_vn": "phải mượn số tiền lớn hơn bao giờ hết",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used for emphasis in questions and other remarks, expressing astonishment or outrage.",
+      "definitions_ex_en": "who ever heard of a grown man being frightened of the dark?",
+      "definitions_ex_vn": "Ai đã từng nghe nói về một người đàn ông trưởng thành đang sợ hãi về bóng tối?",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

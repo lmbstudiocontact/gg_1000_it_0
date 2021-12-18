@@ -1,0 +1,25 @@
+{
+  "english": "cliff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cheo leo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giốc đứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt đá dựng đứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a steep rock face, especially at the edge of the sea.",
+      "definitions_ex_en": "a path along the top of rugged cliffs",
+      "definitions_ex_vn": "một con đường dọc theo đỉnh của vách đá gồ ghề",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

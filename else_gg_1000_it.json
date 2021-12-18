@@ -1,0 +1,41 @@
+{
+  "english": "else",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách khác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay là",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nếu không thế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cái gì nữa",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in addition; besides.",
+      "definitions_ex_en": "anything else you need to know?",
+      "definitions_ex_vn": "Có thứ gì bạn cần phải biết nữa không?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "different; instead.",
+      "definitions_ex_en": "isn't there anyone else you could ask?",
+      "definitions_ex_vn": "Không có ai khác bạn có thể hỏi?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "short for or else.",
+      "definitions_ex_en": "keep your mouth shut, else you might contradict my story",
+      "definitions_ex_vn": "Giữ miệng của bạn im lặng, nếu không bạn có thể mâu thuẫn với câu chuyện của tôi",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

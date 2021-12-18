@@ -1,0 +1,35 @@
+{
+  "english": "confident",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "liều lỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tin chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing confidence in oneself; self-assured.",
+      "definitions_ex_en": "we require outgoing, confident people able to approach large groups",
+      "definitions_ex_vn": "Chúng tôi yêu cầu những người tự tin, tự tin có thể tiếp cận các nhóm lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a confidant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

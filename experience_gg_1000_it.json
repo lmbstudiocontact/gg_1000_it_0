@@ -1,0 +1,59 @@
+{
+  "english": "experience",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có nhiều kinh nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịch duyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử thách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng trải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phải chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừ thách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trải qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "practical contact with and observation of facts or events.",
+      "definitions_ex_en": "he had already learned his lesson by painful experience",
+      "definitions_ex_vn": "anh ấy đã học được bài học của mình bằng kinh nghiệm đau đớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "encounter or undergo (an event or occurrence).",
+      "definitions_ex_en": "the company is experiencing difficulties",
+      "definitions_ex_vn": "Công ty đang gặp khó khăn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

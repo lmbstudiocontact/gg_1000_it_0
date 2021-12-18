@@ -1,0 +1,57 @@
+{
+  "english": "market",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chợ gia súc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi mua đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+      "definitions_ex_en": "farmers going to market",
+      "definitions_ex_vn": "nông dân đi chợ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area or arena in which commercial dealings are conducted.",
+      "definitions_ex_en": "the labor market",
+      "definitions_ex_vn": "Thị trường lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "advertise or promote (something).",
+      "definitions_ex_en": "the product was marketed under the name “aspirin.”",
+      "definitions_ex_vn": "Sản phẩm được bán trên thị trường dưới tên \"aspirin\".",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

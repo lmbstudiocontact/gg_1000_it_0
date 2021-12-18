@@ -1,0 +1,47 @@
+{
+  "english": "might",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past of may1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used tentatively to ask permission or to express a polite request.",
+      "definitions_ex_en": "might I just ask one question?",
+      "definitions_ex_vn": "Tôi có thể chỉ hỏi một câu hỏi?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to express possibility or make a suggestion.",
+      "definitions_ex_en": "this might be true",
+      "definitions_ex_vn": "Điều này có thể đúng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "great and impressive power or strength, especially of a nation, large organization, or natural force.",
+      "definitions_ex_en": "a convincing display of military might",
+      "definitions_ex_vn": "một màn trình diễn thuyết phục của quân đội có thể",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

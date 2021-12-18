@@ -1,0 +1,43 @@
+{
+  "english": "breed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chăn nuôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nòi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of animals) mate and then produce offspring.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection.",
+      "definitions_ex_en": "the big continental breeds are eagerly being imported by British farmers",
+      "definitions_ex_vn": "Các giống chó lục địa lớn đang háo hức được nhập khẩu bởi nông dân Anh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

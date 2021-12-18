@@ -1,0 +1,47 @@
+{
+  "english": "curve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cong vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thế vật cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khòm lưng xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc đường quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line or outline which gradually deviates from being straight for some or all of its length.",
+      "definitions_ex_en": "the parapet wall sweeps down in a bold curve",
+      "definitions_ex_vn": "Bức tường Parapet quét xuống trong một đường cong đậm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or cause to form a curve.",
+      "definitions_ex_en": "her mouth curved in a smile",
+      "definitions_ex_vn": "miệng cô cong trong một nụ cười",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

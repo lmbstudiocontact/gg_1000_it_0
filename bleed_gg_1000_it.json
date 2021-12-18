@@ -1,0 +1,61 @@
+{
+  "english": "bleed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chảy máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chích máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mất máu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lose blood from the body as a result of injury or illness.",
+      "definitions_ex_en": "the cut was bleeding steadily",
+      "definitions_ex_vn": "vết cắt bị chảy máu đều đặn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw blood from (someone), especially as a once-common method of treatment in medicine.",
+      "definitions_ex_en": "he didn't bleed his patients with leeches",
+      "definitions_ex_vn": "anh ta đã không chảy máu bệnh nhân của mình với những con đỉa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (fluid or gas) to escape from a closed system through a valve.",
+      "definitions_ex_en": "open the valves and bleed air from the pump chamber",
+      "definitions_ex_vn": "Mở van và chảy máu từ buồng bơm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a dye or color) seep into an adjacent color or area.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of bleeding.",
+      "definitions_ex_en": "a lot of blood was lost from the placental bleed",
+      "definitions_ex_vn": "Rất nhiều máu đã bị mất do chảy máu nhau thai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the escape of fluid or gas from a closed system through a valve.",
+      "definitions_ex_en": "the amount of air bleed from the compressor",
+      "definitions_ex_vn": "lượng không khí chảy máu từ máy nén",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of printing an illustration, design, or text to the edge of the page.",
+      "definitions_ex_en": "it allows printing of a tabloid page with full bleed",
+      "definitions_ex_vn": "Nó cho phép in một trang báo lá cải với Bleed đầy đủ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

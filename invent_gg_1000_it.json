@@ -1,0 +1,25 @@
+{
+  "english": "invent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bày ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát minh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng chế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "create or design (something that has not existed before); be the originator of.",
+      "definitions_ex_en": "he invented an improved form of the steam engine",
+      "definitions_ex_vn": "Ông đã phát minh ra một hình thức cải tiến của động cơ hơi nước",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "feed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nuôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho thú vật ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi dưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bửa ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho súc vật ăn cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần ăn của cầm thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nạp đạn vào súng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give food to.",
+      "definitions_ex_en": "the raiders fed the guard dog to keep it quiet",
+      "definitions_ex_vn": "Các Raiders cho chó bảo vệ giữ nó yên tĩnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to move gradually and steadily, typically through a confined space.",
+      "definitions_ex_en": "make holes through which to feed the cables",
+      "definitions_ex_vn": "Tạo lỗ thông qua đó để nuôi cáp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of giving food, especially to animals or a baby, or of having food given to one.",
+      "definitions_ex_en": "I've just given the horse her feed",
+      "definitions_ex_vn": "Tôi vừa mới cho con ngựa ăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device or conduit for supplying material to a machine.",
+      "definitions_ex_en": "the plotter has a continuous paper feed",
+      "definitions_ex_vn": "Plotter có một nguồn cấp dữ liệu giấy liên tục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line or prompt given to an actor on stage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

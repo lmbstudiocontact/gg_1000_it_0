@@ -1,0 +1,49 @@
+{
+  "english": "cube",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cục có hình khối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình lập phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tam thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đo thể tích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên tam thừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính khối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a symmetrical three-dimensional shape, either solid or hollow, contained by six equal squares.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "raise (a number or value) to its cube.",
+      "definitions_ex_en": "cube the deviations from the mean",
+      "definitions_ex_vn": "khối độ lệch so với giá trị trung bình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut (food) into small cubes.",
+      "definitions_ex_en": "I bought sirloin from the butcher and cubed it myself",
+      "definitions_ex_vn": "Tôi đã mua sirloin từ người bán thịt và tự nó",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

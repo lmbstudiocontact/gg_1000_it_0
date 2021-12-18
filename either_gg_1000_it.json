@@ -1,0 +1,53 @@
+{
+  "english": "either",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mỗi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mỗi giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mỗi nước",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "mỗi người",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "mỗi tên",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used before the first of two (or occasionally more) alternatives that are being specified (the other being introduced by “or”).",
+      "definitions_ex_en": "either I'll accompany you to your room, or I'll wait here",
+      "definitions_ex_vn": "Hoặc tôi sẽ đồng hành cùng bạn đến phòng của bạn, hoặc tôi sẽ đợi ở đây",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used to indicate a similarity or link with a statement just made.",
+      "definitions_ex_en": "You don't like him, do you? I don't either",
+      "definitions_ex_vn": "Bạn không thích anh ấy, phải không?",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "one or the other of two people or things.",
+      "definitions_ex_en": "there were no children of either marriage",
+      "definitions_ex_vn": "Không có con của một trong hai cuộc hôn nhân",
+      "definitions_type_word": "article"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "log",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng đo tốc lực của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc gổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhựt ký hàng hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy bao nhiêu hải lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưa ra từng khúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi chép vào sổ hàng hải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính ra chổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part of the trunk or a large branch of a tree that has fallen or been cut off.",
+      "definitions_ex_en": "she tripped over a fallen log",
+      "definitions_ex_vn": "Cô vấp phải một khúc gỗ đã ngã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official record of events during the voyage of a ship or aircraft.",
+      "definitions_ex_en": "a ship's log",
+      "definitions_ex_vn": "nhật ký của một con tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparatus for determining the speed of a ship, originally consisting of a float attached to a knotted line wound on a reel, the distance run out in a certain time being used as an estimate of the vessel's speed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for logarithm.",
+      "definitions_ex_en": "log tables",
+      "definitions_ex_vn": "bảng đăng nhập.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enter (an incident or fact) in the log of a ship or aircraft or in another systematic record.",
+      "definitions_ex_en": "the incident has to be logged",
+      "definitions_ex_vn": "Vụ việc phải được đăng nhập",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut down (an area of forest) in order to exploit the timber commercially.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "logic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

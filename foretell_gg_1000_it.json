@@ -1,0 +1,21 @@
+{
+  "english": "foretell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "predict (the future or a future event).",
+      "definitions_ex_en": "a seer had foretold that she would assume the throne",
+      "definitions_ex_vn": "một seer đã báo trước rằng cô ấy sẽ cho rằng ngai vàng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

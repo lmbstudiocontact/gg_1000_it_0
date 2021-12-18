@@ -1,0 +1,33 @@
+{
+  "english": "chide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "la rầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiển trách người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quở trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la mắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "scold or rebuke.",
+      "definitions_ex_en": "she chided him for not replying to her letters",
+      "definitions_ex_vn": "Cô ấy đã chia tay anh ấy vì không trả lời thư của cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "chart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẽ họa đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sheet of information in the form of a table, graph, or diagram.",
+      "definitions_ex_en": "a chart showing how much do-it-yourself costs compared with retail",
+      "definitions_ex_vn": "một biểu đồ cho thấy chi phí của bản thân nó bao nhiêu so với bán lẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a map of (an area).",
+      "definitions_ex_en": "Cook charted the coasts and waters of New Zealand",
+      "definitions_ex_vn": "Cook đánh giá bờ biển và vùng biển của New Zealand",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a record) enter the weekly music charts at a particular position.",
+      "definitions_ex_en": "the record will probably chart at about No. 74",
+      "definitions_ex_vn": "Hồ sơ có thể sẽ được biểu đồ vào khoảng số 74",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

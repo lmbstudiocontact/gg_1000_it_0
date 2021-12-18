@@ -1,0 +1,55 @@
+{
+  "english": "least",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ít nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít nhứt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kém",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không bằng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kém nhứt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "smallest in amount, extent, or significance.",
+      "definitions_ex_en": "who has the least money?",
+      "definitions_ex_vn": "Ai có ít tiền nhất?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "the smallest amount, extent, or significance.",
+      "definitions_ex_en": "how others see me is the least of my worries",
+      "definitions_ex_vn": "Làm thế nào người khác nhìn thấy tôi là ít lo lắng nhất của tôi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "to the smallest extent or degree.",
+      "definitions_ex_en": "my best routine was the one I had practiced the least",
+      "definitions_ex_vn": "thói quen tốt nhất của tôi là người tôi đã thực hành ít nhất",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used in names of very small animals and plants, e.g. least shrew.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

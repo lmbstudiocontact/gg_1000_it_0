@@ -1,0 +1,33 @@
+{
+  "english": "locate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định vị trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "discover the exact place or position of.",
+      "definitions_ex_en": "engineers were working to locate the fault",
+      "definitions_ex_vn": "Các kỹ sư đã làm việc để xác định lỗi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

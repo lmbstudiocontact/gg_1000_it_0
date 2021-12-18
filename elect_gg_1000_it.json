@@ -1,0 +1,53 @@
+{
+  "english": "elect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đắc cử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được bầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trúng tuyển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được chọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người được tuyển lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "choose (someone) to hold public office or some other position by voting.",
+      "definitions_ex_en": "the members who were elected to the committee",
+      "definitions_ex_vn": "các thành viên được bầu vào ủy ban",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) chosen or singled out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "people who are chosen or singled out.",
+      "definitions_ex_en": "one of the century's elect",
+      "definitions_ex_vn": "một trong thế kỷ bầu",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

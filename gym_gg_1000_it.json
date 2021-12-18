@@ -1,0 +1,33 @@
+{
+  "english": "gym",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phòng thể dục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể dục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gymnasium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physical education.",
+      "definitions_ex_en": "I'm taking just one more semester of gym",
+      "definitions_ex_vn": "Tôi chỉ mất một học kỳ nữa của phòng tập thể dục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gymnastics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

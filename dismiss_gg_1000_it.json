@@ -1,0 +1,45 @@
+{
+  "english": "dismiss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi khéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải tán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thôi làm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "order or allow to leave; send away.",
+      "definitions_ex_en": "she dismissed the taxi at the corner of the road",
+      "definitions_ex_vn": "Cô ấy gạt đi taxi ở góc đường",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "main",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phần nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "biển khơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "chief in size or importance.",
+      "definitions_ex_en": "a main road",
+      "definitions_ex_vn": "một con đường chính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a principal pipe carrying water or gas to buildings, or taking sewage from them.",
+      "definitions_ex_en": "a faulty gas main",
+      "definitions_ex_vn": "một loại khí chính bị lỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the open ocean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for mainsail or mainmast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the game of hazard) a number (5, 6, 7, 8, or 9) called by a player before dice are thrown.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a match between gamecocks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

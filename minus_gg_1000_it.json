@@ -1,0 +1,57 @@
+{
+  "english": "minus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu trừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with the subtraction of.",
+      "definitions_ex_en": "what's ninety-three minus seven?",
+      "definitions_ex_vn": "Chín mươi ba trừ bảy là gì?",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "(of temperature) below zero.",
+      "definitions_ex_en": "minus 10° Fahrenheit",
+      "definitions_ex_vn": "trừ 10 ° Fahrenheit",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "(before a number) below zero; negative.",
+      "definitions_ex_en": "minus five",
+      "definitions_ex_vn": "trừ năm.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(after a grade) slightly worse than.",
+      "definitions_ex_en": "my lowest grade was a B minus",
+      "definitions_ex_vn": "lớp thấp nhất của tôi là một b trừ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a negative electric charge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for minus sign.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disadvantage.",
+      "definitions_ex_en": "for every plus with this equipment there can be a minus",
+      "definitions_ex_vn": "cho mỗi cộng với thiết bị này có thể có một điểm trừ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

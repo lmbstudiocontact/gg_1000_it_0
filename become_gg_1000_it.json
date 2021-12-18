@@ -1,0 +1,35 @@
+{
+  "english": "become",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trở nên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vừa vặn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xứng đáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "begin to be.",
+      "definitions_ex_en": "it is becoming clear that we are in a totally new situation",
+      "definitions_ex_vn": "Nó đang trở nên rõ ràng rằng chúng ta đang ở trong một tình huống hoàn toàn mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of clothing) look good on or suit (someone).",
+      "definitions_ex_en": "the dress becomes her",
+      "definitions_ex_vn": "Chiếc váy trở thành cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

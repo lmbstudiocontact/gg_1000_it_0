@@ -1,0 +1,41 @@
+{
+  "english": "consist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tồn tại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gồm có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phù hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be composed or made up of.",
+      "definitions_ex_en": "the exhibition consists of 180 drawings",
+      "definitions_ex_vn": "Triển lãm bao gồm 180 bản vẽ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be consistent with.",
+      "definitions_ex_en": "the information perfectly consists with our friend's account",
+      "definitions_ex_vn": "Thông tin hoàn toàn bao gồm tài khoản của bạn bè",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a set of railroad vehicles forming a complete train.",
+      "definitions_ex_en": "to turn an entire consist requires a wye",
+      "definitions_ex_vn": "Để biến toàn bộ bao gồm yêu cầu một WYE",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

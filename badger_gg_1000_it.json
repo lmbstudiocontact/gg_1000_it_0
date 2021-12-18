@@ -1,0 +1,31 @@
+{
+  "english": "badger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán rong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavily built omnivorous nocturnal mammal of the weasel family, typically having a gray and black coat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "repeatedly ask (someone) to do something; pester.",
+      "definitions_ex_en": "Tom had finally badgered her into going",
+      "definitions_ex_vn": "Tom cuối cùng đã làm phiền cô ấy vào",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

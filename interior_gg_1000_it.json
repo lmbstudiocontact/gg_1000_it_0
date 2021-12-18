@@ -1,0 +1,77 @@
+{
+  "english": "interior",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong thâm tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh vẽ cảnh trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội địa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phía trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về trong nước",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "situated within or inside; relating to the inside; inner.",
+      "definitions_ex_en": "the interior lighting is not adequate",
+      "definitions_ex_vn": "Ánh sáng nội thất không đầy đủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "remote from the coast or frontier; inland.",
+      "definitions_ex_en": "the interior jungle regions",
+      "definitions_ex_vn": "khu vực rừng rậm bên trong",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to internal or domestic affairs.",
+      "definitions_ex_en": "the Interior Department",
+      "definitions_ex_vn": "Cục Nội thất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "existing or taking place in the mind or soul; mental.",
+      "definitions_ex_en": "an interior monologue",
+      "definitions_ex_vn": "một độc thoại nội thất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the inner or indoor part of something, especially a building; the inside.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the inland part of a country or region.",
+      "definitions_ex_en": "the plains of the interior",
+      "definitions_ex_vn": "đồng bằng của nội thất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the internal affairs of a country.",
+      "definitions_ex_en": "the Department of the Interior",
+      "definitions_ex_vn": "Sở Nội thất",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

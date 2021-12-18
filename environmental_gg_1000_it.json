@@ -1,0 +1,27 @@
+{
+  "english": "environmental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bọc chung quanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trạng cảnh chung quanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the natural world and the impact of human activity on its condition.",
+      "definitions_ex_en": "acid rain may have caused major environmental damage",
+      "definitions_ex_vn": "Mưa axit có thể đã gây ra thiệt hại môi trường lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or arising from a person's surroundings.",
+      "definitions_ex_en": "environmental noise",
+      "definitions_ex_vn": "Tiếng ồn môi trường",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "determined",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cương quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đả định rỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quyết định",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having made a firm decision and being resolved not to change it.",
+      "definitions_ex_en": "Alice was determined to be heard",
+      "definitions_ex_vn": "Alice đã quyết tâm được nghe",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

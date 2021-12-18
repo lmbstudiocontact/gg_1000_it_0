@@ -1,0 +1,21 @@
+{
+  "english": "hurricane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bão",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuồng phong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+      "definitions_ex_en": "a powerful hurricane hit the Florida coast",
+      "definitions_ex_vn": "một cơn bão mạnh mẽ đánh vào bờ biển Florida",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

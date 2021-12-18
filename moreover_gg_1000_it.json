@@ -1,0 +1,25 @@
+{
+  "english": "moreover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoài ra",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vả chăng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vả lại",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as a further matter; besides.",
+      "definitions_ex_en": "moreover, glass is electrically insulating",
+      "definitions_ex_vn": "Hơn nữa, thủy tinh cách nhiệt điện",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

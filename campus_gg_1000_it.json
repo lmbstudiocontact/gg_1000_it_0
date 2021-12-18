@@ -1,0 +1,21 @@
+{
+  "english": "campus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the grounds and buildings of a university or college.",
+      "definitions_ex_en": "for the first year I had a room on campus",
+      "definitions_ex_vn": "Cho năm đầu tiên tôi có một phòng trong khuôn viên trường",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

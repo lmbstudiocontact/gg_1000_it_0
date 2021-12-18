@@ -1,0 +1,39 @@
+{
+  "english": "intellectual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về lý trí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trí năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trí thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà học giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the intellect.",
+      "definitions_ex_en": "children need intellectual stimulation",
+      "definitions_ex_vn": "Trẻ em cần sự kích thích trí tuệ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person possessing a highly developed intellect.",
+      "definitions_ex_en": "a prominent political thinker and intellectual",
+      "definitions_ex_vn": "một nhà tư tưởng chính trị và trí tuệ nổi bật",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

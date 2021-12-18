@@ -1,0 +1,43 @@
+{
+  "english": "indicate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho hay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu thị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "point out; show.",
+      "definitions_ex_en": "dotted lines indicate the text's margins",
+      "definitions_ex_vn": "Các đường chấm chấm biểu thị lề của văn bản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suggest as a desirable or necessary course of action.",
+      "definitions_ex_en": "the treatment is likely to be indicated in severely depressed patients",
+      "definitions_ex_vn": "Việc điều trị có khả năng được chỉ định ở những bệnh nhân trầm cảm nặng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

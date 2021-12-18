@@ -1,0 +1,43 @@
+{
+  "english": "hew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẽo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỉa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "chop or cut (something, especially wood or coal) with an axe, pick, or other tool.",
+      "definitions_ex_en": "we have finished hauling and hewing timber",
+      "definitions_ex_vn": "Chúng tôi đã kết thúc và gỗ hewing",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(Department of) Health, Education, and Welfare.",
+      "definitions_ex_en": "he was HEW secretary 1970–73",
+      "definitions_ex_vn": "anh ấy là thư ký hew 1970-73",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "belong",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be the property of.",
+      "definitions_ex_en": "the vehicle did not belong to him",
+      "definitions_ex_vn": "Chiếc xe không thuộc về anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be a member or part of (a particular group, organization, or class).",
+      "definitions_ex_en": "they belong to garden and bridge clubs",
+      "definitions_ex_vn": "Họ thuộc về các câu lạc bộ vườn và cầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a thing) be rightly placed in a specified position.",
+      "definitions_ex_en": "learning to place the blame where it belongs",
+      "definitions_ex_vn": "học cách đổ lỗi nơi nó thuộc về",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

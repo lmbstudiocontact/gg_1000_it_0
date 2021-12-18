@@ -1,0 +1,61 @@
+{
+  "english": "crazy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gió thổi mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "máy chạy không đều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhà cửa hư nát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rồ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "say đắm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mentally deranged, especially as manifested in a wild or aggressive way.",
+      "definitions_ex_en": "Stella went crazy and assaulted a visitor",
+      "definitions_ex_vn": "Stella đã phát điên và tấn công một vị khách",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "extremely enthusiastic.",
+      "definitions_ex_en": "I'm crazy about Cindy",
+      "definitions_ex_vn": "Tôi điên về Cindy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an angle) appearing absurdly out of place or in an unlikely position.",
+      "definitions_ex_en": "the monument leaned at a crazy angle",
+      "definitions_ex_vn": "Đài tưởng niệm dựa vào một góc điên",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

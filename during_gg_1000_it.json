@@ -1,0 +1,21 @@
+{
+  "english": "during",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong khi",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "trong khoảng",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "throughout the course or duration of (a period of time).",
+      "definitions_ex_en": "the restaurant is open during the day",
+      "definitions_ex_vn": "Nhà hàng mở cửa vào ban ngày",
+      "definitions_type_word": "preposition"
+    }
+  ]
+}

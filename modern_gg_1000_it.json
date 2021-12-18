@@ -1,0 +1,31 @@
+{
+  "english": "modern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tân thời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện đại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the present or recent times as opposed to the remote past.",
+      "definitions_ex_en": "the pace of modern life",
+      "definitions_ex_vn": "Tốc độ của cuộc sống hiện đại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who advocates or practices a departure from traditional styles or values.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

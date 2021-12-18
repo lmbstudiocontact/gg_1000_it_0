@@ -1,0 +1,21 @@
+{
+  "english": "distracted",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điên cuồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rối trí",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unable to concentrate because one's mind is preoccupied.",
+      "definitions_ex_en": "Charlotte seemed too distracted to give him much attention",
+      "definitions_ex_vn": "Charlotte dường như quá mất tập trung để cho anh ta nhiều sự chú ý",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

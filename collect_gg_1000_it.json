@@ -1,0 +1,79 @@
+{
+  "english": "collect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiệp nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nguyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gom góp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "góp nhặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hội hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sưu tầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tom góp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu góp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring or gather together (things, typically when scattered or widespread).",
+      "definitions_ex_en": "he went around the office collecting old coffee cups",
+      "definitions_ex_vn": "Anh đi vòng quanh văn phòng thu thập ly cà phê cũ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "call for and take away; fetch.",
+      "definitions_ex_en": "the children were collected from school",
+      "definitions_ex_vn": "Những đứa trẻ được thu thập từ trường học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "regain control of oneself, typically after a shock.",
+      "definitions_ex_en": "he paused for a moment to take a breath, to collect himself",
+      "definitions_ex_vn": "Anh dừng lại một lúc để hít một hơi, để thu thập chính mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "conclude; infer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a horse) to bring its hind legs further forward as it moves, thereby shortening the stride and increasing balance and impulsion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in church use) a short prayer, especially one assigned to a particular day or season.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

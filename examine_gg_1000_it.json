@@ -1,0 +1,61 @@
+{
+  "english": "examine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hạch miệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khảo sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khảo thí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy khẩu cung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thẩm tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thẩm vấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inspect (someone or something) in detail to determine their nature or condition; investigate thoroughly.",
+      "definitions_ex_en": "a doctor examined me and said I might need a caesarean",
+      "definitions_ex_vn": "Một bác sĩ kiểm tra tôi và nói rằng tôi có thể cần một ngưỡng thiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "test the knowledge or proficiency of (someone) by requiring them to answer questions or perform tasks.",
+      "definitions_ex_en": "the colleges set standards by examining candidates",
+      "definitions_ex_vn": "Các trường cao đẳng thiết lập các tiêu chuẩn bằng cách kiểm tra các ứng cử viên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "formally question (a witness) in court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

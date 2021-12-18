@@ -1,0 +1,31 @@
+{
+  "english": "everywhere",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khắp nơi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mọi nơi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vô hạn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in or to all places.",
+      "definitions_ex_en": "I've looked everywhere",
+      "definitions_ex_vn": "Tôi đã nhìn khắp nơi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "all places or directions.",
+      "definitions_ex_en": "everywhere was in darkness",
+      "definitions_ex_vn": "khắp nơi trong bóng tối",
+      "definitions_type_word": "noun"
+    }
+  ]
+}
